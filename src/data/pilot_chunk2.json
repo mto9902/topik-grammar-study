@@ -1,0 +1,65 @@
+[
+  {
+    "id": 205,
+    "level": "3-4",
+    "category": "Time & Sequence",
+    "grammar": "V-고 나니(까)",
+    "meaning": "Having done, I found that"
+  },
+  {
+    "id": 206,
+    "level": "3-4",
+    "category": "Time & Sequence",
+    "grammar": "V-다가",
+    "meaning": "While doing, then"
+  },
+  {
+    "id": 207,
+    "level": "3-4",
+    "category": "Time & Sequence",
+    "grammar": "V-다가(는)",
+    "meaning": "If you keep doing..."
+  },
+  {
+    "id": 208,
+    "level": "3-4",
+    "category": "Time & Sequence",
+    "grammar": "V-(으)면",
+    "meaning": "If / when"
+  },
+  {
+    "id": 209,
+    "level": "3-4",
+    "category": "Time & Sequence",
+    "grammar": "V-(으)려면",
+    "meaning": "If you want to"
+  },
+  {
+    "id": 210,
+    "level": "3-4",
+    "category": "Time & Sequence",
+    "grammar": "V-기 전에",
+    "meaning": "Before"
+  },
+  {
+    "id": 211,
+    "level": "3-4",
+    "category": "Time & Sequence",
+    "grammar": "V-는 동안",
+    "meaning": "During"
+  },
+  {
+    "id": 212,
+    "level": "3-4",
+    "category": "Time & Sequence",
+    "grammar": "V-(으)ㄹ 때",
+    "meaning": "When"
+  },
+  {
+    "id": 213,
+    "level": "3-4",
+    "category": "Time & Sequence",
+    "grammar": "V-(으)ㄴ 후에",
+    "meaning": "After"
+  }
+]

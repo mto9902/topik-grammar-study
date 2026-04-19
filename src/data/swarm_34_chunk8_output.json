@@ -1,0 +1,314 @@
+[
+  {
+    "id": 362,
+    "explanation": "N-을/를 비롯해(서) means 'including' or 'starting with.' It is used to introduce a group by naming its most prominent member first, then implying that others follow. Use it when you want to highlight one person, place, or thing as the first in a series.",
+    "rules": [
+      {
+        "title": "Consonant ending → + 을 비롯해(서)",
+        "description": "Attach 을 비롯해(서) to nouns ending in a consonant.",
+        "examples": [
+          {"korean": "학생", "breakdown": "학생 + 을 비롯해", "english": "김 교수를 비롯해 많은 연구원들이 참석했어요 — Professor Kim and many researchers attended."},
+          {"korean": "서울", "breakdown": "서울 + 을 비롯해서", "english": "서울을 비롯해서 전국에 비가 왔어요 — It rained across the whole country, starting with Seoul."}
+        ]
+      },
+      {
+        "title": "Vowel or ㄹ ending → + 를 비롯해(서)",
+        "description": "Attach 를 비롯해(서) to nouns ending in a vowel or ㄹ.",
+        "examples": [
+          {"korean": "교수", "breakdown": "교수 + 를 비롯해", "english": "이 교수를 비롯해 다른 교수님들도 동의하셨어요 — This professor and other professors also agreed."}
+        ]
+      }
+    ],
+    "notes": [
+      {"icon": "info", "title": "Common collocations", "text": "~을/를 비롯한 + noun is a common modifier form. Also frequently paired with 많은, 여러, or 다양한."},
+      {"icon": "check", "title": "서 is optional", "text": "비롯해 and 비롯해서 have the same meaning. The longer form feels slightly more connected in a sentence."}
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 363,
+    "explanation": "N-을/를 통해(서) means 'through' or 'by means of.' It is used to indicate a medium, channel, experience, or person that enables an action or result. Use it when describing how information, influence, or change passes from one point to another.",
+    "rules": [
+      {
+        "title": "Consonant ending → + 을 통해(서)",
+        "description": "Attach 을 통해(서) to nouns ending in a consonant.",
+        "examples": [
+          {"korean": "경험", "breakdown": "경험 + 을 통해", "english": "이번 프로젝트를 통해 많은 것을 배웠어요 — I learned a lot through this project."},
+          {"korean": "선생님", "breakdown": "선생님 + 을 통해", "english": "선생님을 통해 그 소식을 들었어요 — I heard that news through the teacher."}
+        ]
+      },
+      {
+        "title": "Vowel or ㄹ ending → + 를 통해(서)",
+        "description": "Attach 를 통해(서) to nouns ending in a vowel or ㄹ.",
+        "examples": [
+          {"korean": "인터넷", "breakdown": "인터넷 + 를 통해", "english": "인터넷을 통해서 세계 소식을 빨리 알 수 있어요 — We can quickly learn world news through the internet."}
+        ]
+      }
+    ],
+    "notes": [
+      {"icon": "info", "title": "Multiple meanings of 'through'", "text": "Can describe physical channels (door), media (TV, internet), experiences (경험을 통해), or people (친구를 통해)."},
+      {"icon": "close", "title": "Not for gratitude", "text": "Do not confuse with N- 덕분에, which expresses gratitude. 통해(서) is neutral and simply describes a pathway."}
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 367,
+    "explanation": "아무 -(이)나 means 'any' or 'no matter which.' It is used when all options are acceptable and the choice does not matter. Use it with a positive verb to express indifference or universal applicability.",
+    "rules": [
+      {
+        "title": "Consonant ending → 아무 N + 이나",
+        "description": "When the noun ends in a consonant, attach 이나 to 아무 + noun.",
+        "examples": [
+          {"korean": "아무 책", "breakdown": "아무 책 + 이나", "english": "아무 책이나 골라도 좋아요 — Any book you pick is fine."},
+          {"korean": "아무 문제", "breakdown": "아무 문제 + 이나", "english": "아무 문제나 풀 수 있어요 — I can solve any problem."}
+        ]
+      },
+      {
+        "title": "Vowel ending → 아무 N + 나",
+        "description": "When the noun ends in a vowel, attach 나 directly to 아무 + noun.",
+        "examples": [
+          {"korean": "아무 때", "breakdown": "아무 때 + 나", "english": "아무 때나 연락해도 돼요 — You can contact me anytime."}
+        ]
+      }
+    ],
+    "notes": [
+      {"icon": "check", "title": "Must use a positive verb", "text": "아무(이)나 requires a positive verb. For negative sentences, use 아무 -도 (ID 368)."},
+      {"icon": "info", "title": "Common contractions", "text": "아무거나 (anything), 아묘나 (anyone), 아무 데나 (anywhere) are extremely common contracted forms."}
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 368,
+    "explanation": "아무 -도 means 'any... at all' and is always paired with a negative verb. It is used to strongly negate a whole category, meaning 'not any X' or 'no X whatsoever.' Use it when you want to emphasize complete absence or denial.",
+    "rules": [
+      {
+        "title": "아무 + Noun + 도",
+        "description": "Attach 도 directly to 아무 + noun. There is no 이/가 alternation; 도 replaces the subject or object particle.",
+        "examples": [
+          {"korean": "아무 일", "breakdown": "아무 일 + 도", "english": "아무 일도 없었어요 — Nothing happened at all."},
+          {"korean": "아무 말", "breakdown": "아무 말 + 도", "english": "아무 말도 하지 마세요 — Don't say anything at all."},
+          {"korean": "아무 것", "breakdown": "아무 것 + 도", "english": "아무것도 못 먹었어요 — I couldn't eat anything at all."}
+        ]
+      }
+    ],
+    "notes": [
+      {"icon": "warning", "title": "Must be negative", "text": "아무 -도 MUST be followed by a negative expression: 안, 못, -지 않다, -지 못하다, 없다, 모른다, etc."},
+      {"icon": "group", "title": "Direct pair with ID 367", "text": "See ID 367 (아무 -(이)나) for the positive 'any' counterpart. They form a natural positive-negative pair."}
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 369,
+    "explanation": "V-는 수(가) 있다 means 'there is a way to' or 'it is possible to.' It expresses that a method or possibility exists for doing something. Use it when talking about feasibility, options, or solutions.",
+    "rules": [
+      {
+        "title": "All verbs → V stem + 는 수(가) 있다 / 없다",
+        "description": "Attach 는 수(가) 있다 or 없다 to any verb stem. The 가 is optional.",
+        "examples": [
+          {"korean": "가다", "breakdown": "가 + 는 수가 있다", "english": "문제를 해결하는 수가 있어요 — There is a way to solve the problem."},
+          {"korean": "먹다", "breakdown": "먹 + 는 수가 있다", "english": "그런 일은 피할 수가 없어요 — There's no way to avoid such a thing."},
+          {"korean": "만들다", "breakdown": "만들 + 는 수가 있다", "english": "이렇게 하는 수밖에 없어요 — There's no choice but to do it this way."}
+        ]
+      }
+    ],
+    "notes": [
+      {"icon": "info", "title": "Common fixed expression", "text": "-는 수가 없다 is a very common way to say 'impossible' or 'no way.' 수밖에 없다 means 'have no choice but to.'"},
+      {"icon": "group", "title": "Related grammar", "text": "See ID 369 for 'a way exists.' For general ability, -(으)ㄹ 수 있다 is more common in daily speech."}
+    ],
+    "exceptions": [
+      {"name": "ㄹ irregular", "description": "When the stem ends in ㄹ, drop ㄹ before ㄴ.", "example": "만들다 → 만드는 수가 있다, 살다 → 사는 수가 있다, 알다 → 아는 수가 있다"}
+    ]
+  },
+  {
+    "id": 370,
+    "explanation": "V-는 한 means 'as long as' or 'provided that.' It sets a condition that guarantees a certain result. Use it when the result clause is absolute, certain, or holds true under the stated condition.",
+    "rules": [
+      {
+        "title": "All verbs → V stem + 는 한",
+        "description": "Attach 는 한 to the verb stem. The second clause often contains an absolute expression.",
+        "examples": [
+          {"korean": "가다", "breakdown": "가 + 는 한", "english": "약속을 지키는 한 문제없어요 — As long as you keep your promise, there's no problem."},
+          {"korean": "알다", "breakdown": "알 + 는 한", "english": "내가 아는 한 그 사람은 착해요 — As far as I know, that person is kind."},
+          {"korean": "일하다", "breakdown": "일하 + 는 한", "english": "여기서 일하는 한 규칙을 지켜야 해요 — As long as you work here, you must follow the rules."}
+        ]
+      }
+    ],
+    "notes": [
+      {"icon": "info", "title": "Absolute result clause", "text": "The second clause often uses strong or absolute expressions like 괜찮다, 문제없다, 상관없다, 안 되다, or -아/어도 된다."},
+      {"icon": "check", "title": "As far as I know", "text": "With 알다 or 기억하다, 는 한 means 'as far as I know/remember,' a slightly different but very common usage."}
+    ],
+    "exceptions": [
+      {"name": "ㄹ irregular", "description": "When the stem ends in ㄹ, drop ㄹ before ㄴ.", "example": "알다 → 아는 한, 살다 → 사는 한"}
+    ]
+  },
+  {
+    "id": 371,
+    "explanation": "V-는 한편 means 'on one hand' or 'while also.' It is used to describe two actions, states, or roles that coexist, often contrasting or complementing each other. Use it when someone does two things simultaneously or when you want to present two sides of a situation.",
+    "rules": [
+      {
+        "title": "All verbs → V stem + 는 한편",
+        "description": "Attach 는 한편 to the verb stem. The clause can describe simultaneous actions or contrasting qualities.",
+        "examples": [
+          {"korean": "다니다", "breakdown": "다니 + 는 한편", "english": "그는 회사를 다니는 한편 학교에서도 공부해요 — He works at a company while also studying at school."},
+          {"korean": "배우다", "breakdown": "배우 + 는 한편", "english": "한국어를 배우는 한편 한국 문화도 관심 있어요 — While learning Korean, I'm also interested in Korean culture."},
+          {"korean": "울다", "breakdown": "울 + 는 한편", "english": "그는 울고 싶은 한편 웃고 싶기도 했어요 — On one hand he wanted to cry, and on the other he wanted to laugh."}
+        ]
+      }
+    ],
+    "notes": [
+      {"icon": "info", "title": "Also used with adjectives", "text": "Adjectives use A-ㄴ/은 한편: 비싼 한편 품질이 좋아요 — It's expensive, but on the other hand, the quality is good."},
+      {"icon": "group", "title": "More formal than -(으)면서", "text": "In casual speech, -(으)면서 is more common for simultaneous actions. 한편 feels more written or formal."}
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 372,
+    "explanation": "V-는 대신(에) means 'instead of' or 'in exchange for.' It is used when one action replaces another or when compensation is given for something. Use it to describe substitution or trade-offs between two actions.",
+    "rules": [
+      {
+        "title": "All verbs → V stem + 는 대신(에)",
+        "description": "Attach 는 대신(에) to the verb stem. 에 is optional.",
+        "examples": [
+          {"korean": "타다", "breakdown": "타 + 는 대신에", "english": "택시를 타는 대신에 버스를 탔어요 — I took the bus instead of a taxi."},
+          {"korean": "쉬다", "breakdown": "쉬 + 는 대신에", "english": "주말에 쉬는 대신에 평일에 쉴 거예요 — I'll rest on weekdays instead of the weekend."},
+          {"korean": "내다", "breakdown": "내 + 는 대신에", "english": "돈을 많이 내는 대신에 좋은 자리를 받았어요 — I paid a lot of money in exchange for a good seat."}
+        ]
+      }
+    ],
+    "notes": [
+      {"icon": "info", "title": "Two meanings", "text": "Simple substitution ('instead of doing X, do Y') and compensation ('in exchange for X, Y'). Context makes the meaning clear."},
+      {"icon": "check", "title": "Same or different subjects", "text": "The two clauses can share the same subject or have different subjects. Both are grammatically natural."}
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 373,
+    "explanation": "V-는 데 (좋다/나쁘다) means 'good/bad for doing X.' It is used to evaluate a place, tool, method, or situation in terms of how well it serves a particular purpose. Use it with evaluative adjectives like 좋다, 나쁘다, 편하다, or 불편하다.",
+    "rules": [
+      {
+        "title": "All verbs → V stem + 는 데",
+        "description": "Attach 는 데 to the verb stem, then follow with an evaluative adjective.",
+        "examples": [
+          {"korean": "쉬다", "breakdown": "쉬 + 는 데", "english": "이 호텔은 쉬는 데 좋아요 — This hotel is good for resting."},
+          {"korean": "배우다", "breakdown": "배우 + 는 데", "english": "이 책은 한국어를 배우는 데 도움이 돼요 — This book is helpful for learning Korean."},
+          {"korean": "일하다", "breakdown": "일하 + 는 데", "english": "이 프로그램은 일하는 데 편해요 — This program is convenient for working."}
+        ]
+      }
+    ],
+    "notes": [
+      {"icon": "info", "title": "Common adjective pairings", "text": "Frequently used with 좋다/나쁘다, 편하다/불편하다, 적합하다/부적합하다, and 도움이 되다."},
+      {"icon": "group", "title": "Evaluation grammar", "text": "Similar to -기에는 but more commonly used for general suitability of places, tools, or environments."}
+    ],
+    "exceptions": [
+      {"name": "ㄹ irregular", "description": "When the stem ends in ㄹ, drop ㄹ before ㄴ.", "example": "살다 → 사는 데, 알다 → 아는 데, 만들다 → 만드는 데"}
+    ]
+  },
+  {
+    "id": 374,
+    "explanation": "V-는 셈치다 means 'consider it as' or 'think of it as.' It is used to reframe a situation so that someone feels less pressure or sees things from a different perspective. Use it to encourage, comfort, or give permission to treat something casually.",
+    "rules": [
+      {
+        "title": "All verbs → V stem + 는 셈치다",
+        "description": "Attach 는 셈치다 to the verb stem. Common forms include 는 셈치고 and the imperative 는 셈쳐라.",
+        "examples": [
+          {"korean": "배우다", "breakdown": "배우 + 는 셈치고", "english": "배우는 셈치고 한번 해 보세요 — Think of it as learning and give it a try."},
+          {"korean": "먹다", "breakdown": "먹 + 는 셈치고", "english": "공짜로 먹는 셈치고 마음 편하게 드세요 — Consider it a free meal and eat comfortably."},
+          {"korean": "실수하다", "breakdown": "실수하 + 는 셈치고", "english": "실수하는 셈치고 다시 시작합시다 — Let's consider it a mistake and start over."}
+        ]
+      }
+    ],
+    "notes": [
+      {"icon": "info", "title": "Most common form", "text": "는 셈치고 is far more common in everyday speech than 는 셈치다. Use it to put someone at ease."},
+      {"icon": "warning", "title": "Imperative is rare", "text": "The imperative form 셈쳐라 is very rare in modern casual speech. Stick to 는 셈치고 or 는 셈치고요."}
+    ],
+    "exceptions": [
+      {"name": "ㄹ irregular", "description": "When the stem ends in ㄹ, drop ㄹ before ㄴ.", "example": "알다 → 아는 셈치다, 살다 → 사는 셈치다"}
+    ]
+  },
+  {
+    "id": 375,
+    "explanation": "V-는 편이다 and A-은 편이다 mean 'tend to' or 'relatively.' They are used to soften a statement, making it less absolute. Use them when you want to express a general tendency without sounding too forceful.",
+    "rules": [
+      {
+        "title": "Action verb → V stem + 는 편이다",
+        "description": "Attach 는 편이다 to action verb stems.",
+        "examples": [
+          {"korean": "먹다", "breakdown": "먹 + 는 편이다", "english": "저는 매운 음식을 잘 먹는 편이에요 — I tend to eat spicy food well."},
+          {"korean": "알다", "breakdown": "알 + 는 편이다", "english": "그 사람은 한국 역사를 잘 아는 편이에요 — He tends to know Korean history well."}
+        ]
+      },
+      {
+        "title": "Descriptive verb → A stem + 은 편이다",
+        "description": "Attach 은 편이다 to descriptive verb (adjective) stems.",
+        "examples": [
+          {"korean": "싸다", "breakdown": "싸 + 은 편이다", "english": "이 식당은 가격이 싼 편이에요 — This restaurant is relatively cheap."},
+          {"korean": "어렵다", "breakdown": "어렵 + 은 편이다", "english": "한국어는 발음이 어려운 편이에요 — Korean tends to have difficult pronunciation."},
+          {"korean": "길다", "breakdown": "길 + 은 편이다", "english": "여기서 학교까지 긴 편이에요 — It's relatively far from here to school."}
+        ]
+      }
+    ],
+    "notes": [
+      {"icon": "info", "title": "Adverb pairings", "text": "Frequently used with 꽤, 상당히, 그렇게, or 별로 to strengthen or weaken the statement."},
+      {"icon": "close", "title": "Not for one-time events", "text": "Cannot be used with one-time event verbs like 죽다, 태어나다, or 결혼하다. It describes general tendencies only."}
+    ],
+    "exceptions": [
+      {"name": "ㄹ irregular", "description": "When the stem ends in ㄹ, drop ㄹ before ㄴ.", "example": "알다 → 아는 편이다, 살다 → 사는 편이다, 길다 → 긴 편이다, 멀다 → 먼 편이다"},
+      {"name": "ㅂ irregular", "description": "When the adjective stem ends in ㅂ, change ㅂ to 우 before vowel-initial endings.", "example": "춥다 → 추운 편이다, 덥다 → 더운 편이다, 어렵다 → 어려운 편이다"},
+      {"name": "르 irregular", "description": "When the stem ends in 르, change 르 to ㄹㄹ.", "example": "고르다 → 고른 편이다, 빠르다 → 빠른 편이다"},
+      {"name": "ㅅ irregular", "description": "When the stem ends in ㅅ, drop ㅅ before vowel-initial endings.", "example": "낫다 → 나은 편이다"},
+      {"name": "으 drop", "description": "When the stem ends in ㅡ, drop ㅡ and add the appropriate vowel.", "example": "예쁘다 → 예쁜 편이다, 나쁘다 → 나쁜 편이다"}
+    ]
+  },
+  {
+    "id": 376,
+    "explanation": "A/V-았/었/였던 것 같다 means 'I think it was' or 'it seems like it was.' It is used when reflecting on past events, states, or experiences based on memory or indirect evidence. Use it to express a tentative recollection or guess about the past.",
+    "rules": [
+      {
+        "title": "Past form + 던 것 같다",
+        "description": "Form the past tense of the verb or adjective, then attach 던 것 같다. There is no 받침 distinction at the 던 attachment point because the past form already ends in 았/었/였.",
+        "examples": [
+          {"korean": "오다", "breakdown": "오 + 았던 것 같다", "english": "어제 비가 왔던 것 같아요 — I think it rained yesterday."},
+          {"korean": "학생이다", "breakdown": "학생이 + 었던 것 같다", "english": "그 사람은 학생이었던 것 같아요 — I think that person was a student."},
+          {"korean": "있다", "breakdown": "있 + 었던 것 같다", "english": "옛날에 여기에 공원이 있었던 것 같아요 — I think there used to be a park here."}
+        ]
+      }
+    ],
+    "notes": [
+      {"icon": "info", "title": "Memory-based reflection", "text": "This form is based on memory or reflection, not current observation. Use it when you are not entirely sure about a past fact."},
+      {"icon": "close", "title": "Different from -나 보다", "text": "-았/었나 보다 is based on current evidence and observation. -았/었던 것 같다 is based on memory or indirect recollection."}
+    ],
+    "exceptions": [
+      {"name": "ㄷ irregular", "description": "When the stem ends in ㄷ, change ㄷ to ㄹ before vowel-initial endings in the past form.", "example": "걷다 → 걸었던 것 같다, 듣다 → 들었던 것 같다"},
+      {"name": "ㅂ irregular", "description": "When the stem ends in ㅂ, change ㅂ to 우 before vowel-initial endings in the past form.", "example": "춥다 → 추웠던 것 같다, 덥다 → 더웠던 것 같다"},
+      {"name": "르 irregular", "description": "When the stem ends in 르, add an extra ㄹ and conjugate with 라/러.", "example": "고르다 → 골랐던 것 같다, 빠르다 → 빨랐던 것 같다"},
+      {"name": "ㅅ irregular", "description": "When the stem ends in ㅅ, drop ㅅ before vowel-initial endings in the past form.", "example": "낫다 → 나았던 것 같다"},
+      {"name": "으 drop", "description": "When the stem ends in ㅡ, drop ㅡ and add the appropriate past tense vowel.", "example": "예쁘다 → 예뻤던 것 같다, 나쁘다 → 나빴던 것 같다"}
+    ]
+  },
+  {
+    "id": 377,
+    "explanation": "V-았/었으면 하다 means 'I wish that' or 'I hope that.' It is used to express a desire about someone else's action or about a situation the speaker cannot directly control. Use it when making a polite wish or expressing hope for a future outcome.",
+    "rules": [
+      {
+        "title": "All verbs → Past form + 으면 하다",
+        "description": "Form the past tense of the verb, then attach 으면 하다. Despite the past-tense shape, the meaning is about a present or future wish.",
+        "examples": [
+          {"korean": "나다", "breakdown": "나 + 았으면 하다", "english": "빨리 나았으면 해요 — I hope you get well soon."},
+          {"korean": "오다", "breakdown": "오 + 지 않았으면 하다", "english": "내일 비가 안 왔으면 해요 — I hope it doesn't rain tomorrow."},
+          {"korean": "행복하다", "breakdown": "행복하 + 였으면 하다", "english": "모두가 행복했으면 해요 — I hope everyone is happy."}
+        ]
+      }
+    ],
+    "notes": [
+      {"icon": "info", "title": "Wish about others or situations", "text": "This form is almost always used for wishes about other people or external situations. For your own intentions, use -(으)ㄹ게요 or -(으)려고 해요."},
+      {"icon": "check", "title": "Common endings", "text": "-았/었으면 해요 and -았/었으면 좋겠어요 are the most natural everyday forms. They are gentle and indirect."}
+    ],
+    "exceptions": [
+      {"name": "ㄷ irregular", "description": "When the stem ends in ㄷ, change ㄷ to ㄹ before vowel-initial endings in the past form.", "example": "걷다 → 걸었으면 하다, 듣다 → 들었으면 하다"},
+      {"name": "ㅂ irregular", "description": "When the stem ends in ㅂ, change ㅂ to 우 before vowel-initial endings in the past form.", "example": "춥다 → 추웠으면 하다, 덥다 → 더웠으면 하다"},
+      {"name": "르 irregular", "description": "When the stem ends in 르, add an extra ㄹ and conjugate with 라/러.", "example": "고르다 → 골랐으면 하다, 빠르다 → 빨랐으면 하다"},
+      {"name": "ㅅ irregular", "description": "When the stem ends in ㅅ, drop ㅅ before vowel-initial endings in the past form.", "example": "낫다 → 나았으면 하다"},
+      {"name": "으 drop", "description": "When the stem ends in ㅡ, drop ㅡ and add the appropriate past tense vowel.", "example": "예쁘다 → 예뻤으면 하다, 나쁘다 → 나빴으면 하다"}
+    ]
+  }
+]

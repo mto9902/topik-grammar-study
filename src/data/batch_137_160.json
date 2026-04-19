@@ -1,0 +1,1018 @@
+[
+{
+"id": 137,
+"explanation": "-네요 is an exclamation ending. Use it when you are expressing mild surprise, realization, or admiration about something you are directly experiencing or noticing in the present moment.",
+"rules":[
+{
+"title": "Verb/Adjective Stem + 네요",
+"description": "Attach 네요 directly to the stem, regardless of vowels or consonants.",
+"examples":[
+{
+"korean": "맛있다",
+"breakdown": "맛있 + 네요",
+"english": "와, 이 케이크 정말 맛있네요! — Wow, this cake is really delicious! (Tasting it right now)"
+},
+{
+"korean": "비싸다",
+"breakdown": "비싸 + 네요",
+"english": "생각보다 비싸네요 — It is more expensive than I thought. (Looking at the price tag)"
+}
+]
+}
+],
+"notes":[
+{
+"icon": "check",
+"title": "Direct experience only",
+"text": "You can only use -네요 for things you are perceiving yourself right now. You cannot use it for things you merely heard about from someone else."
+},
+{
+"icon": "group",
+"title": "Agreeing with someone",
+"text": "If someone says '오늘 날씨 좋죠?' (The weather is nice today, right?), you can agree by saying '네, 정말 좋네요!' (Yes, it really is!)."
+}
+],
+"exceptions":[
+{
+"name": "ㄹ drop",
+"description": "If the stem ends in ㄹ, the ㄹ is dropped before adding 네요.",
+"example": "멀다 (far) → 머네요 (It is far!)."
+}
+]
+},
+{
+"id": 138,
+"explanation": "-군요 and -(는)구나 are exclamation endings used when you discover a new fact. While -네요 is for direct sensory experience, you use this when you suddenly realize something, often after hearing new information or figuring something out.",
+"rules":[
+{
+"title": "Adjectives → + 군요 / 구나",
+"description": "Attach 군요 (polite) or 구나 (casual) directly to adjective stems.",
+"examples":[
+{
+"korean": "비싸다",
+"breakdown": "비싸 + 군요",
+"english": "아, 이 시계는 아주 비싸군요 — Ah, so this watch is very expensive (I just realized)."
+}
+]
+},
+{
+"title": "Verbs → + 는군요 / 는구나",
+"description": "Attach 는군요 (polite) or 는구나 (casual) to action verb stems.",
+"examples":[
+{
+"korean": "살다",
+"breakdown": "사 + 는군요",
+"english": "한국에 사는군요! — Oh, so you live in Korea! (I just found out)."
+}
+]
+},
+{
+"title": "Past Tense → 았/었군요",
+"description": "For past tense, attach 군요/구나 to the past tense marker (for both verbs and adjectives).",
+"examples":[
+{
+"korean": "하다",
+"breakdown": "했 + 군요",
+"english": "어제 야근했군요 — Ah, I see you worked late yesterday."
+}
+]
+}
+],
+"notes":[
+{
+"icon": "info",
+"title": "Talking to yourself",
+"text": "-(는)구나 is extremely common when muttering to yourself upon realizing something. (e.g., 비가 오는구나... - Ah, it's raining...)."
+},
+{
+"icon": "group",
+"title": "Nouns",
+"text": "For nouns, use (이)군요 / (이)구나. 학생이군요 (Ah, you're a student)."
+}
+],
+"exceptions":[
+{
+"name": "ㄹ drop (Verbs)",
+"description": "Action verbs ending in ㄹ drop the ㄹ before 는군요.",
+"example": "만들다 → 만드는군요 (Ah, you make it)."
+}
+]
+},
+{
+"id": 139,
+"explanation": "-지요? (often shortened to -죠?) is a tag question ending meaning 'right?' or 'isn't it?'. Use it when you are already pretty sure of the answer and just want the listener to agree or confirm.",
+"rules":[
+{
+"title": "Verb/Adjective Stem + 지요?",
+"description": "Attach 지요? or 죠? directly to the stem.",
+"examples":[
+{
+"korean": "춥다",
+"breakdown": "춥 + 지요",
+"english": "오늘 날씨가 춥지요? — The weather is cold today, isn't it?"
+},
+{
+"korean": "알다",
+"breakdown": "알 + 죠",
+"english": "제 이름 알죠? — You know my name, right?"
+}
+]
+},
+{
+"title": "Past/Future + 지요?",
+"description": "Attach 지요? after tense markers.",
+"examples":[
+{
+"korean": "가다",
+"breakdown": "갔 + 죠",
+"english": "어제 학교에 갔죠? — You went to school yesterday, right?"
+}
+]
+}
+],
+"notes":[
+{
+"icon": "check",
+"title": "Softening a statement",
+"text": "Even when not asking a question, Koreans end sentences with -죠 to sound friendly, cooperative, and soft (e.g., 제가 할게요 -> 제가 하죠 = Sure, I'll do it)."
+},
+{
+"icon": "group",
+"title": "Nouns",
+"text": "For nouns, use (이)지요? / (이)죠? (e.g., 학생이죠? = You're a student, right?)."
+}
+],
+"exceptions":[]
+},
+{
+"id": 140,
+"explanation": "-(ㄴ/는)가(요)? is a soft, indirect way to ask a question. Instead of asking directly with -아/어요?, using this makes you sound gentler, more polite, and less demanding.",
+"rules":[
+{
+"title": "Verbs → + 는가(요)?",
+"description": "Attach 는가요 to action verbs.",
+"examples":[
+{
+"korean": "오다",
+"breakdown": "오 + 는가요",
+"english": "언제 오시는가요? — When are you coming? (Very soft)"
+}
+]
+},
+{
+"title": "Adjectives → + (으)ㄴ가(요)?",
+"description": "Attach ㄴ가요 to vowel stems, and 은가요 to consonant stems.",
+"examples":[
+{
+"korean": "바쁘다",
+"breakdown": "바쁘 + ㄴ가요",
+"english": "오늘 많이 바쁜가요? — Are you very busy today?"
+},
+{
+"korean": "작다",
+"breakdown": "작 + 은가요",
+"english": "사이즈가 작은가요? — Is the size small?"
+}
+]
+}
+],
+"notes":[
+{
+"icon": "info",
+"title": "Casual vs Polite",
+"text": "Drop the 요 to use it with friends or when wondering to yourself: 이게 진짜 좋은가? (Is this really good?)."
+},
+{
+"icon": "group",
+"title": "Interchangeable with -나요?",
+"text": "-나요? is another soft question ending that is mostly used for action verbs, but is largely interchangeable with -는가요 in modern Korean."
+}
+],
+"exceptions":[]
+},
+{
+"id": 141,
+"explanation": "-잖아(요) means 'you know...' or 'come on, as you already know...'. Use it to remind the listener of a shared fact, or to gently correct them by pointing out the obvious.",
+"rules":[
+{
+"title": "Stem + 잖아요",
+"description": "Attach 잖아요 directly to the verb or adjective stem.",
+"examples":[
+{
+"korean": "예쁘다",
+"breakdown": "예쁘 + 잖아요",
+"english": "이 옷이 예쁘잖아요 — Come on, this dress is pretty (and you know it)."
+},
+{
+"korean": "비싸다",
+"breakdown": "비쌌 + 잖아요",
+"english": "어제는 비쌌잖아요 — It was expensive yesterday, remember?"
+}
+]
+}
+],
+"notes":[
+{
+"icon": "close",
+"title": "Watch your tone",
+"text": "If spoken aggressively, -잖아요 can sound annoyed, like 'I TOLD you!'. If spoken softly, it's just a friendly reminder."
+},
+{
+"icon": "check",
+"title": "Origin",
+"text": "It comes from -지 않아요 (isn't it?), but contracted to 잖아요 over time to form its own unique nuance."
+}
+],
+"exceptions":[]
+},
+{
+"id": 142,
+"explanation": "-(ㄴ/는)다고(요)? is used to ask for clarification or express surprise at what someone just said. It translates to 'Are you saying that...?' or 'You mean...?'",
+"rules":[
+{
+"title": "Action Verbs → + ㄴ/는다고요?",
+"description": "Attach ㄴ다고요? (vowel) or 는다고요? (consonant) to action verbs.",
+"examples":[
+{
+"korean": "가다",
+"breakdown": "가 + ㄴ다고요",
+"english": "내일 미국에 간다고요? — You mean you're going to the US tomorrow?!"
+},
+{
+"korean": "먹다",
+"breakdown": "먹 + 는다고요",
+"english": "벌써 다 먹는다고요? — You're saying you're eating it all already?"
+}
+]
+},
+{
+"title": "Adjectives & Past Tense → + 다고요?",
+"description": "Attach 다고요? directly to adjectives and past tense markers.",
+"examples":[
+{
+"korean": "바쁘다",
+"breakdown": "바쁘 + 다고요",
+"english": "오늘 바쁘다고요? — Are you saying you're busy today?"
+},
+{
+"korean": "끝나다",
+"breakdown": "끝났 + 다고요",
+"english": "이미 끝났다고요? — You mean it's already finished?!"
+}
+]
+}
+],
+"notes":[
+{
+"icon": "check",
+"title": "Indirect quotation",
+"text": "This grammar is just a question form of the indirect quoting rule (He said that...). You are literally quoting them back to themselves as a question."
+}
+],
+"exceptions":[]
+},
+{
+"id": 143,
+"explanation": "-거든(요) is attached to the end of a sentence to provide a reason or add background information that the listener doesn't know yet. It loosely translates to 'You see...' or 'Because...'.",
+"rules":[
+{
+"title": "Stem + 거든요",
+"description": "Attach 거든요 directly to the stem, regardless of vowels or consonants.",
+"examples":[
+{
+"korean": "바쁘다",
+"breakdown": "바쁘 + 거든요",
+"english": "지금 갈 수 없어요. 많이 바쁘거든요 — I can't go right now. I'm very busy, you see."
+},
+{
+"korean": "먹다",
+"breakdown": "먹었 + 거든요",
+"english": "배 안 고파요. 아까 먹었거든요 — I'm not hungry. I ate earlier, because/you see."
+}
+]
+}
+],
+"notes":[
+{
+"icon": "close",
+"title": "Don't use for shared facts",
+"text": "Only use this when giving new information the listener is unaware of. If they already know it, use -(으)니까 or -잖아요 instead."
+},
+{
+"icon": "warning",
+"title": "Can sound defensive",
+"text": "If overused or said with a sharp tone, it can sound defensive or annoyed, like 'Well, excuse me, but I did it already'."
+}
+],
+"exceptions":[]
+},
+{
+"id": 144,
+"explanation": "-자 is the casual (반말) way to say 'Let's'. It is ONLY used with close friends, people younger than you, or family members. Never use this with a boss, elder, or stranger.",
+"rules":[
+{
+"title": "Verb Stem + 자",
+"description": "Attach 자 directly to the action verb stem.",
+"examples":[
+{
+"korean": "가다",
+"breakdown": "가 + 자",
+"english": "빨리 가자! — Let's go quickly!"
+},
+{
+"korean": "먹다",
+"breakdown": "먹 + 자",
+"english": "점심 먹자 — Let's eat lunch."
+}
+]
+}
+],
+"notes":[
+{
+"icon": "close",
+"title": "No adjectives",
+"text": "You cannot use -자 with adjectives. You can't say '예쁘자' (Let's be pretty)."
+},
+{
+"icon": "group",
+"title": "Negative form",
+"text": "To say 'Let's not', use -지 말자. (e.g., 오늘은 만나지 말자 - Let's not meet today)."
+}
+],
+"exceptions":[]
+},
+{
+"id": 145,
+"explanation": "-(으)ㅂ시다 is the formal way to say 'Let's'. It is used in groups, meetings, or public situations where you are suggesting a joint action.",
+"rules":[
+{
+"title": "Vowel ending → + ㅂ시다",
+"description": "Attach ㅂ시다 to vowel stems.",
+"examples":[
+{
+"korean": "시작하다",
+"breakdown": "시작하 + ㅂ시다",
+"english": "회의를 시작합시다 — Let's start the meeting."
+}
+]
+},
+{
+"title": "Consonant ending → + 읍시다",
+"description": "Attach 읍시다 to consonant stems.",
+"examples":[
+{
+"korean": "먹다",
+"breakdown": "먹 + 읍시다",
+"english": "같이 밥을 먹읍시다 — Let's eat a meal together."
+}
+]
+}
+],
+"notes":[
+{
+"icon": "close",
+"title": "Not for elders or bosses",
+"text": "Even though it is formal, -(으)ㅂ시다 sounds mildly authoritative. Do not say '갑시다' to your boss or grandparents. Instead, use -(으)실까요? or -아/어요."
+},
+{
+"icon": "check",
+"title": "Negative form",
+"text": "To say 'Let's not', use -지 맙시다. (e.g., 싸우지 맙시다 - Let's not fight)."
+}
+],
+"exceptions":[
+{
+"name": "ㄹ drop",
+"description": "Verbs ending in ㄹ drop the ㄹ and take ㅂ시다.",
+"example": "만들다 → 만듭시다 (Let's make it)."
+}
+]
+},
+{
+"id": 146,
+"explanation": "-(으)ㄹ까요? means 'Shall we?' or 'I wonder...'. Use it to suggest doing something together, ask for someone's opinion, or wonder out loud.",
+"rules":[
+{
+"title": "Vowel or ㄹ ending → + ㄹ까요",
+"description": "Attach ㄹ까요 to stems ending in a vowel or ㄹ.",
+"examples":[
+{
+"korean": "가다",
+"breakdown": "가 + ㄹ까요",
+"english": "내일 같이 영화 볼까요? — Shall we go watch a movie together tomorrow?"
+},
+{
+"korean": "열다",
+"breakdown": "열 + ㄹ까요",
+"english": "창문을 열까요? — Shall I open the window?"
+}
+]
+},
+{
+"title": "Consonant ending → + 을까요",
+"description": "Attach 을까요 to consonant stems.",
+"examples":[
+{
+"korean": "먹다",
+"breakdown": "먹 + 을까요",
+"english": "오늘 점심은 뭐 먹을까요? — What shall we eat for lunch today?"
+}
+]
+}
+],
+"notes":[
+{
+"icon": "info",
+"title": "Wondering out loud",
+"text": "When used with 3rd person subjects or adjectives, it means 'I wonder if...'. (e.g., 내일 비가 올까요? = I wonder if it will rain tomorrow?)."
+}
+],
+"exceptions":[]
+},
+{
+"id": 147,
+"explanation": "-(으)ㄹ래요? is a friendly, conversational way to ask 'Do you want to...?' or state your own intent 'I will...'. It is softer than -(으)ㄹ 거예요 but should only be used with peers or close acquaintances.",
+"rules":[
+{
+"title": "Vowel or ㄹ ending → + ㄹ래요",
+"description": "Attach ㄹ래요 to stems ending in a vowel or ㄹ.",
+"examples":[
+{
+"korean": "마시다",
+"breakdown": "마시 + ㄹ래요",
+"english": "커피 마실래요? — Do you want to drink coffee?"
+},
+{
+"korean": "자다",
+"breakdown": "자 + ㄹ래요",
+"english": "저는 피곤해서 먼저 잘래요 — I'm tired, so I will sleep first."
+}
+]
+},
+{
+"title": "Consonant ending → + 을래요",
+"description": "Attach 을래요 to consonant stems.",
+"examples":[
+{
+"korean": "먹다",
+"breakdown": "먹 + 을래요",
+"english": "뭐 먹을래요? — What do you want to eat?"
+}
+]
+}
+],
+"notes":[
+{
+"icon": "group",
+"title": "1st person vs 2nd person",
+"text": "In a statement, the subject must be 'I' (I will do this). In a question, the subject must be 'You' (Do you want to do this?)."
+},
+{
+"icon": "close",
+"title": "Too casual for bosses",
+"text": "Do not ask your boss '커피 마실래요?'. Use '커피 드시겠어요?' instead."
+}
+],
+"exceptions":[]
+},
+{
+"id": 148,
+"explanation": "-아/어도 돼요? means 'Is it okay if I...?' or 'May I...?'. It is the standard structure for asking permission politely.",
+"rules":[
+{
+"title": "ㅏ or ㅗ vowels → + 아도 돼요?",
+"description": "Attach 아도 돼요 to vowel stems ending in ㅏ or ㅗ.",
+"examples":[
+{
+"korean": "앉다",
+"breakdown": "앉 + 아도 돼요",
+"english": "여기 앉아도 돼요? — May I sit here?"
+}
+]
+},
+{
+"title": "Other vowels → + 어도 돼요?",
+"description": "Attach 어도 돼요 for other vowels.",
+"examples":[
+{
+"korean": "열다",
+"breakdown": "열 + 어도 돼요",
+"english": "창문을 열어도 돼요? — Is it okay if I open the window?"
+}
+]
+},
+{
+"title": "하다 → 합도 돼요?",
+"description": "하다 verbs become 합도 돼요.",
+"examples":[
+{
+"korean": "질문하다",
+"breakdown": "질문해 + 도 돼요",
+"english": "하나 질문해도 돼요? — May I ask one question?"
+}
+]
+}
+],
+"notes":[
+{
+"icon": "check",
+"title": "Granting permission",
+"text": "To reply yes, just remove the question mark: 네, 앉아도 돼요 (Yes, you may sit)."
+},
+{
+"icon": "info",
+"title": "Review",
+"text": "This relies on the grammar -아/어도 (even if) + 되다 (to be okay/possible). Literally: 'Even if I do this, is it okay?'"
+}
+],
+"exceptions":[]
+},
+{
+"id": 149,
+"explanation": "Korean question words (누구, 무엇, 어디, 언제, 왜, 어떻게, 어느, 몇) behave just like nouns. They can take particles like 이/가, 은/는, and 을/를 depending on their role in the sentence.",
+"rules":[
+{
+"title": "누구 (Who)",
+"description": "When used as a subject, 누구 + 가 becomes 누가. When used as an object, it's 누구를.",
+"examples":[
+{
+"korean": "누구",
+"breakdown": "누구 + 가 = 누가",
+"english": "누가 피자를 먹었어요? — Who ate the pizza?"
+}
+]
+},
+{
+"title": "무엇 / 뭐 (What)",
+"description": "무엇 is formal, 뭐 is conversational.",
+"examples":[
+{
+"korean": "뭐",
+"breakdown": "뭐 + 를 = 뭘",
+"english": "뭘 보고 있어요? — What are you looking at?"
+}
+]
+},
+{
+"title": "어디 / 언제 / 왜 (Where, When, Why)",
+"description": "Used directly in the sentence, often without particles.",
+"examples":[
+{
+"korean": "어디",
+"breakdown": "어디",
+"english": "어디 가요? — Where are you going?"
+},
+{
+"korean": "언제",
+"breakdown": "언제",
+"english": "언제 도착해요? — When do you arrive?"
+}
+]
+}
+],
+"notes":[
+{
+"icon": "warning",
+"title": "어느 vs 무슨",
+"text": "어느 (Which) is used to choose between specific options (어느 나라 - which country). 무슨 (What kind of) is open-ended (무슨 책 - what kind of book)."
+},
+{
+"icon": "check",
+"title": "몇 (How many)",
+"text": "몇 must always be followed by a counter word. 몇 시 (what time), 몇 명 (how many people)."
+}
+],
+"exceptions":[]
+},
+{
+"id": 150,
+"explanation": "These are indefinite pronouns used to mean 'anybody', 'nobody', 'everybody', etc. They are created by combining question words with particles like -나 or -도.",
+"rules":[
+{
+"title": "Question Word + (이)나 (Anyone, Anything)",
+"description": "Adding -(이)나 creates a positive, inclusive meaning ('any-').",
+"examples":[
+{
+"korean": "누구",
+"breakdown": "누구 + 나",
+"english": "누구나 할 수 있어요 — Anyone can do it."
+},
+{
+"korean": "아무",
+"breakdown": "아무 + 데나",
+"english": "아무 데나 앉으세요 — Sit anywhere."
+}
+]
+},
+{
+"title": "Question Word + 도 (No one, Nothing)",
+"description": "Adding -도 MUST be followed by a negative verb (없다, 안, 못).",
+"examples":[
+{
+"korean": "아무",
+"breakdown": "아무 + 도 + 없다",
+"english": "방에 아무도 없어요 — There is nobody in the room."
+},
+{
+"korean": "무엇",
+"breakdown": "아무것 + 도",
+"english": "아무것도 안 먹었어요 — I didn't eat anything."
+}
+]
+}
+],
+"notes":[
+{
+"icon": "close",
+"title": "Never use 아무도 with positives",
+"text": "You cannot say '아무도 왔어요' to mean someone came. 아무도 requires a negative verb."
+},
+{
+"icon": "info",
+"title": "모든 (Every)",
+"text": "모든 is used to mean 'every' or 'all' and must precede a noun. 모든 사람 (everyone), 모든 것 (everything)."
+}
+],
+"exceptions":[]
+},
+{
+"id": 151,
+"explanation": "-아/어지다 transforms an active verb into a passive verb. It means an action is 'being done' or 'gets done' to the subject, without explicitly stating who is doing it.",
+"rules":[
+{
+"title": "ㅏ or ㅗ vowels → + 아지다",
+"description": "Attach 아지다 to action verbs with ㅏ or ㅗ.",
+"examples":[
+{
+"korean": "자르다",
+"breakdown": "잘라 + 지다",
+"english": "종이가 잘라졌어요 — The paper got cut."
+}
+]
+},
+{
+"title": "Other vowels → + 어지다",
+"description": "Attach 어지다 to other vowels.",
+"examples":[
+{
+"korean": "만들다",
+"breakdown": "만들 + 어지다",
+"english": "이 가방은 이탈리아에서 만들어졌어요 — This bag was made in Italy."
+},
+{
+"korean": "끊다",
+"breakdown": "끊 + 어지다",
+"english": "전화가 끊어졌어요 — The phone call got disconnected."
+}
+]
+}
+],
+"notes":[
+{
+"icon": "warning",
+"title": "Adjectives vs Verbs",
+"text": "Remember ID 131! When -아/어지다 attaches to an ADJECTIVE (예뻐지다), it means 'to become'. When attached to a VERB (만들어지다), it creates the passive voice."
+},
+{
+"icon": "check",
+"title": "Usually past tense",
+"text": "Because passive states are usually observed after they happen, this is mostly used in the past tense (-아/어졌어요)."
+}
+],
+"exceptions":[]
+},
+{
+"id": 152,
+"explanation": "-게 하다 is the causative form. It means 'to make someone do something' or 'to let/allow someone to do something'. You are the outside force causing the action.",
+"rules":[
+{
+"title": "Verb Stem + 게 하다",
+"description": "Attach 게 하다 directly to the action verb stem.",
+"examples":[
+{
+"korean": "입다",
+"breakdown": "입 + 게 하다",
+"english": "엄마가 아이에게 따뜻한 옷을 입게 했어요 — The mom made (or let) the child wear warm clothes."
+},
+{
+"korean": "기다리다",
+"breakdown": "기다리 + 게 하다",
+"english": "오래 기다리게 해서 죄송합니다 — I'm sorry for making you wait a long time."
+}
+]
+}
+],
+"notes":[
+{
+"icon": "group",
+"title": "Make vs Let",
+"text": "Depending on the context, this can mean forcing someone to do it, or giving them permission to do it. The context clarifies which one it is."
+},
+{
+"icon": "info",
+"title": "vs -게 되다",
+"text": "-게 하다 means YOU caused it. -게 되다 (ID 130) means FATE or circumstances caused it to happen."
+}
+],
+"exceptions":[]
+},
+{
+"id": 153,
+"explanation": "These are short, irregular suffixes (-이-, -히-, -리-, -기-) inserted into the middle of a verb to make it either Passive (to be done) or Causative (to make someone do). They must be memorized individually.",
+"rules":[
+{
+"title": "Passive Examples (To be done)",
+"description": "The subject receives the action.",
+"examples":[
+{
+"korean": "보다 (see)",
+"breakdown": "보 + 이 + 다",
+"english": "산이 보여요 — The mountain is seen / can be seen."
+},
+{
+"korean": "열다 (open)",
+"breakdown": "열 + 리 + 다",
+"english": "문이 열렸어요 — The door opened (was opened)."
+}
+]
+},
+{
+"title": "Causative Examples (Make someone do)",
+"description": "The subject forces or helps someone else do the action.",
+"examples":[
+{
+"korean": "먹다 (eat)",
+"breakdown": "먹 + 이 + 다",
+"english": "아기에게 밥을 먹였어요 — I fed (made eat) the baby."
+},
+{
+"korean": "앉다 (sit)",
+"breakdown": "앉 + 히 + 다",
+"english": "손님을 의자에 앉혔어요 — I seated (made sit) the guest."
+}
+]
+}
+],
+"notes":[
+{
+"icon": "close",
+"title": "No strict rules",
+"text": "There is no phonetic rule to guess whether a verb takes 이, 히, 리, or 기. You simply have to learn these as new vocabulary words."
+}
+],
+"exceptions":[]
+},
+{
+"id": 154,
+"explanation": "-도록 하다 means 'to make sure that you do...' or 'to try your best to do...'. It is a formal, polite way to instruct someone or to promise that you will do something.",
+"rules":[
+{
+"title": "Verb Stem + 도록 하다",
+"description": "Attach 도록 하다 to the action verb stem.",
+"examples":[
+{
+"korean": "늦다",
+"breakdown": "늦지 않 + 도록 하다",
+"english": "내일은 늦지 않도록 하세요 — Please make sure you are not late tomorrow."
+},
+{
+"korean": "끝내다",
+"breakdown": "끝내 + 도록 하다",
+"english": "오늘까지 끝내록 하겠습니다 — I will make sure to finish it by today."
+}
+]
+}
+],
+"notes":[
+{
+"icon": "group",
+"title": "Polite commands",
+"text": "Saying -도록 하세요 is softer and more professional than just saying -(으)세요. You will hear doctors say 약을 잘 드록 하세요 (Make sure to take your medicine)."
+}
+],
+"exceptions":[]
+},
+{
+"id": 155,
+"explanation": "-시키다 is a causative verb ending attached primarily to noun-based verbs. It replaces '하다' to mean 'to make someone do [Noun]' or 'to order[Noun]'.",
+"rules":[
+{
+"title": "Noun + 시키다",
+"description": "Replace 하다 with 시키다.",
+"examples":[
+{
+"korean": "공부하다",
+"breakdown": "공부 + 시키다",
+"english": "엄마가 아이를 억지로 공부시켰어요 — The mom forced the child to study."
+},
+{
+"korean": "실망하다",
+"breakdown": "실망 + 시키다",
+"english": "부모님을 실망시키고 싶지 않아요 — I don't want to disappoint (make disappointed) my parents."
+}
+]
+}
+],
+"notes":[
+{
+"icon": "check",
+"title": "Ordering food",
+"text": "In daily life, 시키다 is most commonly used to mean 'to order food' at a restaurant (e.g., 피자를 시킬까요? = Shall we order pizza?)."
+},
+{
+"icon": "close",
+"title": "Not for native verbs",
+"text": "You cannot attach 시키다 to native Korean verbs like 먹다 or 가다. Use -게 하다 for those."
+}
+],
+"exceptions":[]
+},
+{
+"id": 156,
+"explanation": "-아/어 놓다 and -아/어 두다 both mean to do an action in advance and leave it in that completed state for later use. It implies preparation or maintaining a state.",
+"rules":[
+{
+"title": "Verb Stem + 아/어 놓다(두다)",
+"description": "Use standard 아/어 conjugation rules before attaching 놓다 or 두다.",
+"examples":[
+{
+"korean": "열다",
+"breakdown": "열 + 어 놓다",
+"english": "환기를 위해 창문을 열어 놓았어요 — I opened the window (and left it open) for ventilation."
+},
+{
+"korean": "만들다",
+"breakdown": "만들 + 어 두다",
+"english": "미리 호텔을 예약해 두었어요 — I booked the hotel in advance (and kept the reservation)."
+}
+]
+}
+],
+"notes":[
+{
+"icon": "group",
+"title": "놓다 vs 두다",
+"text": "They are nearly identical. 두다 implies keeping the state for a slightly longer term, while 놓다 is slightly more casual and short-term."
+},
+{
+"icon": "info",
+"title": "Spoken contraction",
+"text": "In fast spoken Korean, -아/어 놓다 often shrinks. (e.g., 해 놓았어요 -> 해 놨어요)."
+}
+],
+"exceptions":[]
+},
+{
+"id": 157,
+"explanation": "-아/어 버리다 indicates that an action is completely finished. It often carries an emotional undertone: either relief that a burden is gone, or regret/sadness that something is irreparably lost.",
+"rules":[
+{
+"title": "Verb Stem + 아/어 버리다",
+"description": "Use standard 아/어 rules and attach 버리다.",
+"examples":[
+{
+"korean": "먹다",
+"breakdown": "먹 + 어 버리다",
+"english": "동생이 제 케이크를 다 먹어 버렸어요 — My younger sibling ate up my entire cake (regret/anger)."
+},
+{
+"korean": "끝내다",
+"breakdown": "끝내 + 어 버리다",
+"english": "숙제를 빨리 끝내 버렸어요 — I finished off my homework quickly (relief)."
+}
+]
+}
+],
+"notes":[
+{
+"icon": "check",
+"title": "Common vocabulary",
+"text": "The word 잊어버리다 (to forget) and 잃어버리다 (to lose) are built using this grammar. They imply the information or item is completely gone."
+}
+],
+"exceptions":[]
+},
+{
+"id": 158,
+"explanation": "-아/어 오다 and -아/어 가다 express actions continuing through time. -아/어 오다 means you 'have been doing' it from the past up to now. -아/어 가다 means you 'will continue doing' it into the future, or it is nearing completion.",
+"rules":[
+{
+"title": "Past to Present → 아/어 오다",
+"description": "Attach 아/어 오다 for actions that started in the past and continue today.",
+"examples":[
+{
+"korean": "노력하다",
+"breakdown": "노력해 + 오다",
+"english": "10년 동안 한국어를 공부해 왔어요 — I have been studying Korean for 10 years."
+}
+]
+},
+{
+"title": "Present to Future → 아/어 가다",
+"description": "Attach 아/어 가다 for ongoing progression toward an end point.",
+"examples":[
+{
+"korean": "끝나다",
+"breakdown": "끝나 + 가다",
+"english": "숙제가 거의 다 끝나 가요 — The homework is almost finishing up (nearing the end)."
+}
+]
+}
+],
+"notes":[
+{
+"icon": "info",
+"title": "Time travel",
+"text": "Literally, 오다 (come) means time is 'coming' to you from the past. 가다 (go) means time is 'going' away from you into the future."
+}
+],
+"exceptions":[]
+},
+{
+"id": 159,
+"explanation": "-들 is the plural marker for nouns. However, unlike English, Korean does not strictly require plural markers. If the context makes it clear there is more than one, you can usually drop it.",
+"rules":[
+{
+"title": "Noun + 들",
+"description": "Attach 들 directly to the noun.",
+"examples":[
+{
+"korean": "사람",
+"breakdown": "사람 + 들",
+"english": "여기에 사람들이 많아요 — There are many people here."
+},
+{
+"korean": "학생",
+"breakdown": "학생 + 들",
+"english": "학생들이 공부하고 있어요 — The students are studying."
+}
+]
+}
+],
+"notes":[
+{
+"icon": "close",
+"title": "Don't use with numbers",
+"text": "If you already specify a number or a word like 'many' (많이), you do not need 들. '사과 3개' (3 apples) is perfect. '사과들 3개' sounds unnatural."
+},
+{
+"icon": "group",
+"title": "Mostly for people",
+"text": "Koreans primarily use 들 for people or animals. They rarely attach it to inanimate objects like chairs or books."
+}
+],
+"exceptions":[]
+},
+{
+"id": 160,
+"explanation": "-(으)ㄹ 걸(요) is used to express an unconfirmed assumption, meaning 'It probably is...' or 'I bet...'. It is a casual way to state your guess to a friend.",
+"rules":[
+{
+"title": "Vowel or ㄹ ending → + ㄹ 걸(요)",
+"description": "Attach ㄹ 걸요 to vowel stems.",
+"examples":[
+{
+"korean": "비싸다",
+"breakdown": "비싸 + ㄹ 걸요",
+"english": "그 식당은 너무 비쌀 걸요? — I bet that restaurant is too expensive."
+}
+]
+},
+{
+"title": "Consonant ending → + 을 걸(요)",
+"description": "Attach 을 걸요 to consonant stems.",
+"examples":[
+{
+"korean": "작다",
+"breakdown": "작 + 을 걸요",
+"english": "사이즈가 좀 작을 걸요 — The size will probably be a bit small."
+}
+]
+},
+{
+"title": "Past Tense → + 았/었을 걸(요)",
+"description": "You can attach this to the past tense to guess about a past event.",
+"examples":[
+{
+"korean": "도착하다",
+"breakdown": "도착했 + 을 걸요",
+"english": "지금쯤 도착했을 걸요? — They probably arrived by now."
+}
+]
+}
+],
+"notes":[
+{
+"icon": "warning",
+"title": "Not for facts",
+"text": "This grammar strictly shows a guess. If you actually know for sure, use -(으)ㄹ 거예요 instead."
+},
+{
+"icon": "info",
+"title": "Intonation matters",
+"text": "The sentence often ends with a slight rising intonation, like you are tossing your opinion out for consideration."
+}
+],
+"exceptions":[]
+}
+]

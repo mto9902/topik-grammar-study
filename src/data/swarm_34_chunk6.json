@@ -1,0 +1,121 @@
+[
+  {
+    "id": 320,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-다(가) 복면",
+    "meaning": "If you keep doing..."
+  },
+  {
+    "id": 321,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-다고 치다",
+    "meaning": "Assuming that"
+  },
+  {
+    "id": 322,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-든지",
+    "meaning": "Whether... or / whatever"
+  },
+  {
+    "id": 323,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-듯이",
+    "meaning": "As if / like"
+  },
+  {
+    "id": 324,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "A/V-(이)나 -(이)나 할 것 없이",
+    "meaning": "Regardless of"
+  },
+  {
+    "id": 325,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-고(요)",
+    "meaning": "And (softening)"
+  },
+  {
+    "id": 328,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-고 말다",
+    "meaning": "End up doing"
+  },
+  {
+    "id": 329,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-고 들다",
+    "meaning": "End up (unexpectedly)"
+  },
+  {
+    "id": 330,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-고 말고(요)",
+    "meaning": "Of course"
+  },
+  {
+    "id": 331,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "A/V-기 십상이다",
+    "meaning": "Very likely to"
+  },
+  {
+    "id": 332,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "A/V-기/게 마련이다",
+    "meaning": "Bound to"
+  },
+  {
+    "id": 333,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-(으)ㄴ/는 걸(요)",
+    "meaning": "You know... / the thing is..."
+  },
+  {
+    "id": 334,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-(는)군(요) / (는)구나",
+    "meaning": "Oh, I see / so that's how"
+  },
+  {
+    "id": 335,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-(으)ㄴ가(요)?",
+    "meaning": "I wonder"
+  },
+  {
+    "id": 336,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-잖아(요)",
+    "meaning": "You know... / after all"
+  },
+  {
+    "id": 337,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-(ㄴ/는)다",
+    "meaning": "Plain declarative"
+  },
+  {
+    "id": 338,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-아/어라",
+    "meaning": "Casual command"
+  }
+]

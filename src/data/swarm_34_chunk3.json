@@ -1,0 +1,121 @@
+[
+  {
+    "id": 259,
+    "level": "3-4",
+    "category": "Purpose & Intention",
+    "grammar": "V-기로 하다",
+    "meaning": "Decide to"
+  },
+  {
+    "id": 260,
+    "level": "3-4",
+    "category": "Purpose & Intention",
+    "grammar": "V-기로 되다",
+    "meaning": "It is decided that"
+  },
+  {
+    "id": 261,
+    "level": "3-4",
+    "category": "Degree & Extent",
+    "grammar": "A/V-(으)ㄴ/는 만큼",
+    "meaning": "As much as"
+  },
+  {
+    "id": 262,
+    "level": "3-4",
+    "category": "Degree & Extent",
+    "grammar": "A/V-기만 하면 (되다)",
+    "meaning": "All you have to do is"
+  },
+  {
+    "id": 263,
+    "level": "3-4",
+    "category": "Degree & Extent",
+    "grammar": "A/V-을/를 정도(로)",
+    "meaning": "To the extent/point that"
+  },
+  {
+    "id": 264,
+    "level": "3-4",
+    "category": "Degree & Extent",
+    "grammar": "N-만 하다/못하다",
+    "meaning": "About the same as / not even"
+  },
+  {
+    "id": 266,
+    "level": "3-4",
+    "category": "Degree & Extent",
+    "grammar": "V-(으)ㄹ 뿐만 아니라",
+    "meaning": "Not only... but also"
+  },
+  {
+    "id": 267,
+    "level": "3-4",
+    "category": "Degree & Extent",
+    "grammar": "A/V-(으)ㄹ 뿐이다",
+    "meaning": "Just / merely"
+  },
+  {
+    "id": 268,
+    "level": "3-4",
+    "category": "Degree & Extent",
+    "grammar": "얼마나 -(으)ㄴ지",
+    "meaning": "How (very)"
+  },
+  {
+    "id": 270,
+    "level": "3-4",
+    "category": "Degree & Extent",
+    "grammar": "N-뿐",
+    "meaning": "Only / just"
+  },
+  {
+    "id": 271,
+    "level": "3-4",
+    "category": "Degree & Extent",
+    "grammar": "N-조차",
+    "meaning": "Even"
+  },
+  {
+    "id": 272,
+    "level": "3-4",
+    "category": "Degree & Extent",
+    "grammar": "N-마저",
+    "meaning": "Even (in negative)"
+  },
+  {
+    "id": 273,
+    "level": "3-4",
+    "category": "Supposition & Inference",
+    "grammar": "A/V-(으)ㄴ/는/(으)ㄹ 것 같다",
+    "meaning": "Seems like / I think"
+  },
+  {
+    "id": 274,
+    "level": "3-4",
+    "category": "Supposition & Inference",
+    "grammar": "A/V-(으)ㄴ/는/(으)ㄹ 모양이다",
+    "meaning": "Looks like / appears"
+  },
+  {
+    "id": 276,
+    "level": "3-4",
+    "category": "Supposition & Inference",
+    "grammar": "A/V-(으)ㄴ가 보다",
+    "meaning": "Seems like / I guess"
+  },
+  {
+    "id": 277,
+    "level": "3-4",
+    "category": "Supposition & Inference",
+    "grammar": "A/V-(으)ㄹ 테니까",
+    "meaning": "I suppose... so"
+  },
+  {
+    "id": 278,
+    "level": "3-4",
+    "category": "Supposition & Inference",
+    "grammar": "V-나 보다",
+    "meaning": "Seems like / apparently"
+  }
+]

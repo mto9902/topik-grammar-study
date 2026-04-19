@@ -1,0 +1,93 @@
+[
+  {
+    "id": 362,
+    "level": "3-4",
+    "category": "Auxiliary Verbs & Compound Expressions",
+    "grammar": "N-을/를 비롯해(서)",
+    "meaning": "Including / starting with"
+  },
+  {
+    "id": 363,
+    "level": "3-4",
+    "category": "Auxiliary Verbs & Compound Expressions",
+    "grammar": "N-을/를 통해(서)",
+    "meaning": "Through"
+  },
+  {
+    "id": 367,
+    "level": "3-4",
+    "category": "Auxiliary Verbs & Compound Expressions",
+    "grammar": "아무 -(이)나",
+    "meaning": "Any"
+  },
+  {
+    "id": 368,
+    "level": "3-4",
+    "category": "Auxiliary Verbs & Compound Expressions",
+    "grammar": "아무 -도",
+    "meaning": "Any... (negative)"
+  },
+  {
+    "id": 369,
+    "level": "3-4",
+    "category": "Auxiliary Verbs & Compound Expressions",
+    "grammar": "V-는 수(가) 있다",
+    "meaning": "There is a way to"
+  },
+  {
+    "id": 370,
+    "level": "3-4",
+    "category": "Auxiliary Verbs & Compound Expressions",
+    "grammar": "V-는 한",
+    "meaning": "As long as"
+  },
+  {
+    "id": 371,
+    "level": "3-4",
+    "category": "Auxiliary Verbs & Compound Expressions",
+    "grammar": "V-는 한편",
+    "meaning": "On one hand"
+  },
+  {
+    "id": 372,
+    "level": "3-4",
+    "category": "Auxiliary Verbs & Compound Expressions",
+    "grammar": "V-는 대신(에)",
+    "meaning": "Instead of"
+  },
+  {
+    "id": 373,
+    "level": "3-4",
+    "category": "Auxiliary Verbs & Compound Expressions",
+    "grammar": "V-는 데 (좋다/나쁘다)",
+    "meaning": "Good/bad for"
+  },
+  {
+    "id": 374,
+    "level": "3-4",
+    "category": "Auxiliary Verbs & Compound Expressions",
+    "grammar": "V-는 셈치다",
+    "meaning": "Consider it as"
+  },
+  {
+    "id": 375,
+    "level": "3-4",
+    "category": "Auxiliary Verbs & Compound Expressions",
+    "grammar": "V-는 편이다",
+    "meaning": "Tend to"
+  },
+  {
+    "id": 376,
+    "level": "3-4",
+    "category": "Auxiliary Verbs & Compound Expressions",
+    "grammar": "A/V-았/었/였던 것 같다",
+    "meaning": "I think it was"
+  },
+  {
+    "id": 377,
+    "level": "3-4",
+    "category": "Auxiliary Verbs & Compound Expressions",
+    "grammar": "V-았/었으면 하다",
+    "meaning": "Wish that"
+  }
+]

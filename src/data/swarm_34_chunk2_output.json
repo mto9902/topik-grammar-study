@@ -1,0 +1,1169 @@
+[
+  {
+    "id": 235,
+    "explanation": "-(으)로 인해(서) means 'due to' or 'caused by'. It attaches to a noun to explain the reason or cause of a result. It is most commonly used in formal writing, news reports, and academic contexts, and it often describes negative or serious consequences such as accidents, disasters, or problems.",
+    "rules": [
+      {
+        "title": "Noun with 받침 (except ㄹ) → + 으로 인해(서)",
+        "description": "When the noun ends in a consonant other than ㄹ, attach 으로 인해(서). 서 is optional and slightly softens the tone.",
+        "examples": [
+          {
+            "korean": "태풍",
+            "breakdown": "태풍 + 으로 인해",
+            "english": "태풍으로 인해 비행기가 결항되었어요 — Flights were canceled due to the typhoon."
+          },
+          {
+            "korean": "지진",
+            "breakdown": "지진 + 으로 인해서",
+            "english": "지진으로 인해서 도로가 막혔어요 — The roads were blocked because of the earthquake."
+          }
+        ]
+      },
+      {
+        "title": "Noun with no 받침 or ㄹ ending → + 로 인해(서)",
+        "description": "When the noun ends in a vowel or the consonant ㄹ, attach 로 인해(서).",
+        "examples": [
+          {
+            "korean": "홍수",
+            "breakdown": "홍수 + 로 인해",
+            "english": "홍수로 인해 많은 집이 파괴되었어요 — Many homes were destroyed due to the flood."
+          },
+          {
+            "korean": "사고",
+            "breakdown": "사고 + 로 인해서",
+            "english": "사고로 인해서 회사에 늦었어요 — I was late to work because of an accident."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "info",
+        "title": "Formal and written register",
+        "text": "-(으)로 인해(서) sounds much more formal than -때문에 (ID 69). Use it in essays, news, and formal speeches rather than casual conversation."
+      },
+      {
+        "icon": "warning",
+        "title": "Often negative results",
+        "text": "While not strictly limited to bad outcomes, this grammar strongly collocates with accidents, diseases, natural disasters, and failures."
+      },
+      {
+        "icon": "check",
+        "title": "서 is optional",
+        "text": "Both -으로 인해 and -으로 인해서 are correct. The version without 서 sounds slightly more concise and written."
+      }
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 236,
+    "explanation": "-에 의해(서) means 'by' or 'through'. Its main use is to mark the agent in a passive sentence — the person or thing that performs the action. It can also mean 'by means of' when describing a method or process.",
+    "rules": [
+      {
+        "title": "Noun + 에 의해(서)",
+        "description": "Attach 에 의해(서) directly to the noun. There are no 받침-related changes. 서 is optional.",
+        "examples": [
+          {
+            "korean": "화가",
+            "breakdown": "화가 + 에 의해",
+            "english": "이 그림은 유명한 화가에 의해 그려졌어요 — This painting was drawn by a famous artist."
+          },
+          {
+            "korean": "선생님",
+            "breakdown": "선생님 + 에 의해서",
+            "english": "그 책은 선생님에 의해서 번역되었어요 — That book was translated by the teacher."
+          },
+          {
+            "korean": "법",
+            "breakdown": "법 + 에 의해",
+            "english": "이 문제는 법에 의해 해결되어야 해요 — This issue must be resolved by law."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "info",
+        "title": "Passive voice agent marker",
+        "text": "In active voice, use -이/가 for the subject. In passive voice, use -에 의해(서) to say who or what did the action."
+      },
+      {
+        "icon": "check",
+        "title": "Also means 'by means of'",
+        "text": "Besides passive agents, -에 의해(서) can describe methods: 과학에 의해 증명되다 (proven by science)."
+      },
+      {
+        "icon": "group",
+        "title": "Compare with -(으)로 인해(서)",
+        "text": "Use -(으)로 인해(서) (ID 235) for causes and reasons. Use -에 의해(서) for agents in passive sentences or specific methods."
+      }
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 238,
+    "explanation": "A/V-(으)ㄹ까 봐(서) means 'for fear that' or 'in case'. Use it when you do something because you are worried that an undesirable situation might happen. The action in the main clause is taken to prevent or prepare for the worried situation.",
+    "rules": [
+      {
+        "title": "Vowel or ㄹ ending → + ㄹ까 봐(서)",
+        "description": "Attach ㄹ까 봐(서) to stems ending in a vowel or the consonant ㄹ. The result clause explains a preventive action.",
+        "examples": [
+          {
+            "korean": "늦다",
+            "breakdown": "늦 + 을까 봐",
+            "english": "늦을까 봐 택시를 탔어요 — I took a taxi for fear of being late."
+          },
+          {
+            "korean": "아프다",
+            "breakdown": "아프 + ㄹ까 봐서",
+            "english": "아플까 봐서 옷을 두껍게 입었어요 — I dressed warmly in case I got sick."
+          }
+        ]
+      },
+      {
+        "title": "Consonant ending → + 을까 봐(서)",
+        "description": "Attach 을까 봐(서) to stems ending in a consonant (except ㄹ).",
+        "examples": [
+          {
+            "korean": "비가 오다",
+            "breakdown": "비가 오 + ㄹ까 봐",
+            "english": "비가 올까 봐 우산을 챙겼어요 — I brought an umbrella in case it rained."
+          },
+          {
+            "korean": "잊다",
+            "breakdown": "잊 + 을까 봐서",
+            "english": "잊을까 봐서 메모를 항상 해요 — I always take notes for fear of forgetting."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "warning",
+        "title": "Only for worries and concerns",
+        "text": "This grammar is only for situations you want to avoid. Do not use it for positive expectations. For positive intention, use -(으)ㄹ까 해서 (ID 239)."
+      },
+      {
+        "icon": "check",
+        "title": "서 is optional",
+        "text": "Both -ㄹ까 봐 and -ㄹ까 봐서 are correct. Adding 서 makes the causal connection slightly clearer."
+      },
+      {
+        "icon": "info",
+        "title": "Present and future only",
+        "text": "You cannot use -(으)ㄹ까 봐(서) for past worries because the grammar already implies a present concern about a future possibility."
+      }
+    ],
+    "exceptions": [
+      {
+        "name": "ㅂ irregular",
+        "description": "For stems ending in ㅂ, change ㅂ to 우 before a vowel.",
+        "example": "춥다 → 추울까 봐"
+      },
+      {
+        "name": "ㄷ irregular",
+        "description": "For stems ending in ㄷ, change ㄷ to ㄹ before a vowel.",
+        "example": "걷다 → 걸을까 봐"
+      },
+      {
+        "name": "ㅅ irregular",
+        "description": "For stems ending in ㅅ, drop ㅅ before a vowel.",
+        "example": "짓다 → 지을까 봐"
+      }
+    ]
+  },
+  {
+    "id": 239,
+    "explanation": "V-(으)ㄹ까 하다/싶다 means 'I'm thinking of' or 'I'm considering'. It expresses a tentative intention or plan that has not been fully decided yet. It conveys a softer, more hesitant tone than a firm promise or decision.",
+    "rules": [
+      {
+        "title": "Vowel or ㄹ ending → + ㄹ까 하다/싶다",
+        "description": "Attach ㄹ까 하다 or ㄹ까 싶다 to stems ending in a vowel or ㄹ. 싶다 adds a more emotional or tentative nuance.",
+        "examples": [
+          {
+            "korean": "가다",
+            "breakdown": "가 + ㄹ까 해요",
+            "english": "주말에 부산에 갈까 해요 — I'm thinking of going to Busan this weekend."
+          },
+          {
+            "korean": "여행하다",
+            "breakdown": "여행하 + ㄹ까 싶어요",
+            "english": "혼자 여행할까 싶어요 — I'm considering traveling alone."
+          }
+        ]
+      },
+      {
+        "title": "Consonant ending → + 을까 하다/싶다",
+        "description": "Attach 을까 하다 or 을까 싶다 to stems ending in a consonant (except ㄹ).",
+        "examples": [
+          {
+            "korean": "사다",
+            "breakdown": "사 + ㄹ까 해요",
+            "english": "신발을 살까 해요 — I'm thinking of buying shoes."
+          },
+          {
+            "korean": "먹다",
+            "breakdown": "먹 + 을까 싶어요",
+            "english": "한식을 먹을까 싶어요 — I'm considering eating Korean food."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "info",
+        "title": "Not a firm decision",
+        "text": "This grammar is much weaker than -(으)ㄹ게요 (ID 20). It means 'I might' rather than 'I will'. Use it when your plans are still flexible."
+      },
+      {
+        "icon": "check",
+        "title": "싶다 is more emotional",
+        "text": "-ㄹ까 싶다 feels more personal and emotional than -ㄹ까 하다. It is often used when you are daydreaming or half-heartedly considering something."
+      },
+      {
+        "icon": "group",
+        "title": "Compare with -(으)ㄹ까 봐(서)",
+        "text": "-(으)ㄹ까 하다 (ID 239) is about your own intention. -(으)ㄹ까 봐(서) (ID 238) is about worry and prevention. Do not confuse the two."
+      }
+    ],
+    "exceptions": [
+      {
+        "name": "ㅂ irregular",
+        "description": "For stems ending in ㅂ, change ㅂ to 우 before a vowel.",
+        "example": "춥다 → 추울까 하다"
+      },
+      {
+        "name": "ㄷ irregular",
+        "description": "For stems ending in ㄷ, change ㄷ to ㄹ before a vowel.",
+        "example": "걷다 → 걸을까 하다"
+      },
+      {
+        "name": "ㅅ irregular",
+        "description": "For stems ending in ㅅ, drop ㅅ before a vowel.",
+        "example": "짓다 → 지을까 싶다"
+      }
+    ]
+  },
+  {
+    "id": 240,
+    "explanation": "V-(으)ㄹ까 말까 means 'whether or not to'. It expresses internal hesitation about doing something. The speaker is going back and forth in their mind, unable to make a decision. It is subjective and can only describe the speaker's own deliberation.",
+    "rules": [
+      {
+        "title": "Vowel or ㄹ ending → + ㄹ까 말까",
+        "description": "Attach ㄹ까 말까 to stems ending in a vowel or ㄹ. This form is used when the speaker is mentally debating an action.",
+        "examples": [
+          {
+            "korean": "가다",
+            "breakdown": "가 + ㄹ까 말까",
+            "english": "갈까 말까 고민하고 있어요 — I'm debating whether to go or not."
+          },
+          {
+            "korean": "살다",
+            "breakdown": "살 + ㄹ까 말까",
+            "english": "그 옷을 살까 말까 망설였어요 — I hesitated about whether to buy those clothes."
+          }
+        ]
+      },
+      {
+        "title": "Consonant ending → + 을까 말까",
+        "description": "Attach 을까 말까 to stems ending in a consonant (except ㄹ).",
+        "examples": [
+          {
+            "korean": "먹다",
+            "breakdown": "먹 + 을까 말까",
+            "english": "먹을까 말까 했는데 결국 먹었어요 — I went back and forth about eating it, but I ended up eating it."
+          },
+          {
+            "korean": "말하다",
+            "breakdown": "말하 + ㄹ까 말까",
+            "english": "사실을 말할까 말까 했어요 — I kept wondering whether to tell the truth or not."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "info",
+        "title": "Internal hesitation only",
+        "text": "This grammar describes your own mental debate. You cannot use it to ask someone else what they are thinking. Use -(으)ㄹ까요? (ID 22) for that."
+      },
+      {
+        "icon": "check",
+        "title": "Often repeated",
+        "text": "In casual speech, people repeat the phrase to show deep indecision: 갈까 말까 갈까 말까... (Should I go? Should I not?)"
+      },
+      {
+        "icon": "close",
+        "title": "Cannot combine with commands or requests",
+        "text": "The second clause cannot be a command (-세요) or a request (-주세요). It naturally pairs with verbs like 고민하다, 망설이다, and 생각하다."
+      }
+    ],
+    "exceptions": [
+      {
+        "name": "ㅂ irregular",
+        "description": "For stems ending in ㅂ, change ㅂ to 우 before a vowel.",
+        "example": "눕다 → 누울까 말까"
+      },
+      {
+        "name": "ㄷ irregular",
+        "description": "For stems ending in ㄷ, change ㄷ to ㄹ before a vowel.",
+        "example": "걷다 → 걸을까 말까"
+      },
+      {
+        "name": "ㅅ irregular",
+        "description": "For stems ending in ㅅ, drop ㅅ before a vowel.",
+        "example": "짓다 → 지을까 말까"
+      }
+    ]
+  },
+  {
+    "id": 241,
+    "explanation": "V-(으)ㄹ까 보다 means 'it seems like someone might' or 'I suspect that someone will'. Use it when you observe a situation and speculate about what another person might do. It is based on evidence, context, or observation rather than pure guesswork.",
+    "rules": [
+      {
+        "title": "Vowel or ㄹ ending → + ㄹ까 보다",
+        "description": "Attach ㄹ까 보다 to stems ending in a vowel or ㄹ. The grammar is often conjugated into 보다, 보니, or 보여요.",
+        "examples": [
+          {
+            "korean": "오다",
+            "breakdown": "오 + ㄹ까 봐요",
+            "english": "곧 올까 봐요 — It seems like they might come soon."
+          },
+          {
+            "korean": "지금 출발하다",
+            "breakdown": "지금 출발하 + ㄹ까 봐요",
+            "english": "지금 출발할까 봐요 — I suspect they might be leaving now."
+          }
+        ]
+      },
+      {
+        "title": "Consonant ending → + 을까 보다",
+        "description": "Attach 을까 보다 to stems ending in a consonant (except ㄹ).",
+        "examples": [
+          {
+            "korean": "먹다",
+            "breakdown": "먹 + 을까 보니",
+            "english": "그 아이가 다 먹을까 보니 걱정돼요 — I'm worried the child might eat it all."
+          },
+          {
+            "korean": "가다",
+            "breakdown": "가 + ㄹ까 보다",
+            "english": "그 사람도 갈까 봐요 — It seems like that person might go too."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "info",
+        "title": "Observation about others",
+        "text": "Unlike -(으)ㄹ까 하다 (ID 239), which is about your own intention, -(으)ㄹ까 보다 is about speculating what someone else might do based on what you see."
+      },
+      {
+        "icon": "check",
+        "title": "Often used with 보다/보니/보여요",
+        "text": "Common patterns include -(으)ㄹ까 보다, -(으)ㄹ까 보니, and -(으)ㄹ까 보여요. The conjugation of 보다 matches the sentence context."
+      },
+      {
+        "icon": "group",
+        "title": "Compare with -(으)ㄴ가 보다",
+        "text": "-(으)ㄴ가 보다 (ID 182) is for observing current states: 비가 오는가 봐요 (It seems to be raining). -(으)ㄹ까 보다 is for future possibilities: 비가 올까 봐요 (It looks like it might rain)."
+      }
+    ],
+    "exceptions": [
+      {
+        "name": "ㄷ irregular",
+        "description": "For stems ending in ㄷ, change ㄷ to ㄹ before a vowel.",
+        "example": "듣다 → 들을까 보다"
+      },
+      {
+        "name": "ㅅ irregular",
+        "description": "For stems ending in ㅅ, drop ㅅ before a vowel.",
+        "example": "짓다 → 지을까 보다"
+      }
+    ]
+  },
+  {
+    "id": 242,
+    "explanation": "V-(으)ㄹ지(도) 모르다 means 'might' or 'may'. It expresses uncertainty about a future event or situation. The speaker is unsure whether something will happen, and 도 can be added for slightly stronger emphasis on the possibility.",
+    "rules": [
+      {
+        "title": "Vowel or ㄹ ending → + ㄹ지(도) 모르다",
+        "description": "Attach ㄹ지(도) 모르다 to stems ending in a vowel or ㄹ. Use this when you are uncertain about a future outcome.",
+        "examples": [
+          {
+            "korean": "비가 오다",
+            "breakdown": "비가 오 + ㄹ지도 몰라요",
+            "english": "내일 비가 올지도 몰라요 — It might rain tomorrow."
+          },
+          {
+            "korean": "가다",
+            "breakdown": "가 + ㄹ지 모르겠어요",
+            "english": "그 사람이 갈지 모르겠어요 — I'm not sure if that person will go."
+          }
+        ]
+      },
+      {
+        "title": "Consonant ending → + 을지(도) 모르다",
+        "description": "Attach 을지(도) 모르다 to stems ending in a consonant (except ㄹ).",
+        "examples": [
+          {
+            "korean": "늦다",
+            "breakdown": "늦 + 을지도 몰라서",
+            "english": "늦을지도 몰라서 일찍 나왔어요 — I left early because I might be late."
+          },
+          {
+            "korean": "잊다",
+            "breakdown": "잊 + 을지 모르겠어요",
+            "english": "중요한 약속을 잊을지 모르겠어요 — I might forget an important appointment."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "info",
+        "title": "도 adds emphasis",
+        "text": "-ㄹ지 모르다 and -ㄹ지도 모르다 are both correct. Adding 도 slightly strengthens the sense of possibility, like saying 'it just might'."
+      },
+      {
+        "icon": "check",
+        "title": "Can be used with 알다 in questions",
+        "text": "In questions, use -(으)ㄹ지 알아요? to ask if someone knows whether something will happen: 내일 갈지 알아요? (Do you know if they will go tomorrow?)"
+      },
+      {
+        "icon": "group",
+        "title": "Compare with -(으)ㄹ 수도 있다",
+        "text": "-(으)ㄹ 수도 있다 (ID 26) expresses neutral possibility: 'It is possible that...' -(으)ㄹ지(도) 모르다 expresses personal uncertainty: 'I don't know if...'"
+      }
+    ],
+    "exceptions": [
+      {
+        "name": "ㅂ irregular",
+        "description": "For stems ending in ㅂ, change ㅂ to 우 before a vowel.",
+        "example": "춥다 → 추울지도 몰라요"
+      },
+      {
+        "name": "ㄷ irregular",
+        "description": "For stems ending in ㄷ, change ㄷ to ㄹ before a vowel.",
+        "example": "걷다 → 걸을지 모르겠어요"
+      },
+      {
+        "name": "ㅅ irregular",
+        "description": "For stems ending in ㅅ, drop ㅅ before a vowel.",
+        "example": "짓다 → 지을지도 몰라요"
+      }
+    ]
+  },
+  {
+    "id": 244,
+    "explanation": "V-(으)ㄹ 테니(까) means 'I will... so (you should)' or 'I'll... so (please)'. Use it when the speaker states their own intention or plan in the first clause, and then gives a suggestion, request, or advice to the listener in the second clause.",
+    "rules": [
+      {
+        "title": "Vowel or ㄹ ending → + ㄹ 테니(까)",
+        "description": "Attach ㄹ 테니(까) to stems ending in a vowel or ㄹ. 테 comes from the bound noun 터, which marks intention or expectation.",
+        "examples": [
+          {
+            "korean": "가다",
+            "breakdown": "가 + ㄹ 테니까",
+            "english": "먼저 갈 테니까 천천히 오세요 — I'll go first, so please take your time."
+          },
+          {
+            "korean": "기다리다",
+            "breakdown": "기다리 + ㄹ 테니까",
+            "english": "여기서 기다릴 테니까 연락 주세요 — I'll wait here, so please contact me."
+          }
+        ]
+      },
+      {
+        "title": "Consonant ending → + 을 테니(까)",
+        "description": "Attach 을 테니(까) to stems ending in a consonant (except ㄹ). 까 is optional but commonly included.",
+        "examples": [
+          {
+            "korean": "하다",
+            "breakdown": "하 + ㄹ 테니까",
+            "english": "내가 할 테니까 걱정 마세요 — I'll do it, so don't worry."
+          },
+          {
+            "korean": "먹다",
+            "breakdown": "먹 + 을 테니까",
+            "english": "먹을 테니까 조금만 기다려 주세요 — I'll eat, so please wait a moment."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "info",
+        "title": "First clause is the speaker's plan",
+        "text": "The subject of the -ㄹ 테니까 clause must be the speaker. You cannot use it to describe someone else's intention."
+      },
+      {
+        "icon": "check",
+        "title": "Second clause is advice or request",
+        "text": "The main clause is usually an imperative (-세요), a suggestion, or a request directed at the listener. It is not for simple statements of fact."
+      },
+      {
+        "icon": "group",
+        "title": "Compare with -(으)ㄹ 텐데(요)",
+        "text": "-(으)ㄹ 테니까 (ID 244) ends with a request. -(으)ㄹ 텐데(요) (ID 245) ends with regret or contrast. Do not confuse the two."
+      }
+    ],
+    "exceptions": [
+      {
+        "name": "ㄷ irregular",
+        "description": "For stems ending in ㄷ, change ㄷ to ㄹ before a vowel.",
+        "example": "듣다 → 들을 테니까"
+      },
+      {
+        "name": "ㅅ irregular",
+        "description": "For stems ending in ㅅ, drop ㅅ before a vowel.",
+        "example": "짓다 → 지을 테니까"
+      }
+    ]
+  },
+  {
+    "id": 245,
+    "explanation": "V-(으)ㄹ 텐데(요) means 'I would... but' or 'it would be...'. Use it to express regret, concern, or a contrast between what you expected and what actually happened. It often carries a wistful or apologetic tone. 요 can be added for politeness.",
+    "rules": [
+      {
+        "title": "Vowel or ㄹ ending → + ㄹ 텐데(요)",
+        "description": "Attach ㄹ 텐데(요) to stems ending in a vowel or ㄹ. This form is used with action verbs, adjectives, and 이다 to express regret or contrast.",
+        "examples": [
+          {
+            "korean": "가다",
+            "breakdown": "가 + ㄹ 텐데",
+            "english": "갈 텐데 시간이 없어요 — I would go, but I don't have time."
+          },
+          {
+            "korean": "재미있다",
+            "breakdown": "재미있 + 을 텐데요",
+            "english": "재미있을 텐데요 못 가서 아쉬워요 — It would be fun, but I'm sad I can't go."
+          }
+        ]
+      },
+      {
+        "title": "Consonant ending → + 을 텐데(요)",
+        "description": "Attach 을 텐데(요) to stems ending in a consonant (except ㄹ).",
+        "examples": [
+          {
+            "korean": "좋다",
+            "breakdown": "좋 + 을 텐데",
+            "english": "좋을 텐데 가격이 너무 비싸요 — It would be nice, but the price is too expensive."
+          },
+          {
+            "korean": "도와주다",
+            "breakdown": "도와주 + ㄹ 텐데",
+            "english": "도와줄 텐데 내가 바빠서 못 해요 — I would help, but I'm too busy."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "info",
+        "title": "Expresses regret and contrast",
+        "text": "-(으)ㄹ 텐데(요) is perfect for situations where reality does not match your wishes. It implies 'under different circumstances, this would be true'."
+      },
+      {
+        "icon": "check",
+        "title": "Can end a sentence alone",
+        "text": "You can end a sentence with -(으)ㄹ 텐데(요) without a second clause. The unfinished feeling itself conveys the regret: 갈 텐데... (I would go, but...)"
+      },
+      {
+        "icon": "group",
+        "title": "Compare with -(으)ㄹ 테니(까)",
+        "text": "-(으)ㄹ 텐데(요) (ID 245) expresses regret and contrast. -(으)ㄹ 테니까 (ID 244) gives advice after stating a plan. The endings determine the meaning."
+      }
+    ],
+    "exceptions": [
+      {
+        "name": "ㄷ irregular",
+        "description": "For stems ending in ㄷ, change ㄷ to ㄹ before a vowel.",
+        "example": "듣다 → 들을 텐데"
+      },
+      {
+        "name": "ㅂ irregular",
+        "description": "For stems ending in ㅂ, change ㅂ to 우 before a vowel.",
+        "example": "춥다 → 추울 텐데"
+      }
+    ]
+  },
+  {
+    "id": 246,
+    "explanation": "V-(으)려던 참이다 means 'I was just about to' or 'I was on the point of'. Use it when you were literally moments away from starting an action, and something happened — usually someone interrupted you or offered to help at the perfect time.",
+    "rules": [
+      {
+        "title": "Vowel or ㄹ ending → + 려던 참이다",
+        "description": "Attach 려던 참이다 to stems ending in a vowel or ㄹ. 참 means 'moment' or 'chance', so this grammar emphasizes the perfect timing.",
+        "examples": [
+          {
+            "korean": "가다",
+            "breakdown": "가 + 려던 참이에요",
+            "english": "가려던 참이에요 마침 왔네요 — I was just about to leave, and you came at the perfect time."
+          },
+          {
+            "korean": "연락하다",
+            "breakdown": "연락하 + 려던 참이에요",
+            "english": "연락하려던 참이에요 — I was just about to contact you."
+          }
+        ]
+      },
+      {
+        "title": "Consonant ending → + 으려던 참이다",
+        "description": "Attach 으려던 참이다 to stems ending in a consonant (except ㄹ).",
+        "examples": [
+          {
+            "korean": "먹다",
+            "breakdown": "먹 + 으려던 참이었어요",
+            "english": "먹으려던 참이었어요 — I was just about to eat."
+          },
+          {
+            "korean": "자다",
+            "breakdown": "자 + 려던 참이에요",
+            "english": "자려던 참이에요 — I was just about to sleep."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "info",
+        "title": "Perfect timing",
+        "text": "This grammar shines when someone arrives, calls, or offers something right before you were going to act. It creates a natural, friendly reaction."
+      },
+      {
+        "icon": "check",
+        "title": "Often used in past or present tense",
+        "text": "Use 참이에요 for the present moment and 참이었어요 for a past moment. Both convey that the action had not started yet."
+      },
+      {
+        "icon": "group",
+        "title": "Compare with -자마자",
+        "text": "-(으)려던 참이다 (ID 246) means 'just before doing.' -자마자 (ID 198) means 'right after doing.' They are exact opposites in timing."
+      }
+    ],
+    "exceptions": [
+      {
+        "name": "ㄷ irregular",
+        "description": "For stems ending in ㄷ, change ㄷ to ㄹ before a vowel.",
+        "example": "걷다 → 걸으려던 참이다"
+      },
+      {
+        "name": "ㅂ irregular",
+        "description": "For stems ending in ㅂ, change ㅂ to 우 before a vowel.",
+        "example": "눕다 → 누우려던 참이다"
+      },
+      {
+        "name": "ㅅ irregular",
+        "description": "For stems ending in ㅅ, drop ㅅ before a vowel.",
+        "example": "짓다 → 지으려던 참이다"
+      }
+    ]
+  },
+  {
+    "id": 247,
+    "explanation": "A/V-(으)ㄹ 수밖에 없다 means 'have no choice but to' or 'cannot help but'. It expresses that a certain result is inevitable because of circumstances, logic, or external pressure. There is literally no other option available.",
+    "rules": [
+      {
+        "title": "Vowel or ㄹ ending → + ㄹ 수밖에 없다",
+        "description": "Attach ㄹ 수밖에 없다 to stems ending in a vowel or ㄹ. Use this for both action verbs and adjectives when the result is unavoidable.",
+        "examples": [
+          {
+            "korean": "가다",
+            "breakdown": "가 + ㄹ 수밖에 없어요",
+            "english": "시간이 없어서 택시를 탈 수밖에 없어요 — I have no choice but to take a taxi because there's no time."
+          },
+          {
+            "korean": "믿다",
+            "breakdown": "믿 + 을 수밖에 없죠",
+            "english": "증거가 확실해서 믿을 수밖에 없죠 — The evidence is clear, so we can't help but believe it."
+          }
+        ]
+      },
+      {
+        "title": "Consonant ending → + 을 수밖에 없다",
+        "description": "Attach 을 수밖에 없다 to stems ending in a consonant (except ㄹ).",
+        "examples": [
+          {
+            "korean": "좋다",
+            "breakdown": "좋 + 을 수밖에 없어요",
+            "english": "날씨가 좋을 수밖에 없어요 — The weather has no choice but to be good."
+          },
+          {
+            "korean": "울다",
+            "breakdown": "울 + ㄹ 수밖에 없었어요",
+            "english": "너무 슬퍼서 울 수밖에 없었어요 — I was so sad that I couldn't help but cry."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "info",
+        "title": "Inevitable result",
+        "text": "This grammar is much stronger than -아/어야 하다 (ID 98). It means the situation forces the outcome, not that someone is enforcing a rule."
+      },
+      {
+        "icon": "check",
+        "title": "Works with adjectives too",
+        "text": "You can use -(으)ㄹ 수밖에 없다 with descriptive verbs: 그 사람은 착할 수밖에 없어요 (That person can't help but be kind)."
+      },
+      {
+        "icon": "group",
+        "title": "Compare with -(으)ㄹ 수도 있다",
+        "text": "-(으)ㄹ 수밖에 없다 (ID 247) means inevitability. -(으)ㄹ 수도 있다 (ID 26) means possibility. They are opposites in meaning."
+      }
+    ],
+    "exceptions": [
+      {
+        "name": "ㅂ irregular",
+        "description": "For stems ending in ㅂ, change ㅂ to 우 before a vowel.",
+        "example": "춥다 → 추울 수밖에 없다"
+      },
+      {
+        "name": "ㄷ irregular",
+        "description": "For stems ending in ㄷ, change ㄷ to ㄹ before a vowel.",
+        "example": "걷다 → 걸을 수밖에 없다"
+      },
+      {
+        "name": "ㅅ irregular",
+        "description": "For stems ending in ㅅ, drop ㅅ before a vowel.",
+        "example": "짓다 → 지을 수밖에 없다"
+      }
+    ]
+  },
+  {
+    "id": 248,
+    "explanation": "V-(으)ㄹ 정도(로) means 'to the extent that' or 'so much that'. Use it to describe the degree or level of something by comparing it to another action or state. It sets a benchmark for how intense or extreme something is.",
+    "rules": [
+      {
+        "title": "Vowel or ㄹ ending → + ㄹ 정도(로)",
+        "description": "Attach ㄹ 정도(로) to stems ending in a vowel or ㄹ. 로 is optional but turns the phrase into an adverb that modifies the main clause.",
+        "examples": [
+          {
+            "korean": "놀라다",
+            "breakdown": "놀라 + ㄹ 정도로",
+            "english": "놀랄 정도로 많이 늘었어요 — I've improved so much that it's surprising."
+          },
+          {
+            "korean": "울다",
+            "breakdown": "울 + ㄹ 정도로",
+            "english": "울 정도로 화가 났어요 — I was so angry that I almost cried."
+          }
+        ]
+      },
+      {
+        "title": "Consonant ending → + 을 정도(로)",
+        "description": "Attach 을 정도(로) to stems ending in a consonant (except ㄹ). Without 로, 정도 acts as a noun.",
+        "examples": [
+          {
+            "korean": "피곤하다",
+            "breakdown": "피곤하 + ㄹ 정도예요",
+            "english": "피곤할 정도로 일이 많았어요 — I had so much work it was to the point of exhaustion."
+          },
+          {
+            "korean": "먹다",
+            "breakdown": "먹 + 을 정도로",
+            "english": "먹을 정도로 배고팠어요 — I was hungry enough to eat anything."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "info",
+        "title": "로 makes it an adverb",
+        "text": "With 로, -(으)ㄹ 정도로 modifies the main verb or adjective. Without 로, -(으)ㄹ 정도 is a noun phrase that can be used with 이다: 힘들 정도예요 (It's to the point of being difficult)."
+      },
+      {
+        "icon": "check",
+        "title": "Comparison benchmark",
+        "text": "This grammar is perfect for comparisons. It tells the listener exactly how much or how little something is by using a familiar action as a reference."
+      },
+      {
+        "icon": "group",
+        "title": "Compare with -(으)ㄹ 지경이다",
+        "text": "-(으)ㄹ 정도(로) (ID 248) is a general extent. -(으)ㄹ 지경이다 (ID 249) is an extreme limit, often negative. Use 지경 when someone is on the verge of breaking down."
+      }
+    ],
+    "exceptions": [
+      {
+        "name": "ㄷ irregular",
+        "description": "For stems ending in ㄷ, change ㄷ to ㄹ before a vowel.",
+        "example": "듣다 → 들을 정도로"
+      },
+      {
+        "name": "ㅅ irregular",
+        "description": "For stems ending in ㅅ, drop ㅅ before a vowel.",
+        "example": "짓다 → 지을 정도로"
+      }
+    ]
+  },
+  {
+    "id": 249,
+    "explanation": "V-(으)ㄹ 지경이다 means 'on the verge of' or 'almost at the point of'. Use it when someone is so close to a physical or mental limit that they are about to reach a breaking point. It describes extreme situations that are usually negative or overwhelming.",
+    "rules": [
+      {
+        "title": "Vowel or ㄹ ending → + ㄹ 지경이다",
+        "description": "Attach ㄹ 지경이다 to stems ending in a vowel or ㄹ. 지경 literally means 'boundary' or 'situation', emphasizing the dangerous edge.",
+        "examples": [
+          {
+            "korean": "쓰러지다",
+            "breakdown": "쓰러지 + ㄹ 지경이다",
+            "english": "배가 너무 아파서 쓰러질 지경이에요 — My stomach hurts so much I'm on the verge of collapsing."
+          },
+          {
+            "korean": "울다",
+            "breakdown": "울 + ㄹ 지경이에요",
+            "english": "울 지경이에요 — I'm on the verge of tears."
+          }
+        ]
+      },
+      {
+        "title": "Consonant ending → + 을 지경이다",
+        "description": "Attach 을 지경이다 to stems ending in a consonant (except ㄹ).",
+        "examples": [
+          {
+            "korean": "잠들다",
+            "breakdown": "잠들 + ㄹ 지경이었어요",
+            "english": "너무 졸려서 잠들 지경이었어요 — I was so sleepy I was on the verge of dozing off."
+          },
+          {
+            "korean": "먹다",
+            "breakdown": "먹 + 을 지경이다",
+            "english": "배가 불러서 토할 지경이에요 — I'm so full I'm about to throw up."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "warning",
+        "title": "Usually negative or physical",
+        "text": "-(으)ㄹ 지경이다 strongly collocates with pain, exhaustion, anger, and other extreme states. It sounds unnatural with mild or positive situations."
+      },
+      {
+        "icon": "check",
+        "title": "Stronger than -(으)ㄹ 정도(로)",
+        "text": "While -(으)ㄹ 정도(로) (ID 248) simply measures extent, -(으)ㄹ 지경이다 implies danger or loss of control. Choose 지경 for dramatic emphasis."
+      },
+      {
+        "icon": "info",
+        "title": "Often used in past tense",
+        "text": "지경이었어요 is common when recounting how bad a situation was. Present tense (지경이에요) is used when describing a current crisis."
+      }
+    ],
+    "exceptions": [
+      {
+        "name": "ㄷ irregular",
+        "description": "For stems ending in ㄷ, change ㄷ to ㄹ before a vowel.",
+        "example": "듣다 → 들을 지경이다"
+      },
+      {
+        "name": "ㅅ irregular",
+        "description": "For stems ending in ㅅ, drop ㅅ before a vowel.",
+        "example": "짓다 → 지을 지경이다"
+      }
+    ]
+  },
+  {
+    "id": 250,
+    "explanation": "A/V-(으)ㄴ/는/(으)ㄹ지 means 'whether or not'. It turns a statement into an indirect question that can be embedded inside another sentence. Use it with verbs like 알다, 모르다, 궁금하다, and 말하다 to talk about uncertainty regarding a fact.",
+    "rules": [
+      {
+        "title": "V-는지 / A-(으)ㄴ지 (present)",
+        "description": "For present tense action verbs, attach 는지. For present tense adjectives, attach (으)ㄴ지. These describe current or general states.",
+        "examples": [
+          {
+            "korean": "가다",
+            "breakdown": "가 + 는지",
+            "english": "그 사람이 오늘 가는지 몰라요 — I don't know if that person is going today."
+          },
+          {
+            "korean": "작다",
+            "breakdown": "작 + 은지",
+            "english": "방이 작은지 궁금해요 — I'm curious whether the room is small."
+          }
+        ]
+      },
+      {
+        "title": "A/V-았/었/였는지 (past)",
+        "description": "For past tense, add 았/었/였 to the stem, then attach 는지. This works for both action verbs and adjectives.",
+        "examples": [
+          {
+            "korean": "먹다",
+            "breakdown": "먹 + 었는지",
+            "english": "밥을 먹었는지 기억이 안 나요 — I can't remember whether I ate or not."
+          },
+          {
+            "korean": "좋다",
+            "breakdown": "좋 + 았는지",
+            "english": "영화가 좋았는지 모르겠어요 — I'm not sure if the movie was good."
+          }
+        ]
+      },
+      {
+        "title": "A/V-(으)ㄹ지 (future)",
+        "description": "For future tense, attach (으)ㄹ지 to both verbs and adjectives. This expresses uncertainty about what will happen.",
+        "examples": [
+          {
+            "korean": "오다",
+            "breakdown": "오 + ㄹ지",
+            "english": "내일 올지 알아요? — Do you know if they will come tomorrow?"
+          },
+          {
+            "korean": "춥다",
+            "breakdown": "춥 + 을지",
+            "english": "날씨가 추울지 걱정돼요 — I'm worried whether the weather will be cold."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "info",
+        "title": "Used with mental verbs",
+        "text": "The main clause usually contains 알다, 모르다, 궁금하다, or similar verbs that express knowledge or curiosity."
+      },
+      {
+        "icon": "check",
+        "title": "Can add 도 for 'whether or not'",
+        "text": "Use -(으)ㄹ지도 모르다 (ID 242) for 'might'. Use -(으)ㄹ지 (안) -(으)ㄹ지 for explicit 'whether or not': 갈지 안 갈지 몰라요."
+      },
+      {
+        "icon": "group",
+        "title": "Compare with -는지 알다/모르다",
+        "text": "ID 126 teaches the same pattern with 알다/모르다 as the main verb. ID 250 focuses on the indirect question form itself across all tenses."
+      }
+    ],
+    "exceptions": [
+      {
+        "name": "ㅂ irregular (adjective)",
+        "description": "For adjective stems ending in ㅂ, change ㅂ to 우 before a vowel.",
+        "example": "춥다 → 추운지 / 추울지"
+      },
+      {
+        "name": "ㄷ irregular",
+        "description": "For stems ending in ㄷ, change ㄷ to ㄹ before a vowel.",
+        "example": "걷다 → 걸을지"
+      },
+      {
+        "name": "하다 verbs",
+        "description": "하다 verbs always conjugate regularly.",
+        "example": "공부하다 → 공부하는지 / 공부했는지 / 공부할지"
+      }
+    ]
+  },
+  {
+    "id": 251,
+    "explanation": "A/V-(으)ㄹ 뻔하다 means 'almost' or 'nearly'. Use it when something dangerous, embarrassing, or undesirable almost happened but was avoided at the last moment. It expresses relief that a bad outcome was narrowly prevented.",
+    "rules": [
+      {
+        "title": "Vowel or ㄹ ending → + ㄹ 뻔하다",
+        "description": "Attach ㄹ 뻔하다 to stems ending in a vowel or ㄹ. This grammar is almost always used in the past tense: 뻔했다 or 뻔했어요.",
+        "examples": [
+          {
+            "korean": "늦다",
+            "breakdown": "늦 + 을 뻔했어요",
+            "english": "버스를 놓쳐서 늦을 뻔했어요 — I almost missed the bus and was nearly late."
+          },
+          {
+            "korean": "쓰러지다",
+            "breakdown": "쓰러지 + 을 뻔했어요",
+            "english": "더워서 쓰러질 뻔했어요 — It was so hot I almost collapsed."
+          }
+        ]
+      },
+      {
+        "title": "Consonant ending → + 을 뻔하다",
+        "description": "Attach 을 뻔하다 to stems ending in a consonant (except ㄹ).",
+        "examples": [
+          {
+            "korean": "잊다",
+            "breakdown": "잊 + 을 뻔했어요",
+            "english": "중요한 약속을 잊을 뻔했어요 — I almost forgot an important appointment."
+          },
+          {
+            "korean": "울다",
+            "breakdown": "울 + ㄹ 뻔했어요",
+            "english": "감동해서 울 뻔했어요 — I was so moved I almost cried."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "info",
+        "title": "Always implies relief",
+        "text": "-(으)ㄹ 뻔하다 carries a strong feeling of 'whew, that was close.' The listener understands that the bad thing did NOT happen, thanks to luck or quick action."
+      },
+      {
+        "icon": "check",
+        "title": "Almost always past tense",
+        "text": "While technically possible in non-past forms, this grammar is used in the past 99% of the time. Stick to 뻔했어요 for natural speech."
+      },
+      {
+        "icon": "group",
+        "title": "Compare with -(으)ㄹ 지경이다",
+        "text": "-(으)ㄹ 뻔하다 (ID 251) means something almost happened but didn't. -(으)ㄹ 지경이다 (ID 249) means you are on the verge of something that is still happening."
+      }
+    ],
+    "exceptions": [
+      {
+        "name": "ㅂ irregular",
+        "description": "For stems ending in ㅂ, change ㅂ to 우 before a vowel.",
+        "example": "춥다 → 추울 뻔하다"
+      },
+      {
+        "name": "ㄷ irregular",
+        "description": "For stems ending in ㄷ, change ㄷ to ㄹ before a vowel.",
+        "example": "걷다 → 걸을 뻔하다"
+      },
+      {
+        "name": "ㅅ irregular",
+        "description": "For stems ending in ㅅ, drop ㅅ before a vowel.",
+        "example": "짓다 → 지을 뻔하다"
+      }
+    ]
+  },
+  {
+    "id": 252,
+    "explanation": "A/V-았/었/였더라면 means 'if only' or 'had... then'. Use it to talk about a past situation that did NOT happen, and to imagine how things would have been different. It carries strong feelings of regret, longing, or wishful thinking.",
+    "rules": [
+      {
+        "title": "A/V past tense + 더라면",
+        "description": "First conjugate the verb or adjective into the past tense (았/었/였), then attach 더라면. This creates a counterfactual past condition.",
+        "examples": [
+          {
+            "korean": "가다",
+            "breakdown": "갔 + 더라면",
+            "english": "한국에 갔더라면 좋았을 텐데 — If only I had gone to Korea, it would have been nice."
+          },
+          {
+            "korean": "먹다",
+            "breakdown": "먹 + 었더라면",
+            "english": "점심을 먹었더라면 배고프지 않았을 거예요 — If I had eaten lunch, I wouldn't be hungry."
+          }
+        ]
+      },
+      {
+        "title": "Adjective past tense + 더라면",
+        "description": "Adjectives follow the same pattern. The past tense ending varies depending on the final vowel.",
+        "examples": [
+          {
+            "korean": "좋다",
+            "breakdown": "좋 + 았더라면",
+            "english": "날씨가 좋았더라면 소풍을 갔을 텐데 — If the weather had been nice, we would have gone on a picnic."
+          },
+          {
+            "korean": "예쁘다",
+            "breakdown": "예쁘 + 었더라면",
+            "english": "꽃이 예뻤더라면 사진을 더 잘 찍었을 거예요 — If the flowers had been pretty, I would have taken better photos."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "info",
+        "title": "Counterfactual past only",
+        "text": "This grammar is strictly for things that did NOT happen in the past. You cannot use it for present or future hypotheticals. Use -(으)면 for those."
+      },
+      {
+        "icon": "check",
+        "title": "Often paired with -겠다 or -(으)ㄹ 텐데",
+        "text": "The result clause commonly uses -(으)ㄹ 텐데 (regret), -겠다 (supposition), or -(으)ㄹ 거예요 (prediction) to show the imagined outcome."
+      },
+      {
+        "icon": "group",
+        "title": "Compare with -(으)ㄹ 걸 그랬다",
+        "text": "-(으)ㄹ 걸 그랬다 (ID 187) is a shorter, more casual way to say 'I should have.' A/V-았/었/였더라면 is more formal and allows full hypothetical sentences."
+      }
+    ],
+    "exceptions": [
+      {
+        "name": "하다 verbs",
+        "description": "하다 conjugates to 했더라면.",
+        "example": "공부하다 → 공부했더라면"
+      },
+      {
+        "name": "ㅂ irregular (past)",
+        "description": "For adjectives ending in ㅂ, ㅂ becomes 우 in the past tense.",
+        "example": "춥다 → 추웠더라면"
+      },
+      {
+        "name": "ㅡ drop (past)",
+        "description": "For stems ending in ㅡ, the ㅡ drops when adding 어/아.",
+        "example": "예쁘다 → 예뻤더라면"
+      }
+    ]
+  },
+  {
+    "id": 258,
+    "explanation": "V-(으)ㄹ 겸 (해서) means 'partly' or 'as well as'. Use it when you have two reasons or purposes for doing something at the same time. It conveys a practical, efficient attitude of combining two related actions into one trip or effort.",
+    "rules": [
+      {
+        "title": "Vowel or ㄹ ending → + ㄹ 겸 (해서)",
+        "description": "Attach ㄹ 겸 (해서) to stems ending in a vowel or ㄹ. The second purpose is often added with another -(으)ㄹ 겸 or a different purpose expression.",
+        "examples": [
+          {
+            "korean": "운동하다",
+            "breakdown": "운동하 + ㄹ 겸",
+            "english": "운동할 겸 근처 공원에 갔어요 — I went to the nearby park partly to exercise."
+          },
+          {
+            "korean": "산책하다",
+            "breakdown": "산책하 + ㄹ 겸 해서",
+            "english": "산책할 겸 해서 카페에 들렀어요 — I stopped by a cafe while taking a walk."
+          }
+        ]
+      },
+      {
+        "title": "Consonant ending → + 을 겸 (해서)",
+        "description": "Attach 을 겸 (해서) to stems ending in a consonant (except ㄹ). 해서 is optional but commonly included.",
+        "examples": [
+          {
+            "korean": "보다",
+            "breakdown": "보 + ㄹ 겸",
+            "english": "친구를 볼 겸 집에 갔어요 — I went home partly to see a friend."
+          },
+          {
+            "korean": "먹다",
+            "breakdown": "먹 + 을 겸 해서",
+            "english": "저녁을 먹을 겸 해서 식당에 예약했어요 — I made a restaurant reservation partly to have dinner."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "info",
+        "title": "Dual purpose",
+        "text": "-(으)ㄹ 겸 implies that the primary action serves two goals at once. The two purposes should be naturally related. It would sound odd to combine completely unrelated activities."
+      },
+      {
+        "icon": "check",
+        "title": "해서 is optional",
+        "text": "Both -ㄹ 겸 and -ㄹ 겸 해서 are correct. Adding 해서 makes the connection to the main clause smoother and more explicit."
+      },
+      {
+        "icon": "group",
+        "title": "Compare with -기 위해서",
+        "text": "-기 위해서 (ID 113) has one clear purpose. -(으)ㄹ 겸 (해서) (ID 258) has two overlapping purposes. Use 겸 when efficiency and multitasking are the point."
+      }
+    ],
+    "exceptions": [
+      {
+        "name": "ㄷ irregular",
+        "description": "For stems ending in ㄷ, change ㄷ to ㄹ before a vowel.",
+        "example": "걷다 → 걸을 겸"
+      },
+      {
+        "name": "ㅅ irregular",
+        "description": "For stems ending in ㅅ, drop ㅅ before a vowel.",
+        "example": "짓다 → 지을 겸"
+      }
+    ]
+  }
+]

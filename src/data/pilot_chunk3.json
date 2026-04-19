@@ -1,0 +1,79 @@
+[
+  {
+    "id": 214,
+    "level": "3-4",
+    "category": "Contrast & Concession",
+    "grammar": "A/V-지만",
+    "meaning": "But / although"
+  },
+  {
+    "id": 215,
+    "level": "3-4",
+    "category": "Contrast & Concession",
+    "grammar": "A/V-는데",
+    "meaning": "But / background / and"
+  },
+  {
+    "id": 216,
+    "level": "3-4",
+    "category": "Contrast & Concession",
+    "grammar": "A/V-기는 하지만",
+    "meaning": "Although it is true that"
+  },
+  {
+    "id": 217,
+    "level": "3-4",
+    "category": "Contrast & Concession",
+    "grammar": "A/V-(으)ㄴ/는 반면(에)",
+    "meaning": "Whereas / on the other hand"
+  },
+  {
+    "id": 218,
+    "level": "3-4",
+    "category": "Contrast & Concession",
+    "grammar": "V-(으)ㄹ지라도",
+    "meaning": "Even if"
+  },
+  {
+    "id": 219,
+    "level": "3-4",
+    "category": "Contrast & Concession",
+    "grammar": "A/V-아/어도",
+    "meaning": "Even if / even though"
+  },
+  {
+    "id": 220,
+    "level": "3-4",
+    "category": "Contrast & Concession",
+    "grammar": "V-(으)ㄴ/는데도",
+    "meaning": "Even though"
+  },
+  {
+    "id": 221,
+    "level": "3-4",
+    "category": "Contrast & Concession",
+    "grammar": "V-(으)ㄴ/는 반대로",
+    "meaning": "Contrary to"
+  },
+  {
+    "id": 222,
+    "level": "3-4",
+    "category": "Contrast & Concession",
+    "grammar": "A/V-(으)ㄴ/는 탓에",
+    "meaning": "Due to / because of (negative)"
+  },
+  {
+    "id": 223,
+    "level": "3-4",
+    "category": "Contrast & Concession",
+    "grammar": "N-(이)나마",
+    "meaning": "Even if it's only"
+  },
+  {
+    "id": 224,
+    "level": "3-4",
+    "category": "Contrast & Concession",
+    "grammar": "N-(은/는)커녕",
+    "meaning": "Let alone / not to mention"
+  }
+]

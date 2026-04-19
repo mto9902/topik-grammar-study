@@ -1,0 +1,33 @@
+{
+  "name": "topik-grammar-study",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc && vite build",
+    "preview": "vite preview",
+    "cap:add:android": "npx -y node@22 ./node_modules/@capacitor/cli/bin/capacitor add android",
+    "cap:sync": "npx -y node@22 ./node_modules/@capacitor/cli/bin/capacitor sync",
+    "cap:sync:android": "npx -y node@22 ./node_modules/@capacitor/cli/bin/capacitor sync android",
+    "cap:open:android": "npx -y node@22 ./node_modules/@capacitor/cli/bin/capacitor open android",
+    "android": "npm run build && npm run cap:sync:android",
+    "android:apk": "npm run android && bash -lc 'cd android && export JAVA_HOME=/usr/lib/jvm/java-21-openjdk-amd64 && export ANDROID_SDK_ROOT=/usr/lib/android-sdk && ./gradlew assembleDebug'",
+    "android:install": "bash -lc 'adb install -r android/app/build/outputs/apk/debug/app-debug.apk'"
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.3.1",
+    "@capacitor/app": "^8.1.0",
+    "@capacitor/core": "^8.3.1",
+    "@capacitor/preferences": "^8.0.1",
+    "vue": "3.5.32",
+    "vue-router": "^4.5.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^8.3.1",
+    "@vitejs/plugin-vue": "5.0.5",
+    "typescript": "5.4.5",
+    "vite": "5.4.19",
+    "vue-tsc": "1.8.27"
+  }
+}

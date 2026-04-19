@@ -1,0 +1,980 @@
+[
+  {
+    "id": 191,
+    "explanation": "-게 하다 means 'make someone do' or 'let someone do.' It expresses causation: the subject causes, allows, or instructs another person to perform an action. Use it when talking about permissions, orders, or indirect actions performed through someone else.",
+    "rules": [
+      {
+        "title": "V/A-게 하다",
+        "description": "Attach 게 하다 directly to the verb or adjective stem. The form is the same for all verbs and adjectives. 하다 itself conjugates normally (해요, 했어요, etc.).",
+        "examples": [
+          {
+            "korean": "가다",
+            "breakdown": "가 + 게 하다",
+            "english": "선생님이 학생들을 교실에 가게 했어요 — The teacher made the students go to the classroom."
+          },
+          {
+            "korean": "먹다",
+            "breakdown": "먹 + 게 하다",
+            "english": "엄마가 아이에게 약을 먹게 했어요 — Mom made the child take the medicine."
+          },
+          {
+            "korean": "공부하다",
+            "breakdown": "공부하 + 게 하다",
+            "english": "선생님이 매일 일기를 쓰게 하셔요 — The teacher has us write a diary every day."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "info",
+        "title": "Force vs. permission",
+        "text": "-게 하다 covers both making someone do something (strong) and letting someone do something (permissive). Tone and context tell you which meaning is intended."
+      },
+      {
+        "icon": "group",
+        "title": "Cross-reference: passive pair",
+        "text": "See ID 193 for the passive counterpart (-아/여지다). Causative and passive are often taught together because they transform the direction of the action."
+      }
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 193,
+    "explanation": "-아/여지다 is the regular passive ending. It turns an active verb into a passive one, meaning the subject receives the action instead of performing it. Use it to describe something being done by an unspecified agent, or to express possibility ('can be done').",
+    "rules": [
+      {
+        "title": "V-아지다",
+        "description": "For verb stems with ㅏ or ㅗ, attach 아지다.",
+        "examples": [
+          {
+            "korean": "닫다",
+            "breakdown": "닫 + 아지다",
+            "english": "문이 자동으로 닫아져요 — The door closes automatically."
+          },
+          {
+            "korean": "쓰다 (write)",
+            "breakdown": "쓰 + 여지다",
+            "english": "이 책은 한국어로 쓰여졌어요 — This book was written in Korean."
+          }
+        ]
+      },
+      {
+        "title": "V-어지다",
+        "description": "For verb stems with other vowels, attach 어지다.",
+        "examples": [
+          {
+            "korean": "먹다",
+            "breakdown": "먹 + 어지다",
+            "english": "이 약은 물 없이도 쉽게 먹어져요 — This medicine can be taken easily even without water."
+          },
+          {
+            "korean": "만들다",
+            "breakdown": "만들 + 어지다",
+            "english": "이 케이크는 집에서도 쉽게 만들어져요 — This cake can be easily made at home, too."
+          }
+        ]
+      },
+      {
+        "title": "V-여지다 / 해지다",
+        "description": "For 하다 verbs, 하 + 여지다 contracts to 해지다.",
+        "examples": [
+          {
+            "korean": "사용하다",
+            "breakdown": "사용하 + 여지다",
+            "english": "이 프로그램은 물론 물에서도 사용해져요 — This program can naturally be used underwater, too."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "warning",
+        "title": "Passive or potential?",
+        "text": "-아/여지다 can express both passive ('is eaten') and potential ('can be eaten'). Context usually makes the meaning clear."
+      },
+      {
+        "icon": "info",
+        "title": "Special passive forms",
+        "text": "Some verbs have dedicated passive forms that are more common: 팔다 → 팔리다, 듣다 → 들리다, 보이다 (inherent passive). These often appear instead of the regular -아/여지다 form."
+      },
+      {
+        "icon": "group",
+        "title": "Cross-reference: causative pair",
+        "text": "See ID 191 for the causative counterpart (-게 하다)."
+      }
+    ],
+    "exceptions": [
+      {
+        "name": "ㅂ irregular",
+        "description": "Stems ending in ㅂ change to 우 before vowel-initial endings.",
+        "example": "춥다 → 추워지다"
+      },
+      {
+        "name": "ㄷ irregular",
+        "description": "Stems ending in ㄷ change to ㄹ before vowel-initial endings.",
+        "example": "걷다 → 걸어지다"
+      },
+      {
+        "name": "ㅅ irregular",
+        "description": "Stems ending in ㅅ drop the ㅅ before vowel-initial endings.",
+        "example": "짓다 → 지어지다"
+      },
+      {
+        "name": "ㅡ drop",
+        "description": "For stems ending in ㅡ, the ㅡ drops and the vowel harmonizes.",
+        "example": "예쁘다 → 예뻐지다, 크다 → 커지다"
+      },
+      {
+        "name": "르 irregular",
+        "description": "For 르-ending stems, an extra ㄹ is inserted into the previous syllable before 아/어.",
+        "example": "고르다 → 골라지다"
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "explanation": "-(으)ㄴ/는 채(로) means 'while in a state of' or 'while keeping something as-is.' It describes doing something while maintaining the state resulting from a previous action. Use it when you want to emphasize that an action was performed without changing from a particular condition.",
+    "rules": [
+      {
+        "title": "V-(으)ㄴ 채(로)",
+        "description": "Attach (으)ㄴ 채(로) to the verb stem. Use this for completed states that are maintained. 받침 있음 → + 은 채(로); 받침 없음 or ㄹ → + ㄴ 채(로).",
+        "examples": [
+          {
+            "korean": "앉다",
+            "breakdown": "앉 + 은 채로",
+            "english": "의자에 앉은 채로 잠이 들었어요 — I fell asleep while sitting in the chair."
+          },
+          {
+            "korean": "서다",
+            "breakdown": "서 + ㄴ 채로",
+            "english": "두 시간 동안 선 채로 일했어요 — I worked while standing for two hours."
+          },
+          {
+            "korean": "눈을 감다",
+            "breakdown": "감 + 은 채로",
+            "english": "눈을 감은 채로 명상했어요 — I meditated with my eyes closed."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "info",
+        "title": "로 is optional",
+        "text": "Both 앉은 채 and 앉은 채로 are correct. Adding 로 gives a slight nuance of 'in that manner.'"
+      },
+      {
+        "icon": "warning",
+        "title": "Action verbs only",
+        "text": "-(으)ㄴ/는 채(로) primarily attaches to action verbs. For adjectives describing a maintained state, use A-(으)ㄴ 상태로 instead."
+      }
+    ],
+    "exceptions": [
+      {
+        "name": "ㄷ irregular",
+        "description": "Stems ending in ㄷ change to ㄹ before vowel-initial endings.",
+        "example": "걷다 → 걸은 채로"
+      },
+      {
+        "name": "ㄹ ending",
+        "description": "Stems ending in ㄹ drop the ㄹ before ㄴ.",
+        "example": "살다 → 산 채로 (while alive)"
+      },
+      {
+        "name": "ㅅ irregular",
+        "description": "Stems ending in ㅅ drop the ㅅ before vowel-initial endings.",
+        "example": "짓다 → 지은 채로"
+      },
+      {
+        "name": "르 irregular",
+        "description": "For 르-ending stems, the modifier form becomes 고른, 마른, etc.",
+        "example": "고르다 → 고른 채로"
+      }
+    ]
+  },
+  {
+    "id": 206,
+    "explanation": "-다가 means 'while doing, then...' It describes an interruption or sudden change: the first action was in progress when something else happened. Use it when you want to tell a story about an unexpected shift in activity.",
+    "rules": [
+      {
+        "title": "V-다가",
+        "description": "Remove 다 from the dictionary form and attach 다가. This form is the same for all verbs.",
+        "examples": [
+          {
+            "korean": "걷다",
+            "breakdown": "걷 + 다가",
+            "english": "길을 걷다가 넘어졌어요 — While walking down the road, I fell."
+          },
+          {
+            "korean": "밥을 먹다",
+            "breakdown": "먹 + 다가",
+            "english": "밥을 먹다가 친구한테 전화가 왔어요 — While eating, I got a call from a friend."
+          },
+          {
+            "korean": "책을 읽다",
+            "breakdown": "읽 + 다가",
+            "english": "책을 읽다가 잠이 들었어요 — While reading a book, I fell asleep."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "info",
+        "title": "Same subject or different?",
+        "text": "The two clauses usually share the same subject, but they can differ if the context is clear. The key is that the first action is interrupted."
+      },
+      {
+        "icon": "group",
+        "title": "Cross-reference: warning form",
+        "text": "See ID 207 for -다가(는), which warns about negative consequences rather than describing a past interruption."
+      }
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 207,
+    "explanation": "-다가(는) means 'if you keep doing...' It warns that continuing the first action will lead to a negative result. Use it for giving warnings, advice, or predictions about bad outcomes.",
+    "rules": [
+      {
+        "title": "V-다가(는)",
+        "description": "Remove 다 from the dictionary form and attach 다가(는). The 는 is optional but adds emphasis to the warning.",
+        "examples": [
+          {
+            "korean": "먹다",
+            "breakdown": "먹 + 다가는",
+            "english": "이렇게 먹다가는 살이 찔 거예요 — If you keep eating like this, you'll gain weight."
+          },
+          {
+            "korean": "늦게까지 공부하다",
+            "breakdown": "공부하 + 다가는",
+            "english": "늦게까지 공부하다가는 아플 거예요 — If you keep studying until late, you'll get sick."
+          },
+          {
+            "korean": "매일 놀다",
+            "breakdown": "놀 + 다가는",
+            "english": "매일 놀다가는 시험에 떨어질 거예요 — If you keep playing every day, you'll fail the exam."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "warning",
+        "title": "Negative result required",
+        "text": "The second clause must contain a negative or undesirable outcome. You cannot use -다가(는) to describe positive results."
+      },
+      {
+        "icon": "info",
+        "title": "(는) adds weight",
+        "text": "Without 는, -다가 can simply describe an interruption (see ID 206). Adding 는 shifts the meaning to a clear warning."
+      },
+      {
+        "icon": "group",
+        "title": "Cross-reference: interruption form",
+        "text": "See ID 206 for -다가, which describes a past interruption rather than giving a warning."
+      }
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 209,
+    "explanation": "-(으)려면 means 'if you want to' or 'if you intend to.' It sets up a necessary condition for achieving a goal. Use it when giving instructions, requirements, or advice about what someone must do to accomplish something.",
+    "rules": [
+      {
+        "title": "V-(으)려면",
+        "description": "Attach (으)려면 to the verb stem. 받침 있음 → + 으려면; 받침 없음 → + 려면. Stems ending in ㄹ keep the ㄹ: 살다 → 살 + 려면 = 살려면.",
+        "examples": [
+          {
+            "korean": "가다",
+            "breakdown": "가 + 려면",
+            "english": "한국에 가려면 비자가 필요해요 — If you want to go to Korea, you need a visa."
+          },
+          {
+            "korean": "먹다",
+            "breakdown": "먹 + 으려면",
+            "english": "이걸 먹으려면 포크가 필요해요 — If you want to eat this, you need a fork."
+          },
+          {
+            "korean": "타다",
+            "breakdown": "타 + 려면",
+            "english": "이 버스를 타려면 얼마나 기다려야 해요? — If you want to take this bus, how long do you have to wait?"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "info",
+        "title": "Necessary conditions",
+        "text": "-(으)려면 sets up a requirement. The second clause almost always contains instructions, advice, or factual requirements."
+      },
+      {
+        "icon": "check",
+        "title": "Often paired with -아/여야 돼요",
+        "text": "Sentences with -(으)려면 frequently end with -아/여야 돼요 or a similar obligation pattern to strengthen the necessity."
+      }
+    ],
+    "exceptions": [
+      {
+        "name": "ㅂ irregular",
+        "description": "Stems ending in ㅂ change to 우 before vowel-initial endings.",
+        "example": "춥다 → 추우려면"
+      },
+      {
+        "name": "ㄷ irregular",
+        "description": "Stems ending in ㄷ change to ㄹ before vowel-initial endings.",
+        "example": "걷다 → 걸으려면"
+      },
+      {
+        "name": "ㅅ irregular",
+        "description": "Stems ending in ㅅ drop the ㅅ before vowel-initial endings.",
+        "example": "짓다 → 지으려면"
+      },
+      {
+        "name": "ㄹ ending",
+        "description": "Stems ending in ㄹ do not drop the ㄹ before 려면.",
+        "example": "살다 → 살려면, 만들다 → 만들려면"
+      }
+    ]
+  },
+  {
+    "id": 210,
+    "explanation": "-기 전에 means 'before.' It indicates that one action happens prior to another. Use it for sequencing events, giving instructions about order, or describing routines.",
+    "rules": [
+      {
+        "title": "V-기 전에",
+        "description": "Attach 기 전에 directly to the verb stem. This form is the same for all verbs and adjectives.",
+        "examples": [
+          {
+            "korean": "자다",
+            "breakdown": "자 + 기 전에",
+            "english": "자기 전에 이를 닦아요 — Before sleeping, I brush my teeth."
+          },
+          {
+            "korean": "한국에 가다",
+            "breakdown": "가 + 기 전에",
+            "english": "한국에 가기 전에 한국어를 공부했어요 — Before going to Korea, I studied Korean."
+          },
+          {
+            "korean": "밥을 먹다",
+            "breakdown": "먹 + 기 전에",
+            "english": "밥을 먹기 전에 손을 씻어요 — Before eating, I wash my hands."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "info",
+        "title": "Opposite: -고 나서",
+        "text": "The opposite of -기 전에 is -고 나서 ('after'). These two are often taught together for talking about sequence."
+      },
+      {
+        "icon": "check",
+        "title": "Also used with adjectives",
+        "text": "Although less common, adjectives can also attach 기 전에: 어렵기 전에 ('before it becomes difficult')."
+      }
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 214,
+    "explanation": "-지만 means 'but' or 'although.' It connects two contrasting ideas. Use it when you want to acknowledge something while presenting an opposing fact or feeling. It is one of the most common contrast connectors in Korean.",
+    "rules": [
+      {
+        "title": "A/V-지만",
+        "description": "Attach 지만 directly to the verb or adjective stem. The form is identical for all verbs and adjectives.",
+        "examples": [
+          {
+            "korean": "비가 오다",
+            "breakdown": "오 + 지만",
+            "english": "비가 오지만 나가야 해요 — Although it's raining, I have to go out."
+          },
+          {
+            "korean": "배가 고프다",
+            "breakdown": "고프 + 지만",
+            "english": "배가 고프지만 참고 있어요 — Although I'm hungry, I'm holding it in."
+          },
+          {
+            "korean": "한국어가 어렵다",
+            "breakdown": "어렵 + 지만",
+            "english": "한국어가 어렵지만 재미있어요 — Korean is difficult, but it's fun."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "info",
+        "title": "Soft contrast",
+        "text": "-지만 presents contrast in a neutral, balanced way. It does not emphasize the second clause as strongly as other contrast forms."
+      },
+      {
+        "icon": "group",
+        "title": "Cross-reference: concession",
+        "text": "See ID 219 for -아/어도 ('even if'), which expresses a stronger sense of concession and hypothetical situations."
+      }
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 219,
+    "explanation": "-아/어도 means 'even if' or 'even though.' It describes a hypothetical or actual situation that does not change the outcome. Use it when you want to say that something remains true regardless of conditions.",
+    "rules": [
+      {
+        "title": "A/V-아도",
+        "description": "For stems with ㅏ or ㅗ, attach 아도.",
+        "examples": [
+          {
+            "korean": "가다",
+            "breakdown": "가 + 아도",
+            "english": "비가 와도 나갈 거예요 — Even if it rains, I'll go out."
+          },
+          {
+            "korean": "보다",
+            "breakdown": "보 + 아도",
+            "english": "봐도 모르겠어요 — Even if I look, I don't understand."
+          }
+        ]
+      },
+      {
+        "title": "A/V-어도",
+        "description": "For stems with other vowels, attach 어도.",
+        "examples": [
+          {
+            "korean": "먹다",
+            "breakdown": "먹 + 어도",
+            "english": "먹어도 배가 고파요 — Even though I eat, I'm still hungry."
+          },
+          {
+            "korean": "춥다",
+            "breakdown": "춥 + 어도",
+            "english": "추워도 문을 열어 두세요 — Even if it's cold, please keep the door open."
+          }
+        ]
+      },
+      {
+        "title": "A/V-해도 → 해도? No, 해도",
+        "description": "For 하다 verbs, 하 + 여도 contracts to 해도? No, 해도.",
+        "examples": [
+          {
+            "korean": "공부하다",
+            "breakdown": "공부하 + 여도",
+            "english": "공부해도 시험에 떨어질 수 있어요 — Even if you study, you might fail the exam."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "info",
+        "title": "Hypothetical or actual",
+        "text": "-아/어도 works for both hypothetical situations ('even if') and actual ones ('even though'). Context tells you which meaning applies."
+      },
+      {
+        "icon": "group",
+        "title": "Cross-reference: simple contrast",
+        "text": "See ID 214 for -지만 ('but'), which presents a simple contrast without the 'regardless' nuance of -아/어도."
+      }
+    ],
+    "exceptions": [
+      {
+        "name": "ㅂ irregular",
+        "description": "Stems ending in ㅂ change to 우 before vowel-initial endings.",
+        "example": "춥다 → 추워도"
+      },
+      {
+        "name": "ㄷ irregular",
+        "description": "Stems ending in ㄷ change to ㄹ before vowel-initial endings.",
+        "example": "걷다 → 걸어도"
+      },
+      {
+        "name": "ㅅ irregular",
+        "description": "Stems ending in ㅅ drop the ㅅ before vowel-initial endings.",
+        "example": "짓다 → 지어도"
+      },
+      {
+        "name": "ㅡ drop",
+        "description": "For stems ending in ㅡ, the ㅡ drops and the vowel harmonizes.",
+        "example": "예쁘다 → 예뻐도, 크다 → 커도"
+      },
+      {
+        "name": "르 irregular",
+        "description": "For 르-ending stems, an extra ㄹ is inserted into the previous syllable before 아/어.",
+        "example": "고르다 → 골라도"
+      }
+    ]
+  },
+  {
+    "id": 223,
+    "explanation": "-(이)나마 means 'even if it's only' or 'at least.' It softens a noun, suggesting that even this small or modest thing is meaningful. Use it when you want to emphasize that something minimal is still better than nothing.",
+    "rules": [
+      {
+        "title": "N-(이)나마",
+        "description": "Attach (이)나마 to a noun. 받침 있음 → + 이나마; 받침 없음 → + 나마.",
+        "examples": [
+          {
+            "korean": "시간",
+            "breakdown": "시간 + 이나마",
+            "english": "잠깐이나마 쉴 수 있어서 다행이에요 — I'm glad I can rest even for a short while."
+          },
+          {
+            "korean": "친구",
+            "breakdown": "친구 + 나마",
+            "english": "그 사람 이름이나마 기억하고 싶어요 — I want to remember even his name."
+          },
+          {
+            "korean": "밥",
+            "breakdown": "밥 + 이나마",
+            "english": "밥이나마 제대로 먹어요 — At least eat your meals properly."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "info",
+        "title": "Formal and slightly literary",
+        "text": "-(이)나마 is more formal than -(이)라도. It often appears in written Korean, speeches, and formal expressions of gratitude or regret."
+      },
+      {
+        "icon": "warning",
+        "title": "Don't confuse with -(이)라도",
+        "text": "-(이)라도 is more common in spoken Korean and has a broader meaning ('anything,' 'at least'). -(이)나마 is narrower and more emphatic."
+      }
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 226,
+    "explanation": "-(으)니까 means 'because' or 'since.' It expresses a reason and often leads to a suggestion, command, or new discovery in the result clause. Use it when the reason is personal, subjective, or when you want to give advice based on that reason.",
+    "rules": [
+      {
+        "title": "A/V-(으)니까",
+        "description": "Attach (으)니까 to the verb or adjective stem. 받침 있음 → + 으니까; 받침 없음 or ㄹ → + 니까. Note: ㄹ drops before 니까.",
+        "examples": [
+          {
+            "korean": "비가 오다",
+            "breakdown": "오 + 니까",
+            "english": "비가 오니까 우산을 가져가세요 — Because it's raining, take an umbrella."
+          },
+          {
+            "korean": "배가 고프다",
+            "breakdown": "고프 + 니까",
+            "english": "배가 고프니까 밥을 먹어요 — Because I'm hungry, I'll eat."
+          },
+          {
+            "korean": "춥다",
+            "breakdown": "춥 + 으니까",
+            "english": "추우니까 문을 닫아 주세요 — Because it's cold, please close the door."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "check",
+        "title": "Commands and suggestions love 니까",
+        "text": "-(으)니까 pairs naturally with imperative and propositive endings (-세요, -ㅂ시다, -아/어요). -(으)니까 emphasizes that the suggestion follows logically from the reason."
+      },
+      {
+        "icon": "group",
+        "title": "Cross-reference: objective because",
+        "text": "See ID 231 for -기 때문에, which is more objective and formal. Use 니까 for subjective reasons and 기 때문에 for objective explanations."
+      }
+    ],
+    "exceptions": [
+      {
+        "name": "ㅂ irregular",
+        "description": "Stems ending in ㅂ change to 우 before vowel-initial endings.",
+        "example": "춥다 → 추우니까"
+      },
+      {
+        "name": "ㄷ irregular",
+        "description": "Stems ending in ㄷ change to ㄹ before vowel-initial endings.",
+        "example": "걷다 → 걸으니까"
+      },
+      {
+        "name": "ㄹ ending",
+        "description": "Stems ending in ㄹ drop the ㄹ before ㄴ.",
+        "example": "살다 → 사니까"
+      },
+      {
+        "name": "ㅅ irregular",
+        "description": "Stems ending in ㅅ drop the ㅅ before vowel-initial endings.",
+        "example": "짓다 → 지으니까"
+      }
+    ]
+  },
+  {
+    "id": 227,
+    "explanation": "-는 바람에 means 'due to' or 'because of,' usually describing a sudden, unexpected cause that leads to a negative result. Use it when the reason was unplanned and the consequence was unfortunate.",
+    "rules": [
+      {
+        "title": "V-는 바람에",
+        "description": "Attach 는 바람에 to the verb stem. This form is the same for all action verbs. Adjectives can also attach, but the form becomes 운 바람에 for ㅂ irregular adjectives.",
+        "examples": [
+          {
+            "korean": "급하게 뛰어가다",
+            "breakdown": "뛰어가 + 는 바람에",
+            "english": "급하게 뛰어가는 바람에 넘어졌어요 — Because I was running in a hurry, I fell."
+          },
+          {
+            "korean": "비를 맞다",
+            "breakdown": "맞 + 는 바람에",
+            "english": "비를 맞는 바람에 감기에 걸렸어요 — Because I got rained on, I caught a cold."
+          },
+          {
+            "korean": "알람을 못 듣다",
+            "breakdown": "듣 + 는 바람에",
+            "english": "알람을 못 듣는 바람에 지각했어요 — Because I didn't hear the alarm, I was late."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "warning",
+        "title": "Often negative",
+        "text": "-는 바람에 strongly prefers negative or unfortunate results. Using it with positive outcomes can sound unnatural."
+      },
+      {
+        "icon": "info",
+        "title": "Sudden and unplanned",
+        "text": "This grammar emphasizes that the cause was sudden or outside the subject's control. It is not used for deliberate reasons."
+      },
+      {
+        "icon": "group",
+        "title": "Cross-reference: similar negative causes",
+        "text": "See ID 228 (-는 통에, disruptive cause) and ID 233 (-(으)ㄴ/는 탓에, negative result) for related expressions."
+      }
+    ],
+    "exceptions": [
+      {
+        "name": "ㄹ ending",
+        "description": "Stems ending in ㄹ drop the ㄹ before ㄴ.",
+        "example": "살다 → 사는 바람에, 울다 → 우는 바람에"
+      },
+      {
+        "name": "ㅂ irregular (adjectives)",
+        "description": "Adjective stems ending in ㅂ change to 우 before ㄴ.",
+        "example": "춥다 → 추운 바람에, 어렵다 → 어려운 바람에"
+      }
+    ]
+  },
+  {
+    "id": 228,
+    "explanation": "-는 통에 means 'because of' and describes a disruptive, ongoing cause that prevents something else from happening properly. Use it when an action or state is so distracting or obstructive that it interferes with another activity.",
+    "rules": [
+      {
+        "title": "V-는 통에",
+        "description": "Attach 는 통에 to the verb stem. This form is the same for all action verbs. It emphasizes that the ongoing action was a nuisance or obstacle.",
+        "examples": [
+          {
+            "korean": "옆집에서 공사하다",
+            "breakdown": "공사하 + 는 통에",
+            "english": "옆집에서 공사하는 통에 잠을 못 잤어요 — Because of the construction next door, I couldn't sleep."
+          },
+          {
+            "korean": "아이가 울다",
+            "breakdown": "울 + 는 통에",
+            "english": "아이가 울고 있는 통에 전화를 못 받았어요 — Because the baby was crying, I couldn't answer the phone."
+          },
+          {
+            "korean": "사람들이 떠들다",
+            "breakdown": "떠들 + 는 통에",
+            "english": "사람들이 떠드는 통에 집중이 안 됐어요 — Because people were talking loudly, I couldn't concentrate."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "info",
+        "title": "Disruption, not just cause",
+        "text": "-는 통에 specifically implies that the first action was disruptive, noisy, or obstructive. It is stronger than a simple 'because.'"
+      },
+      {
+        "icon": "warning",
+        "title": "Negative result expected",
+        "text": "Like -는 바람에, 통에 typically leads to a negative result: something failed, was prevented, or could not be done."
+      },
+      {
+        "icon": "group",
+        "title": "Cross-reference: sudden cause",
+        "text": "See ID 227 (-는 바람에) for sudden causes and ID 233 (-(으)ㄴ/는 탓에) for blaming a negative outcome on something."
+      }
+    ],
+    "exceptions": [
+      {
+        "name": "ㄹ ending",
+        "description": "Stems ending in ㄹ drop the ㄹ before ㄴ.",
+        "example": "살다 → 사는 통에, 놀다 → 노는 통에"
+      }
+    ]
+  },
+  {
+    "id": 231,
+    "explanation": "-기 때문에 means 'because.' It is the standard, objective way to state a reason. Use it in formal writing, logical explanations, and when you want to present a reason without implying a command or suggestion.",
+    "rules": [
+      {
+        "title": "A/V-기 때문에",
+        "description": "Attach 기 때문에 directly to the verb or adjective stem. The form is identical for all verbs and adjectives.",
+        "examples": [
+          {
+            "korean": "시험이 내일이다",
+            "breakdown": "내일이 + 기 때문에",
+            "english": "시험이 내일이기 때문에 오늘 공부해야 해요 — Because the exam is tomorrow, I have to study today."
+          },
+          {
+            "korean": "길이 막히다",
+            "breakdown": "막히 + 기 때문에",
+            "english": "길이 막히기 때문에 일찍 출발했어요 — Because the road was congested, I left early."
+          },
+          {
+            "korean": "건강이 좋지 않다",
+            "breakdown": "않 + 기 때문에",
+            "english": "건강이 좋지 않기 때문에 운동을 시작했어요 — Because my health is not good, I started exercising."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "info",
+        "title": "Objective and neutral",
+        "text": "-기 때문에 feels more objective and formal than -(으)니까. It is preferred in essays, reports, and formal speech."
+      },
+      {
+        "icon": "group",
+        "title": "Cross-reference: subjective because",
+        "text": "See ID 226 for -(으)니까, which is more subjective and often pairs with commands or suggestions."
+      }
+    ],
+    "exceptions": [
+      {
+        "name": "ㅂ irregular",
+        "description": "Stems ending in ㅂ change to 우 before vowel-initial endings.",
+        "example": "춥다 → 추우기 때문에"
+      },
+      {
+        "name": "ㄷ irregular",
+        "description": "Stems ending in ㄷ change to ㄹ before vowel-initial endings.",
+        "example": "걷다 → 걸기 때문에"
+      },
+      {
+        "name": "ㅅ irregular",
+        "description": "Stems ending in ㅅ drop the ㅅ before vowel-initial endings.",
+        "example": "짓다 → 지기 때문에"
+      },
+      {
+        "name": "ㄹ ending",
+        "description": "Stems ending in ㄹ do not drop before 기.",
+        "example": "살다 → 살기 때문에"
+      }
+    ]
+  },
+  {
+    "id": 232,
+    "explanation": "-느라고 means 'because (someone was busy doing).' It explains that the subject was occupied with an activity, and as a result, something negative or unintended happened. Use it when you want to excuse or explain why something else could not be done.",
+    "rules": [
+      {
+        "title": "V-느라고",
+        "description": "Attach 느라고 directly to the verb stem. This form is the same for all action verbs. It cannot be used with adjectives or with future tense.",
+        "examples": [
+          {
+            "korean": "친구를 기다리다",
+            "breakdown": "기다리 + 느라고",
+            "english": "친구를 기다리느라고 밥을 못 먹었어요 — Because I was waiting for a friend, I couldn't eat."
+          },
+          {
+            "korean": "일하다",
+            "breakdown": "일하 + 느라고",
+            "english": "일하느라고 연락을 못 했어요 — Because I was working, I couldn't contact you."
+          },
+          {
+            "korean": "공부하다",
+            "breakdown": "공부하 + 느라고",
+            "english": "공부하느라고 잠을 못 잤어요 — Because I was studying, I couldn't sleep."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "warning",
+        "title": "Same subject only",
+        "text": "Both clauses must share the same subject. You cannot use -느라고 to explain why someone else could not do something."
+      },
+      {
+        "icon": "close",
+        "title": "No positive results",
+        "text": "-느라고 cannot be used when the result is positive. It is reserved for negative consequences, missed opportunities, or things left undone."
+      },
+      {
+        "icon": "info",
+        "title": "Present or past tense only",
+        "text": "-느라고 describes ongoing or completed actions. You cannot use it with future intentions or hypothetical situations."
+      }
+    ],
+    "exceptions": [
+      {
+        "name": "ㄹ ending",
+        "description": "Stems ending in ㄹ drop the ㄹ before ㄴ.",
+        "example": "살다 → 사느라고, 놀다 → 노느라고"
+      }
+    ]
+  },
+  {
+    "id": 233,
+    "explanation": "-(으)ㄴ/는 탓에 means 'due to' or 'because of,' blaming a negative result on something. It is stronger and more critical than other 'because' forms. Use it when you want to attribute fault or emphasize that something caused a bad outcome.",
+    "rules": [
+      {
+        "title": "V-(으)ㄴ 탓에 / A-(으)ㄴ 탓에",
+        "description": "For past actions or adjectives, attach (으)ㄴ 탓에. 받침 있음 → + 은 탓에; 받침 없음 or ㄹ → + ㄴ 탓에.",
+        "examples": [
+          {
+            "korean": "너무 많이 먹다",
+            "breakdown": "먹 + 은 탓에",
+            "english": "어제 너무 많이 먹은 탓에 배가 아파요 — Because I ate too much yesterday, my stomach hurts."
+          },
+          {
+            "korean": "운동을 안 하다",
+            "breakdown": "하 + ㄴ 탓에",
+            "english": "운동을 안 한 탓에 체력이 떨어졌어요 — Because I didn't exercise, my stamina dropped."
+          }
+        ]
+      },
+      {
+        "title": "V-는 탓에",
+        "description": "For ongoing or habitual actions, attach 는 탓에.",
+        "examples": [
+          {
+            "korean": "늦게 자다",
+            "breakdown": "자 + 는 탓에",
+            "english": "늦게 자는 탓에 아침마다 힘들어요 — Because I sleep late, every morning is hard."
+          },
+          {
+            "korean": "스트레스를 받다",
+            "breakdown": "받 + 는 탓에",
+            "english": "스트레스를 받는 탓에 잠이 안 와요 — Because I'm stressed, I can't sleep."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "warning",
+        "title": "Critical tone",
+        "text": "탓에 carries a tone of blame or regret. Avoid using it in polite or sensitive situations where you do not want to sound accusatory."
+      },
+      {
+        "icon": "group",
+        "title": "Cross-reference: similar forms",
+        "text": "See ID 227 (-는 바람에, sudden cause) and ID 228 (-는 통에, disruptive cause) for other negative-cause expressions."
+      }
+    ],
+    "exceptions": [
+      {
+        "name": "ㄷ irregular",
+        "description": "Stems ending in ㄷ change to ㄹ before vowel-initial endings.",
+        "example": "걷다 → 걸은 탓에"
+      },
+      {
+        "name": "ㄹ ending",
+        "description": "Stems ending in ㄹ drop the ㄹ before ㄴ.",
+        "example": "살다 → 사는 탓에"
+      },
+      {
+        "name": "ㅅ irregular",
+        "description": "Stems ending in ㅅ drop the ㅅ before vowel-initial endings.",
+        "example": "짓다 → 지은 탓에"
+      }
+    ]
+  },
+  {
+    "id": 234,
+    "explanation": "-아/어/여서 그런지 means 'maybe because.' It softens a cause, making it speculative rather than certain. Use it when you suspect something is the reason but you are not entirely sure.",
+    "rules": [
+      {
+        "title": "V/A-아서 그런지",
+        "description": "For stems with ㅏ or ㅗ, conjugate with -아서 and add 그런지.",
+        "examples": [
+          {
+            "korean": "피곤하다",
+            "breakdown": "피곤하 + 아서 그런지",
+            "english": "피곤해서 그런지 집중이 안 돼요 — Maybe because I'm tired, I can't focus."
+          }
+        ]
+      },
+      {
+        "title": "V/A-어서 그런지",
+        "description": "For stems with other vowels, conjugate with -어서 and add 그런지.",
+        "examples": [
+          {
+            "korean": "배고프다",
+            "breakdown": "배고프 + 어서 그런지",
+            "english": "배고파서 그런지 머리가 아파요 — Maybe because I'm hungry, my head hurts."
+          },
+          {
+            "korean": "춥다",
+            "breakdown": "춥 + 어서 그런지",
+            "english": "날씨가 추워서 그런지 손이 시려워요 — Maybe because the weather is cold, my hands are freezing."
+          }
+        ]
+      },
+      {
+        "title": "V/A-해서 그런지",
+        "description": "For 하다 verbs, 하 + 여서 contracts to 해서.",
+        "examples": [
+          {
+            "korean": "공부하다",
+            "breakdown": "공부하 + 여서 그런지",
+            "english": "공부해서 그런지 머리가 아파요 — Maybe because I studied, my head hurts."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "info",
+        "title": "Speculative softening",
+        "text": "그런지 adds uncertainty. Without it, -아/어서 states a definite cause. With 그런지, you are guessing or wondering about the connection."
+      },
+      {
+        "icon": "check",
+        "title": "Often used with body or feelings",
+        "text": "This pattern appears frequently when describing physical sensations, moods, and hunches where the cause is unclear."
+      }
+    ],
+    "exceptions": [
+      {
+        "name": "ㅂ irregular",
+        "description": "Stems ending in ㅂ change to 우 before vowel-initial endings.",
+        "example": "춥다 → 추워서 그런지"
+      },
+      {
+        "name": "ㄷ irregular",
+        "description": "Stems ending in ㄷ change to ㄹ before vowel-initial endings.",
+        "example": "걷다 → 걸어서 그런지"
+      },
+      {
+        "name": "ㅅ irregular",
+        "description": "Stems ending in ㅅ drop the ㅅ before vowel-initial endings.",
+        "example": "짓다 → 지어서 그런지"
+      },
+      {
+        "name": "ㅡ drop",
+        "description": "For stems ending in ㅡ, the ㅡ drops and the vowel harmonizes.",
+        "example": "예쁘다 → 예뻐서 그런지, 크다 → 커서 그런지"
+      },
+      {
+        "name": "르 irregular",
+        "description": "For 르-ending stems, an extra ㄹ is inserted into the previous syllable before 아/어.",
+        "example": "고르다 → 골라서 그런지"
+      }
+    ]
+  }
+]

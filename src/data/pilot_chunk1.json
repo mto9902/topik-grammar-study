@@ -1,0 +1,58 @@
+[
+  {
+    "id": 197,
+    "level": "3-4",
+    "category": "Time & Sequence",
+    "grammar": "V-(으)ㄴ/는 대로",
+    "meaning": "As soon as / the way"
+  },
+  {
+    "id": 198,
+    "level": "3-4",
+    "category": "Time & Sequence",
+    "grammar": "V-자마자",
+    "meaning": "As soon as"
+  },
+  {
+    "id": 199,
+    "level": "3-4",
+    "category": "Time & Sequence",
+    "grammar": "V-는 길에",
+    "meaning": "On the way"
+  },
+  {
+    "id": 200,
+    "level": "3-4",
+    "category": "Time & Sequence",
+    "grammar": "V-(으)ㄴ/는 김에",
+    "meaning": "While I'm at it"
+  },
+  {
+    "id": 201,
+    "level": "3-4",
+    "category": "Time & Sequence",
+    "grammar": "V-는 사이에",
+    "meaning": "In the meantime"
+  },
+  {
+    "id": 202,
+    "level": "3-4",
+    "category": "Time & Sequence",
+    "grammar": "V-(으)ㄴ 채(로)",
+    "meaning": "While in a state of"
+  },
+  {
+    "id": 203,
+    "level": "3-4",
+    "category": "Time & Sequence",
+    "grammar": "V-고 나서",
+    "meaning": "After doing"
+  },
+  {
+    "id": 204,
+    "level": "3-4",
+    "category": "Time & Sequence",
+    "grammar": "V-고 나면",
+    "meaning": "Once done"
+  }
+]

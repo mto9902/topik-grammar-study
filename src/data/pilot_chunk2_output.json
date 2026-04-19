@@ -1,0 +1,295 @@
+[
+  {
+    "id": 205,
+    "explanation": "-고 나니(까) means 'having done... I found that' or 'after doing... I realized'. Use it when you discover or realize something new as a natural consequence of completing an action. It often carries a sense of surprise or unexpected realization.",
+    "rules": [
+      {
+        "title": "Verb Stem + 고 나니(까)",
+        "description": "Attach 고 나니 or 고 나니까 directly to the verb stem of the completed action. 나니까 is a slightly more causal version, while 나니 is more reflective.",
+        "examples": [
+          {
+            "korean": "보다",
+            "breakdown": "보 + 고 나니까",
+            "english": "영화를 보고 나니까 기분이 좋아졌어요 — After watching the movie, I found that my mood had improved."
+          },
+          {
+            "korean": "먹다",
+            "breakdown": "먹 + 고 나니",
+            "english": "약을 먹고 나니 마음이 한결 편안해졌어요 — Having taken the medicine, I felt much more at ease."
+          },
+          {
+            "korean": "가다",
+            "breakdown": "가 + 고 나니까",
+            "english": "한국에 가고 나니까 문화가 정말 다를더라고요 — After going to Korea, I realized the culture is really different."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "info",
+        "title": "Same subject preferred",
+        "text": "The subject of both clauses is usually the same person. The first action must be completed before the realization in the second clause occurs."
+      },
+      {
+        "icon": "check",
+        "title": "Nuanced discovery",
+        "text": "Unlike simple -고 나서 (after doing), -고 나니(까) emphasizes a discovery or change in perception that results from the completed action."
+      }
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 208,
+    "explanation": "-(으)면 means 'if' or 'when'. Use it to set up a condition: if the situation in the first clause occurs, then the result in the second clause follows. It is one of the most versatile and frequently used conditional forms in Korean.",
+    "rules": [
+      {
+        "title": "Vowel or ㄹ ending → + 면",
+        "description": "Attach 면 directly to stems ending in a vowel or the consonant ㄹ.",
+        "examples": [
+          {
+            "korean": "가다",
+            "breakdown": "가 + 면",
+            "english": "시장에 가면 생선이 많아요 — When you go to the market, there is a lot of fish."
+          },
+          {
+            "korean": "만들다",
+            "breakdown": "만들 + 면",
+            "english": "직접 만들면 더 건강해요 — If you make it yourself, it's healthier."
+          }
+        ]
+      },
+      {
+        "title": "Consonant ending → + 으면",
+        "description": "Attach 으면 to stems ending in a consonant (other than ㄹ).",
+        "examples": [
+          {
+            "korean": "먹다",
+            "breakdown": "먹 + 으면",
+            "english": "매운 걸 먹으면 눈물이 나요 — If I eat spicy food, I tear up."
+          },
+          {
+            "korean": "찾다",
+            "breakdown": "찾 + 으면",
+            "english": "책을 찾으면 바로 알려 주세요 — If you find the book, please let me know right away."
+          }
+        ]
+      },
+      {
+        "title": "Habitual 'whenever'",
+        "description": "-(으)면 can also express a habitual or general truth, similar to 'whenever' in English.",
+        "examples": [
+          {
+            "korean": "비가 오다",
+            "breakdown": "비가 오 + 면",
+            "english": "비가 오면 기분이 우울해져요 — Whenever it rains, I feel down."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "info",
+        "title": "If vs. when",
+        "text": "-(으)면 blends 'if' and 'when'. Context and intonation determine whether it is hypothetical or refers to a recurring situation."
+      },
+      {
+        "icon": "check",
+        "title": "Tense goes at the end",
+        "text": "Do not put tense markers before -(으)면. The tense of the entire sentence is expressed in the final verb."
+      }
+    ],
+    "exceptions": [
+      {
+        "name": "ㅂ irregular",
+        "description": "Stems ending in ㅂ change to 우 before vowel-initial endings.",
+        "example": "춥다 → 추우면"
+      },
+      {
+        "name": "ㄷ irregular",
+        "description": "Stems ending in ㄷ change to 르 before vowel-initial endings.",
+        "example": "걷다 → 걸으면"
+      }
+    ]
+  },
+  {
+    "id": 211,
+    "explanation": "-는 동안 means 'during' or 'while'. Use it when two actions or states overlap in time. It emphasizes that something happens within the timeframe of another ongoing action.",
+    "rules": [
+      {
+        "title": "Verb Stem + 는 동안",
+        "description": "Attach 는 동안 directly to the verb stem. This form is identical for all verbs regardless of the final sound.",
+        "examples": [
+          {
+            "korean": "자다",
+            "breakdown": "자 + 는 동안",
+            "english": "아이가 자는 동안 청소를 했어요 — I cleaned while the baby was sleeping."
+          },
+          {
+            "korean": "기다리다",
+            "breakdown": "기다리 + 는 동안",
+            "english": "버스를 기다리는 동안 음악을 들었어요 — I listened to music while waiting for the bus."
+          },
+          {
+            "korean": "공부하다",
+            "breakdown": "공부하 + 는 동안",
+            "english": "친구가 공부하는 동안 나는 게임을 했어요 — While my friend was studying, I played games."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "info",
+        "title": "Duration matters",
+        "text": "-는 동안 is best used with actions or states that have a clear duration. It sounds awkward with instantaneous actions like 'to arrive' or 'to die'."
+      },
+      {
+        "icon": "group",
+        "title": "Subjects can differ",
+        "text": "Unlike -다가, the subjects of the two clauses can easily be different people. This is very common with -는 동안."
+      },
+      {
+        "icon": "check",
+        "title": "Difference from -(으)ㄹ 때",
+        "text": "-(으)ㄹ 때 simply points to a moment in time, while -는 동안 stresses the overlapping duration of two events."
+      }
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 212,
+    "explanation": "-(으)ㄹ 때 means 'when'. Use it to refer to a specific time, occasion, or circumstance in which something happens. It is extremely versatile and works for past, present, and future contexts.",
+    "rules": [
+      {
+        "title": "Vowel or ㄹ ending → + ㄹ 때",
+        "description": "Attach ㄹ 때 to stems ending in a vowel or the consonant ㄹ.",
+        "examples": [
+          {
+            "korean": "가다",
+            "breakdown": "가 + ㄹ 때",
+            "english": "한국에 갈 때 비행기를 탈 거예요 — When I go to Korea, I'll take a plane."
+          },
+          {
+            "korean": "만들다",
+            "breakdown": "만들 + ㄹ 때",
+            "english": "김치를 만들 때 재료가 아주 중요해요 — When making kimchi, the ingredients are very important."
+          }
+        ]
+      },
+      {
+        "title": "Consonant ending → + 을 때",
+        "description": "Attach 을 때 to stems ending in a consonant.",
+        "examples": [
+          {
+            "korean": "먹다",
+            "breakdown": "먹 + 을 때",
+            "english": "점심을 먹을 때 같이 이야기해요 — We talk together when we eat lunch."
+          },
+          {
+            "korean": "입다",
+            "breakdown": "입 + 을 때",
+            "english": "이 옷을 입을 때 기분이 좋아요 — I feel good when I wear this."
+          }
+        ]
+      },
+      {
+        "title": "Past tense modifier → + 았/었을 때",
+        "description": "To talk about a time in the past, attach 을 때 to the past tense stem.",
+        "examples": [
+          {
+            "korean": "어리다",
+            "breakdown": "어렸 + 을 때",
+            "english": "어렸을 때 할머니 집에서 살았어요 — When I was young, I lived at my grandmother's house."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "info",
+        "title": "Habitual or specific",
+        "text": "-(으)ㄹ 때 can refer to a single future event or a habitual situation. Context makes it clear which one is meant."
+      },
+      {
+        "icon": "check",
+        "title": "Adjectives work too",
+        "text": "Although this entry is categorized under verbs, adjectives also take -(으)ㄹ 때 (e.g., 바쁠 때, 피곤할 때)."
+      }
+    ],
+    "exceptions": [
+      {
+        "name": "ㅂ irregular",
+        "description": "Stems ending in ㅂ change to 우 before vowel-initial endings.",
+        "example": "춥다 → 추울 때"
+      },
+      {
+        "name": "ㄷ irregular",
+        "description": "Stems ending in ㄷ change to 르 before vowel-initial endings.",
+        "example": "걷다 → 걸을 때"
+      }
+    ]
+  },
+  {
+    "id": 213,
+    "explanation": "-(으)ㄴ 후에 means 'after'. Use it when one action is fully completed before another action begins. It is more formal and slightly more explicit than -고 나서, making it common in written Korean and polite speech.",
+    "rules": [
+      {
+        "title": "Vowel or ㄹ ending → + ㄴ 후에",
+        "description": "Attach ㄴ 후에 to stems ending in a vowel or the consonant ㄹ.",
+        "examples": [
+          {
+            "korean": "가다",
+            "breakdown": "가 + ㄴ 후에",
+            "english": "회의가 끝난 후에 점심을 먹으러 갔어요 — After the meeting ended, we went to eat lunch."
+          },
+          {
+            "korean": "만들다",
+            "breakdown": "만들 + ㄴ 후에",
+            "english": "케이크를 만든 후에 사진을 찍었어요 — After making the cake, I took a photo."
+          }
+        ]
+      },
+      {
+        "title": "Consonant ending → + 은 후에",
+        "description": "Attach 은 후에 to stems ending in a consonant.",
+        "examples": [
+          {
+            "korean": "먹다",
+            "breakdown": "먹 + 은 후에",
+            "english": "밥을 먹은 후에 바로 운 동하지 마세요 — Don't exercise right after eating."
+          },
+          {
+            "korean": "읽다",
+            "breakdown": "읽 + 은 후에",
+            "english": "책을 읽은 후에 독후감을 써야 해요 — I have to write a book report after reading the book."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "check",
+        "title": "More formal than -고 나서",
+        "text": "-(으)ㄴ 후에 is preferred in essays, reports, and formal speech. In casual conversation, -고 나서 is far more common."
+      },
+      {
+        "icon": "info",
+        "title": "Action must be completed",
+        "text": "The first action must be finished before the second action begins. Do not use this for simultaneous or interrupted actions."
+      }
+    ],
+    "exceptions": [
+      {
+        "name": "ㅂ irregular",
+        "description": "Stems ending in ㅂ change to 우 before vowel-initial endings.",
+        "example": "춥다 → 추운 후에"
+      },
+      {
+        "name": "ㄷ irregular",
+        "description": "Stems ending in ㄷ change to 르 before vowel-initial endings.",
+        "example": "걷다 → 걸은 후에"
+      }
+    ]
+  }
+]

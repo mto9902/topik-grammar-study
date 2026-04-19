@@ -1,0 +1,121 @@
+[
+  {
+    "id": 191,
+    "level": "3-4",
+    "category": "Causative & Passive",
+    "grammar": "V-게 하다",
+    "meaning": "Make / let someone do"
+  },
+  {
+    "id": 193,
+    "level": "3-4",
+    "category": "Causative & Passive",
+    "grammar": "V-아/여지다",
+    "meaning": "Passive (regular)"
+  },
+  {
+    "id": 202,
+    "level": "3-4",
+    "category": "Time & Sequence",
+    "grammar": "V-(으)ㄴ 채(로)",
+    "meaning": "While in a state of"
+  },
+  {
+    "id": 206,
+    "level": "3-4",
+    "category": "Time & Sequence",
+    "grammar": "V-다가",
+    "meaning": "While doing, then"
+  },
+  {
+    "id": 207,
+    "level": "3-4",
+    "category": "Time & Sequence",
+    "grammar": "V-다가(는)",
+    "meaning": "If you keep doing..."
+  },
+  {
+    "id": 209,
+    "level": "3-4",
+    "category": "Time & Sequence",
+    "grammar": "V-(으)려면",
+    "meaning": "If you want to"
+  },
+  {
+    "id": 210,
+    "level": "3-4",
+    "category": "Time & Sequence",
+    "grammar": "V-기 전에",
+    "meaning": "Before"
+  },
+  {
+    "id": 214,
+    "level": "3-4",
+    "category": "Contrast & Concession",
+    "grammar": "A/V-지만",
+    "meaning": "But / although"
+  },
+  {
+    "id": 219,
+    "level": "3-4",
+    "category": "Contrast & Concession",
+    "grammar": "A/V-아/어도",
+    "meaning": "Even if / even though"
+  },
+  {
+    "id": 223,
+    "level": "3-4",
+    "category": "Contrast & Concession",
+    "grammar": "N-(이)나마",
+    "meaning": "Even if it's only"
+  },
+  {
+    "id": 226,
+    "level": "3-4",
+    "category": "Cause & Reason",
+    "grammar": "A/V-(으)니까",
+    "meaning": "Because / since"
+  },
+  {
+    "id": 227,
+    "level": "3-4",
+    "category": "Cause & Reason",
+    "grammar": "V-는 바람에",
+    "meaning": "Due to (sudden cause, often negative)"
+  },
+  {
+    "id": 228,
+    "level": "3-4",
+    "category": "Cause & Reason",
+    "grammar": "V-는 통에",
+    "meaning": "Because of (disruptive cause)"
+  },
+  {
+    "id": 231,
+    "level": "3-4",
+    "category": "Cause & Reason",
+    "grammar": "A/V-기 때문에",
+    "meaning": "Because"
+  },
+  {
+    "id": 232,
+    "level": "3-4",
+    "category": "Cause & Reason",
+    "grammar": "V-느라고",
+    "meaning": "Because (busy doing, negative result)"
+  },
+  {
+    "id": 233,
+    "level": "3-4",
+    "category": "Cause & Reason",
+    "grammar": "V-(으)ㄴ/는 탓에",
+    "meaning": "Due to (negative result)"
+  },
+  {
+    "id": 234,
+    "level": "3-4",
+    "category": "Cause & Reason",
+    "grammar": "V-아/어/여서 그런지",
+    "meaning": "Maybe because"
+  }
+]

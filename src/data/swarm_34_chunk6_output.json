@@ -1,0 +1,791 @@
+[
+  {
+    "id": 320,
+    "explanation": "Use -다(가) 보면 to say that if you keep doing an action, a certain result or realization will naturally follow. It means 'if you keep doing...' and is often used to give encouragement or describe an inevitable discovery that comes from repetition.",
+    "rules": [
+      {
+        "title": "V-다(가) 보면",
+        "description": "Attach -다(가) 보면 directly to the verb stem. The 다가 can be shortened to 다 in casual speech. This form emphasizes persistence leading to an outcome.",
+        "examples": [
+          {
+            "korean": "가다",
+            "breakdown": "가 + 다(가) 보면",
+            "english": "열심히 공부하다(가) 보면 반드시 좋은 결과가 있을 거예요 — If you keep studying hard, you will surely see good results."
+          },
+          {
+            "korean": "먹다",
+            "breakdown": "먹 + 다(가) 보면",
+            "english": "이 음식을 먹다(가) 보면 익숙해질 거예요 — If you keep eating this food, you'll get used to it."
+          },
+          {
+            "korean": "연습하다",
+            "breakdown": "연습하 + 다(가) 보면",
+            "english": "매일 연습하다(가) 보면 실력이 늘 거예요 — If you keep practicing every day, your skills will improve."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "info",
+        "title": "Encouragement tone",
+        "text": "This grammar is often used to comfort or encourage someone that persistence leads to results."
+      },
+      {
+        "icon": "check",
+        "title": "다가 can be shortened",
+        "text": "Both 다(가) 보면 and 다가 보면 are acceptable; 다 보면 is more common in spoken Korean."
+      }
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 321,
+    "explanation": "Use -다고 치다 to set a hypothetical premise. It translates to 'assuming that,' 'suppose that,' or 'let's say that...' and is used when you want to reason from a starting point that may or may not be true.",
+    "rules": [
+      {
+        "title": "V-(ㄴ/는)다고 치다 / A-다고 치다",
+        "description": "For action verbs, use the plain form: -ㄴ다고 치다 after vowels or ㄹ, and -는다고 치다 after other consonants. For descriptive verbs, attach -다고 치다 directly. 치다 itself conjugates normally.",
+        "examples": [
+          {
+            "korean": "가다",
+            "breakdown": "가 + ㄴ다고 치다",
+            "english": "내일 간다고 치고 계획을 세우자 — Let's assume you're going tomorrow and make a plan."
+          },
+          {
+            "korean": "먹다",
+            "breakdown": "먹 + 는다고 치다",
+            "english": "다 먹는다고 쳐도 남을 거예요 — Even assuming you eat it all, there will be leftovers."
+          },
+          {
+            "korean": "좋다",
+            "breakdown": "좋 + 다고 치다",
+            "english": "좋다고 치자. 하지만 문제가 있어요 — Let's assume it's good. But there's a problem."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "info",
+        "title": "Conjugation of 치다",
+        "text": "Common forms include 다고 쳐도 (even assuming), 다고 치자 (let's assume), and 다고 치고 (assuming)."
+      },
+      {
+        "icon": "warning",
+        "title": "Hypothetical only",
+        "text": "This form explicitly marks the premise as hypothetical. Don't use it for real conditions."
+      }
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 322,
+    "explanation": "Use -든지 to express free choice among alternatives or to say 'whatever' or 'no matter what.' It indicates that any option is acceptable or that the result is the same regardless of the choice.",
+    "rules": [
+      {
+        "title": "V-든지",
+        "description": "Attach -든지 directly to the verb stem. There is no 받침 distinction. Often used in the two-part structure 든지... 든지.",
+        "examples": [
+          {
+            "korean": "먹다",
+            "breakdown": "먹 + 든지",
+            "english": "밥을 먹든지 국수를 먹든지 마음대로 해요 — Whether you eat rice or noodles, it's up to you."
+          },
+          {
+            "korean": "가다",
+            "breakdown": "가 + 든지",
+            "english": "집에 가든지 여기 있든지 네가 결정해 — Whether you go home or stay here, you decide."
+          },
+          {
+            "korean": "하다",
+            "breakdown": "하 + 든지",
+            "english": "어떻게 하든지 결과는 같을 거예요 — Whatever you do, the result will be the same."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "info",
+        "title": "Two-part structure",
+        "text": "Often used as 든지... 든지 to present two alternatives. Single use also works: 뭐든지 (whatever)."
+      },
+      {
+        "icon": "check",
+        "title": "Common pairings",
+        "text": "Frequently followed by expressions like 좋다, 마음대로, 상관없다, or 괜찮다."
+      },
+      {
+        "icon": "group",
+        "title": "Related grammar",
+        "text": "See 324 (A/V-(이)나 -(이)나 할 것 없이) for a more formal 'regardless of' meaning."
+      }
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 323,
+    "explanation": "Use -듯이 to say that someone does something 'as if' or 'like' something else. It describes an action that resembles another action or state, often when the resemblance is intentional or noticeable.",
+    "rules": [
+      {
+        "title": "V-듯이",
+        "description": "Attach -듯이 directly to the verb stem. For past states or completed actions, use -(으)ㄴ 듯이.",
+        "examples": [
+          {
+            "korean": "알다",
+            "breakdown": "알 + 는 듯이",
+            "english": "아는 듯이 말했지만 사실 몰랐어요 — He spoke as if he knew, but actually didn't."
+          },
+          {
+            "korean": "자다",
+            "breakdown": "자 + 는 듯이",
+            "english": "자는 듯이 눈을 감고 가만히 있었어요 — He sat still with his eyes closed as if sleeping."
+          },
+          {
+            "korean": "울다",
+            "breakdown": "울 + 은 듯이",
+            "english": "운 듯이 눈이 빨갛게 되었어요 — Her eyes turned red as if she had cried."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "info",
+        "title": "Past state",
+        "text": "Use -(으)ㄴ 듯이 for completed actions or states: 본 듯이, 들은 듯이."
+      },
+      {
+        "icon": "warning",
+        "title": "Not for guesses",
+        "text": "Don't confuse with -나 보다 or -는 모양이다, which are for speculation. 듯이 is about observable resemblance."
+      }
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 324,
+    "explanation": "Use -(이)나 -(이)나 할 것 없이 to say 'regardless of' or 'whether... or not.' It emphasizes that something applies universally without exception, no matter what condition is named.",
+    "rules": [
+      {
+        "title": "A/V-(으)나... (으)나 할 것 없이",
+        "description": "Attach (으)나 to the verb or adjective stem: 나 after a vowel, 으나 after a consonant. Repeat with the same or a contrasting stem, then add 할 것 없이.",
+        "examples": [
+          {
+            "korean": "비싸다",
+            "breakdown": "비싸 + 나",
+            "english": "비싸나 싸나 할 것 없이 다 잘 팔려요 — Regardless of whether it's expensive or cheap, everything sells well."
+          },
+          {
+            "korean": "오다",
+            "breakdown": "오 + 나",
+            "english": "오나 마나 할 것 없이 자리를 미리 예약해 둘게요 — Regardless of whether he comes or not, I'll reserve a seat in advance."
+          },
+          {
+            "korean": "좋다",
+            "breakdown": "좋 + 나",
+            "english": "좋으나 나쁘나 할 것 없이 모두 받아들여야 해요 — Regardless of whether it's good or bad, you have to accept it all."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "info",
+        "title": "Fixed pattern",
+        "text": "The structure requires two alternatives followed by 할 것 없이. Don't omit 할 것 없이."
+      },
+      {
+        "icon": "warning",
+        "title": "Formal and literary",
+        "text": "This form is more common in writing or formal speech. In casual conversation, consider -(이)나 마나 or -든지."
+      },
+      {
+        "icon": "group",
+        "title": "Related grammar",
+        "text": "See 322 (V-든지) for a more casual 'whatever' meaning."
+      }
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 325,
+    "explanation": "Use -고(요) to add information gently or to list items with a softening effect. It functions as 'and' but carries a milder, more polite tone than -고 alone. It is commonly used in explanations, presentations, and polite conversation.",
+    "rules": [
+      {
+        "title": "A/V-고(요)",
+        "description": "Attach -고(요) directly to the verb or adjective stem. The 요 can be dropped for casual speech.",
+        "examples": [
+          {
+            "korean": "먹다",
+            "breakdown": "먹 + 었고요",
+            "english": "저는 김치찌개를 먹었고요, 친구는 비빔밥을 먹었어요 — I had kimchi stew, and my friend had bibimbap."
+          },
+          {
+            "korean": "예쁘다",
+            "breakdown": "예쁘 + 고요",
+            "english": "이 가방은 예쁘고요, 가격도 괜찮아요 — This bag is pretty, and the price is good too."
+          },
+          {
+            "korean": "살다",
+            "breakdown": "살 + 고요",
+            "english": "서울에 살고요, 회사는 부산에 있어요 — I live in Seoul, and my company is in Busan."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "info",
+        "title": "Softening effect",
+        "text": "The 요 adds politeness and creates a gentle pause. Common in customer service, presentations, and formal introductions."
+      },
+      {
+        "icon": "check",
+        "title": "Can drop 요",
+        "text": "In casual speech among friends, just use -고."
+      },
+      {
+        "icon": "warning",
+        "title": "Not a question softener",
+        "text": "Unlike -ㄴ/는데요, -고(요) is for adding information, not softening questions."
+      }
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 328,
+    "explanation": "Use -고 말다 to indicate that an action ended up happening, often unintentionally or inevitably. It can express completion, regret, or a result that was bound to occur despite efforts to prevent it.",
+    "rules": [
+      {
+        "title": "V-고 말다",
+        "description": "Attach -고 말다 to the verb stem. 말다 conjugates normally for tense: 고 말았다, 고 말아, etc.",
+        "examples": [
+          {
+            "korean": "까먹다",
+            "breakdown": "까먹 + 고 말다",
+            "english": "중요한 약속을 까먹고 말았어요 — I ended up forgetting an important appointment."
+          },
+          {
+            "korean": "떨어뜨리다",
+            "breakdown": "떨어뜨리 + 고 말다",
+            "english": "핸드폰을 떨어뜨리고 말았어요 — I ended up dropping my phone."
+          },
+          {
+            "korean": "울다",
+            "breakdown": "울 + 고 말다",
+            "english": "결국 참지 못하고 울고 말았어요 — In the end I couldn't hold back and ended up crying."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "info",
+        "title": "Regret or inevitability",
+        "text": "Often carries a sense that the result was unavoidable or unfortunate."
+      },
+      {
+        "icon": "check",
+        "title": "Past tense is most common",
+        "text": "The form 고 말았다 is most common; present 고 말아요 is rare. This grammar is mostly used for past results."
+      },
+      {
+        "icon": "group",
+        "title": "Related grammar",
+        "text": "See 329 (V-고 들다) for a more narrative or literary 'end up doing' form."
+      }
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 329,
+    "explanation": "Use -고 들다 to say that someone 'ended up doing' something, often unexpectedly or against their initial intention. It has a more narrative or literary flavor than -고 말다 and is commonly found in storytelling.",
+    "rules": [
+      {
+        "title": "V-고 들다",
+        "description": "Attach -고 들다 directly to the verb stem. 들다 conjugates for tense. Common patterns include V-고 들었다 and V-고 들면.",
+        "examples": [
+          {
+            "korean": "말하다",
+            "breakdown": "말하 + 고 들다",
+            "english": "화가 나서 결국 그 말을 하고 들었다 — Angered, he ended up saying it after all."
+          },
+          {
+            "korean": "늦잠을 자다",
+            "breakdown": "자 + 고 들다",
+            "english": "피곤해서 늦잠을 자고 들었다 — I was tired and ended up oversleeping."
+          },
+          {
+            "korean": "화내다",
+            "breakdown": "화내 + 고 들다",
+            "english": "참으려 했는데 화내고 들었다 — I tried to hold it in, but ended up getting angry."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "info",
+        "title": "Narrative tone",
+        "text": "This form is more common in written narratives, novels, and dramatic storytelling than in daily conversation."
+      },
+      {
+        "icon": "check",
+        "title": "Conditional use",
+        "text": "V-고 들면 means 'if one ends up V-ing,' which is a common pattern for warnings or hypothetical outcomes."
+      },
+      {
+        "icon": "group",
+        "title": "Related grammar",
+        "text": "See 328 (V-고 말다) for the more common spoken equivalent."
+      }
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 330,
+    "explanation": "Use -고 말고(요) to express emphatic agreement. It translates to 'of course,' 'definitely,' or 'you bet' and is used when you strongly agree with a statement or answer a question in the affirmative.",
+    "rules": [
+      {
+        "title": "A/V-고 말고(요)",
+        "description": "Attach -고 말고(요) directly to the verb or adjective stem. The 요 is optional and adds politeness.",
+        "examples": [
+          {
+            "korean": "가다",
+            "breakdown": "가 + 고 말고요",
+            "english": "내일 파티에 가고 말고요 — Of course I'll go to the party tomorrow."
+          },
+          {
+            "korean": "좋다",
+            "breakdown": "좋 + 고 말고요",
+            "english": "이 선물 받고 싶어요? 좋고 말고요 — Do you want this gift? Of course I'd love it."
+          },
+          {
+            "korean": "하다",
+            "breakdown": "하 + 고 말고요",
+            "english": "그 일 내가 하고 말고요 — Of course I'll do that job."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "info",
+        "title": "Strong agreement",
+        "text": "This is very emphatic. Only use it when you want to show enthusiastic or definite agreement."
+      },
+      {
+        "icon": "warning",
+        "title": "Casual contexts",
+        "text": "In very formal settings, this can sound too casual or strong. Use 네, 그렇습니다 instead."
+      },
+      {
+        "icon": "close",
+        "title": "Not for negative agreement",
+        "text": "To strongly disagree, use other forms. -고 말고 is strictly for positive agreement."
+      }
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 331,
+    "explanation": "Use -기 십상이다 to say that something is very likely to happen or prone to occur. It translates to 'very likely to,' 'prone to,' or 'tends to' and often implies that the outcome is almost expected, especially when it is negative.",
+    "rules": [
+      {
+        "title": "A/V-기 십상이다",
+        "description": "Attach -기 십상이다 directly to the verb or adjective stem. There is no 받침 distinction.",
+        "examples": [
+          {
+            "korean": "실수하다",
+            "breakdown": "실수하 + 기 십상이다",
+            "english": "초보자는 실수하기 십상이에요 — Beginners are very likely to make mistakes."
+          },
+          {
+            "korean": "아프다",
+            "breakdown": "아프 + 기 십상이다",
+            "english": "날씨가 추우면 감기에 걸리기 십상이에요 — When the weather is cold, you're very likely to catch a cold."
+          },
+          {
+            "korean": "지루하다",
+            "breakdown": "지루하 + 기 십상이다",
+            "english": "혼자 있으면 지루하기 십상이에요 — If you're alone, you're very likely to get bored."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "info",
+        "title": "Negative tendency",
+        "text": "This grammar often describes undesirable outcomes. 십상 literally means 'ten times out of ten.'"
+      },
+      {
+        "icon": "warning",
+        "title": "Not for positive predictions",
+        "text": "While grammatically possible with positive events, it sounds most natural with negative or challenging outcomes. Use -(으)ㄹ 거예요 for neutral positive predictions."
+      },
+      {
+        "icon": "group",
+        "title": "Related grammar",
+        "text": "See 332 (A/V-기 마련이다) for 'bound to' in a more neutral, universal sense."
+      }
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 332,
+    "explanation": "Use -기 마련이다 to say that something is bound to happen or is only natural. It translates to 'bound to,' 'is bound to,' or 'is only natural' and is used for universal truths, natural consequences, or things that happen as a matter of course.",
+    "rules": [
+      {
+        "title": "A/V-기 마련이다",
+        "description": "Attach -기 마련이다 directly to the verb or adjective stem. There is no 받침 distinction.",
+        "examples": [
+          {
+            "korean": "변하다",
+            "breakdown": "변하 + 기 마련이다",
+            "english": "세상은 변하기 마련이에요 — The world is bound to change."
+          },
+          {
+            "korean": "힘들다",
+            "breakdown": "힘들 + 기 마련이다",
+            "english": "처음에는 힘들기 마련이에요 — It's bound to be hard at first."
+          },
+          {
+            "korean": "잊다",
+            "breakdown": "잊 + 기 마련이다",
+            "english": "바쁘면 가끔 잊기 마련이에요 — When you're busy, you're bound to forget sometimes."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "info",
+        "title": "Universal or natural",
+        "text": "마련 means 'as a rule' or 'naturally.' Use it for things that are expected by common sense."
+      },
+      {
+        "icon": "warning",
+        "title": "Not for single events",
+        "text": "Don't use this for a specific one-time prediction. It describes general patterns or inevitable tendencies."
+      },
+      {
+        "icon": "group",
+        "title": "Related grammar",
+        "text": "See 331 (A/V-기 십상이다) for a similar meaning with a negative tendency."
+      }
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 333,
+    "explanation": "Use -(으)ㄴ/는 걸(요) to explain, justify, or emphasize a reason in a soft, friendly way. It translates to 'you know...' or 'the thing is...' and is very common in spoken Korean when giving excuses or expressing mild emotion.",
+    "rules": [
+      {
+        "title": "V-(으)ㄴ/는 걸(요) / A-(으)ㄴ 걸(요)",
+        "description": "For present action verbs, use -는 걸(요). For past action verbs and descriptive verbs, use -(으)ㄴ 걸(요): -ㄴ 걸 after vowels, -은 걸 after consonants.",
+        "examples": [
+          {
+            "korean": "늦다",
+            "breakdown": "늦 + 은 걸요",
+            "english": "오늘은 늦은 걸요 — You know, I'm late today."
+          },
+          {
+            "korean": "피곤하다",
+            "breakdown": "피곤하 + ㄴ 걸요",
+            "english": "어제 잘 못 자서 피곤한 걸요 — You know, I'm tired because I didn't sleep well."
+          },
+          {
+            "korean": "비가 오다",
+            "breakdown": "오 + 는 걸요",
+            "english": "우산을 안 가져왔는데 비가 오는 걸요 — You know, I didn't bring an umbrella and it's raining."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "info",
+        "title": "Very conversational",
+        "text": "This is almost exclusively spoken. It softens complaints, excuses, and explanations."
+      },
+      {
+        "icon": "info",
+        "title": "Emotional nuance",
+        "text": "Can express mild disappointment, surprise, or realization depending on intonation."
+      },
+      {
+        "icon": "warning",
+        "title": "Not for formal writing",
+        "text": "Avoid this form in essays, reports, or formal presentations. Use -기 때문입니다 instead."
+      }
+    ],
+    "exceptions": [
+      {
+        "name": "ㅂ irregular",
+        "description": "When the stem ends in ㅂ, change ㅂ to 우 before vowel-initial endings.",
+        "example": "춥다 → 추운 걸요"
+      }
+    ]
+  },
+  {
+    "id": 334,
+    "explanation": "Use -(는)군(요) or -(는)구나 to express a sudden realization or new discovery. It translates to 'Oh, I see,' 'So that's how it is,' or 'I didn't know that' and is used when you just learned something.",
+    "rules": [
+      {
+        "title": "V-는군(요) / A-군(요)",
+        "description": "For action verbs in the present, attach -는군(요). For descriptive verbs, attach -군(요) directly. For past action verbs, use -었군(요).",
+        "examples": [
+          {
+            "korean": "자다",
+            "breakdown": "자 + 는군요",
+            "english": "아이가 벌써 자는군요 — Oh, the child is already asleep."
+          },
+          {
+            "korean": "공부하다",
+            "breakdown": "공부하 + 는군요",
+            "english": "열심히 공부하는군요 — Oh, you study hard."
+          },
+          {
+            "korean": "좋다",
+            "breakdown": "좋 + 군요",
+            "english": "여기가 참 좋군요 — Oh, this place is really nice."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "info",
+        "title": "Politeness level",
+        "text": "군요 is polite and can be used with 요. 구나 is casual and intimate."
+      },
+      {
+        "icon": "info",
+        "title": "First-person realization",
+        "text": "When used about oneself, it can sound like you're reflecting on your own situation: 피곤하구나."
+      },
+      {
+        "icon": "warning",
+        "title": "Past tense for action verbs",
+        "text": "Action verbs in the past use -었군요, not *ㄴ군요. For example, 왔군요 (not 왔는군요)."
+      }
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 335,
+    "explanation": "Use -(으)ㄴ가(요)? to express curiosity, doubt, or wonder. It translates to 'I wonder...' or 'is it...?' and is used for self-reflection, rhetorical questions, or polite speculation. It carries a more thoughtful and literary tone than -(느)냐.",
+    "rules": [
+      {
+        "title": "V-는가(요)? / A-(으)ㄴ가(요)?",
+        "description": "For present action verbs, use -는가(요)?. For past action verbs, use -았/었는가(요)?. For descriptive verbs, use -(으)ㄴ가(요)?: -ㄴ가 after vowels, -은가 after consonants.",
+        "examples": [
+          {
+            "korean": "오다",
+            "breakdown": "오 + 는가요",
+            "english": "저 사람이 오는가요? — I wonder if that person is coming."
+          },
+          {
+            "korean": "맞다",
+            "breakdown": "맞 + 는가",
+            "english": "내 생각이 맞는가? — I wonder if my thinking is correct."
+          },
+          {
+            "korean": "비싸다",
+            "breakdown": "비싸 + ㄴ가요",
+            "english": "이 가방이 비싼가요? — I wonder if this bag is expensive."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "info",
+        "title": "Reflective tone",
+        "text": "More literary and contemplative than 냐. Often used in inner monologue, essays, or poetry."
+      },
+      {
+        "icon": "check",
+        "title": "With 요",
+        "text": "Adding 요 makes it polite but still thoughtful. Without 요, it can sound like you're talking to yourself."
+      },
+      {
+        "icon": "warning",
+        "title": "Not for direct questions",
+        "text": "In casual conversation, use -아/어요? -(으)ㄴ가요 is acceptable but slightly formal or reflective."
+      }
+    ],
+    "exceptions": [
+      {
+        "name": "ㅂ irregular",
+        "description": "When the stem ends in ㅂ, change ㅂ to 우 before vowel-initial endings.",
+        "example": "춥다 → 추운가요?"
+      }
+    ]
+  },
+  {
+    "id": 336,
+    "explanation": "Use -잖아(요) to remind the listener of something they should already know. It translates to 'you know...,' 'after all,' or 'as you know' and carries the nuance that the information is obvious or shared.",
+    "rules": [
+      {
+        "title": "A/V-잖아(요)",
+        "description": "Attach -잖아(요) directly to the verb or adjective stem. For past tense, attach to the past stem: -았/었잖아(요).",
+        "examples": [
+          {
+            "korean": "힘들다",
+            "breakdown": "힘들 + 잖아요",
+            "english": "일이 많아서 힘들잖아요 — You know, work is hard because there's a lot of it."
+          },
+          {
+            "korean": "약속하다",
+            "breakdown": "약속했 + 잖아요",
+            "english": "우리 내일 만나기로 약속했잖아요 — You know, we promised to meet tomorrow."
+          },
+          {
+            "korean": "맞다",
+            "breakdown": "맞 + 잖아요",
+            "english": "제 말이 맞잖아요 — You know, I'm right."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "info",
+        "title": "Common in speech",
+        "text": "This is one of the most frequently used endings in casual Korean conversation."
+      },
+      {
+        "icon": "warning",
+        "title": "Can sound defensive",
+        "text": "Depending on tone, it can come across as pushy or argumentative. Use 요 to soften."
+      },
+      {
+        "icon": "check",
+        "title": "Past tense",
+        "text": "Simply add 잖아요 to the past form: 갔잖아요, 먹었잖아요, 좋았잖아요."
+      }
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 337,
+    "explanation": "Use -(ㄴ/는)다 to make plain declarative statements. It is the 해라체 speech level used in newspapers, novels, diaries, impersonal writing, and when talking to oneself. For adjectives, simply use -다.",
+    "rules": [
+      {
+        "title": "V-(ㄴ/는)다",
+        "description": "For action verbs: use -ㄴ다 after a vowel or ㄹ-ending stem, and -는다 after other consonants. Adjectives do not take ㄴ/는 and simply use -다.",
+        "examples": [
+          {
+            "korean": "가다",
+            "breakdown": "가 + ㄴ다",
+            "english": "내일 학교에 간다 — I go to school tomorrow."
+          },
+          {
+            "korean": "먹다",
+            "breakdown": "먹 + 는다",
+            "english": "아침을 먹는다 — I eat breakfast."
+          },
+          {
+            "korean": "하다",
+            "breakdown": "하 + ㄴ다",
+            "english": "숙제를 한다 — I do homework."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "info",
+        "title": "Adjectives don't get ㄴ/는",
+        "text": "Adjectives and 이다 simply take -다: 크다, 작다, 이다. Only action verbs use ㄴ/는다."
+      },
+      {
+        "icon": "check",
+        "title": "Self-talk",
+        "text": "Koreans often use this form when muttering to themselves or stating facts plainly."
+      },
+      {
+        "icon": "warning",
+        "title": "Not for polite conversation",
+        "text": "Using this with strangers or superiors can sound blunt or rude. Use -아/어요 instead."
+      }
+    ],
+    "exceptions": [
+      {
+        "name": "ㄹ ending",
+        "description": "When the stem ends in ㄹ, drop ㄹ and add -ㄴ다.",
+        "example": "만들다 → 만든다"
+      }
+    ]
+  },
+  {
+    "id": 338,
+    "explanation": "Use -아/어라 to give commands or orders in the 해라체 speech level. It is the casual imperative form used between close friends, by seniors to juniors, in written instructions, or in urgent situations.",
+    "rules": [
+      {
+        "title": "V-아/어라",
+        "description": "After ㅏ or ㅗ vowels, use -아라. After other vowels, use -어라. 하다 verbs become 해라.",
+        "examples": [
+          {
+            "korean": "가다",
+            "breakdown": "가 + 아라",
+            "english": "빨리 가라 — Go quickly."
+          },
+          {
+            "korean": "먹다",
+            "breakdown": "먹 + 어라",
+            "english": "다 먹어라 — Eat it all."
+          },
+          {
+            "korean": "공부하다",
+            "breakdown": "공부하 + 여라",
+            "english": "열심히 공부해라 — Study hard."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "info",
+        "title": "해라체 command",
+        "text": "This is stronger and more direct than -(으)세요. Appropriate for clear instructions."
+      },
+      {
+        "icon": "warning",
+        "title": "Context matters",
+        "text": "Between strangers or in polite settings, this can sound aggressive. Use -(으)세요 for general politeness."
+      },
+      {
+        "icon": "check",
+        "title": "Written usage",
+        "text": "Commonly found in signs, manuals, recipes, and test instructions: 여기에 이름을 써라."
+      }
+    ],
+    "exceptions": [
+      {
+        "name": "ㅂ irregular",
+        "description": "When the stem ends in ㅂ, change ㅂ to 우 before vowel-initial endings.",
+        "example": "춥다 → 추워라"
+      },
+      {
+        "name": "ㄷ irregular",
+        "description": "When the stem ends in ㄷ, change ㄷ to ㄹ before vowel-initial endings.",
+        "example": "걷다 → 걸어라"
+      },
+      {
+        "name": "ㅅ irregular",
+        "description": "When the stem ends in ㅅ, drop ㅅ before vowel-initial endings.",
+        "example": "짓다 → 지어라"
+      },
+      {
+        "name": "으 drop",
+        "description": "When the stem ends in ㅡ, drop ㅡ and add -어라.",
+        "example": "쓰다 → 써라"
+      }
+    ]
+  }
+]

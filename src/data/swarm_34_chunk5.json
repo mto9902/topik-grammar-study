@@ -1,0 +1,121 @@
+[
+  {
+    "id": 301,
+    "level": "3-4",
+    "category": "Indirect Speech (Quoted Speech)",
+    "grammar": "A/V-(으)ㄴ/는다더니",
+    "meaning": "They said... but"
+  },
+  {
+    "id": 302,
+    "level": "3-4",
+    "category": "Indirect Speech (Quoted Speech)",
+    "grammar": "A/V-(으)ㄴ/는다니까",
+    "meaning": "They say... so"
+  },
+  {
+    "id": 303,
+    "level": "3-4",
+    "category": "Indirect Speech (Quoted Speech)",
+    "grammar": "A/V-(으)ㄴ/는다더라 / 다던데",
+    "meaning": "They said... (I observed)"
+  },
+  {
+    "id": 304,
+    "level": "3-4",
+    "category": "Indirect Speech (Quoted Speech)",
+    "grammar": "A/V-(느/는)다니",
+    "meaning": "(I hear that)... (surprise)"
+  },
+  {
+    "id": 305,
+    "level": "3-4",
+    "category": "Indirect Speech (Quoted Speech)",
+    "grammar": "V-(ㄴ/는)다고 핵도",
+    "meaning": "Even if they say"
+  },
+  {
+    "id": 306,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-(으)므로",
+    "meaning": "Therefore (formal)"
+  },
+  {
+    "id": 307,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-거든(요)",
+    "meaning": "You see / because (casual explanation)"
+  },
+  {
+    "id": 308,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-거든",
+    "meaning": "If / because (formal conditional)"
+  },
+  {
+    "id": 309,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-길래",
+    "meaning": "Because / so (casual)"
+  },
+  {
+    "id": 310,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-(으)니만큼",
+    "meaning": "Since / as"
+  },
+  {
+    "id": 311,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "A/V-(으)ㄴ/는들",
+    "meaning": "Even if"
+  },
+  {
+    "id": 313,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-더니",
+    "meaning": "And then / but then (change)"
+  },
+  {
+    "id": 314,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-더라도",
+    "meaning": "Even if"
+  },
+  {
+    "id": 315,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-던데(요)",
+    "meaning": "I saw that... / you know..."
+  },
+  {
+    "id": 316,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-더라 / 더군(요)",
+    "meaning": "I observed that..."
+  },
+  {
+    "id": 317,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-던가(요)? / 던데(요)",
+    "meaning": "I wonder if"
+  },
+  {
+    "id": 319,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-다(가) 보니(까)",
+    "meaning": "After doing repeatedly..."
+  }
+]

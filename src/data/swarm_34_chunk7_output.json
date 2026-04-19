@@ -1,0 +1,431 @@
+[
+  {
+    "id": 340,
+    "explanation": "V-아/어야지 expresses the speaker's self-reminder, determination, or intention to do something. It is like telling yourself 'I should...' or 'I'd better...' Use it when making a personal decision, motivating yourself, or acknowledging that something needs to be done. It often appears as a sentence ending.",
+    "rules": [
+      {
+        "title": "ㅏ/ㅗ ending → + 아야지",
+        "description": "For verb stems ending in ㅏ or ㅗ, attach 아야지.",
+        "examples": [
+          {"korean": "가다", "breakdown": "가 + 아야지", "english": "이제 집에 가야지 — I should go home now."},
+          {"korean": "사다", "breakdown": "사 + 아야지", "english": "생일 선물을 사야지 — I should buy a birthday gift."}
+        ]
+      },
+      {
+        "title": "Other vowels → + 어야지",
+        "description": "For all other verb stems, attach 어야지.",
+        "examples": [
+          {"korean": "먹다", "breakdown": "먹 + 어야지", "english": "점심을 먹어야지 — I should eat lunch."},
+          {"korean": "일어나다", "breakdown": "일어나 + 아야지", "english": "내일 일찍 일어나야지 — I should wake up early tomorrow."}
+        ]
+      },
+      {
+        "title": "하다 → + 해야지",
+        "description": "하다 verbs combine to form 해야지.",
+        "examples": [
+          {"korean": "공부하다", "breakdown": "공부하 + 여야지", "english": "내일 시험이니까 공부해야지 — I have an exam tomorrow, so I should study."}
+        ]
+      }
+    ],
+    "notes": [
+      {"icon": "info", "title": "Self-directed only", "text": "This ending is almost always used when talking to yourself. It sounds odd when directed at others."},
+      {"icon": "group", "title": "Related form", "text": "See ID 341 (V-아/어야) for the same stem combined with a different ending that creates a necessary condition."}
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 341,
+    "explanation": "V-아/어야 and N(이)야 express a necessary condition — 'only if' or 'have to.' For verbs, it means an action must happen for something else to be possible. For nouns, it means something must be the case. It often pairs with 하다 or 돼요 to strengthen the sense of obligation.",
+    "rules": [
+      {
+        "title": "Verb → stem + 아/어야",
+        "description": "Attach 아/어야 to the verb stem using regular 아/어 conjugation.",
+        "examples": [
+          {"korean": "가다", "breakdown": "가 + 아야", "english": "열심히 공부해야 합격할 수 있어요 — You can pass only if you study hard."},
+          {"korean": "먹다", "breakdown": "먹 + 어야", "english": "약은 식후에 먹어야 돼요 — You have to take medicine after eating."}
+        ]
+      },
+      {
+        "title": "Noun + (이)야",
+        "description": "Attach 이야 to nouns ending in a consonant; 야 to nouns ending in a vowel.",
+        "examples": [
+          {"korean": "학생", "breakdown": "학생 + 이야", "english": "학생이야 할인을 받을 수 있어요 — Only if you're a student can you get a discount."},
+          {"korean": "친구", "breakdown": "친구 + 야", "english": "친구야 이해할 수 있어 — Only if you're a friend can you understand."}
+        ]
+      }
+    ],
+    "notes": [
+      {"icon": "warning", "title": "Ambiguity with obligation", "text": "아/어야 can mean both 'only if' (conditional) and 'have to' (obligation). Context usually makes the meaning clear."},
+      {"icon": "close", "title": "Do not confuse", "text": "아/어야지 (ID 340) is self-motivation. 아/어야 is a general condition or requirement that can apply to anyone."}
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 342,
+    "explanation": "V-나(요)?, 니?, and 냐? are casual or plain-style question endings. They are used in informal settings, among close friends, or in written plain speech. 나(요) softens the question slightly; 니 and 냐 are blunt 반말.",
+    "rules": [
+      {
+        "title": "V-나(요)",
+        "description": "Attach 나 to the verb stem. Add 요 for slightly more politeness in otherwise casual speech.",
+        "examples": [
+          {"korean": "가다", "breakdown": "가 + 나(요)", "english": "언제 가나요? — When are you going?"},
+          {"korean": "하다", "breakdown": "하 + 나(요)", "english": "뭐 하나요? — What are you doing?"}
+        ]
+      },
+      {
+        "title": "V-니",
+        "description": "Attach 니 to the verb stem. A common 반말 question ending.",
+        "examples": [
+          {"korean": "먹다", "breakdown": "먹 + 니", "english": "뭐 먹니? — What are you eating?"},
+          {"korean": "오다", "breakdown": "오 + 니", "english": "언제 오니? — When are you coming?"}
+        ]
+      },
+      {
+        "title": "V-냐",
+        "description": "Attach 냐 to the verb stem. The most direct and blunt casual question form.",
+        "examples": [
+          {"korean": "하다", "breakdown": "하 + 냐", "english": "어떻게 하냐? — What are you going to do?"},
+          {"korean": "좋아하다", "breakdown": "좋아하 + 냐", "english": "그걸 좋아하냐? — You like that?"}
+        ]
+      }
+    ],
+    "notes": [
+      {"icon": "warning", "title": "Politeness level", "text": "Avoid 니 and 냐 with strangers, elders, or in formal situations. 나(요) is acceptable in some semi-formal writing."},
+      {"icon": "info", "title": "Intonation matters", "text": "In spoken Korean, 니 and 냐 often sound more confrontational or surprised than curious. Use them carefully."}
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 343,
+    "explanation": "V-기에(는) is a formal or written-style connector meaning 'because' or 'since.' It gives a reason for the following clause. It is more formal than 아/어서 and tends to appear in essays, reports, news, or formal speech. The optional 는 adds emphasis.",
+    "rules": [
+      {
+        "title": "Verb stem + 기에(는)",
+        "description": "Attach 기에 directly to the verb stem. Add 는 for extra emphasis on the reason.",
+        "examples": [
+          {"korean": "늦다", "breakdown": "늦 + 기에", "english": "버스가 늦기에 택시를 탔어요 — The bus was late, so I took a taxi."},
+          {"korean": "오다", "breakdown": "오 + 기에", "english": "비가 오기에 우산을 가져갔어요 — It was raining, so I took an umbrella."},
+          {"korean": "멀다", "breakdown": "멀 + 기에", "english": "집이 멀기에 일찍 출발했어요 — Home is far, so I left early."}
+        ]
+      }
+    ],
+    "notes": [
+      {"icon": "info", "title": "Formal register", "text": "기에 is rarely used in casual conversation. In daily speech, replace it with 아/어서 or -(으)니까."},
+      {"icon": "warning", "title": "Tense restriction", "text": "기에 is usually attached to the verb stem directly. Do not add past or future tense before 기에."}
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 344,
+    "explanation": "V-기는(요) is used to contradict, deny, or downplay a previous statement. It is similar to saying 'Not really' or 'On the contrary.' It is commonly used when someone compliments you and you want to be humble, or when correcting an assumption.",
+    "rules": [
+      {
+        "title": "Verb stem + 기는(요)",
+        "description": "Attach 기는 to the verb stem. Add 요 for a polite but modest tone. Without 요, it is blunt 반말.",
+        "examples": [
+          {"korean": "잘하다", "breakdown": "잘하 + 기는", "english": "한국어를 잘하기는요, 아직 어려워요 — Not really good at Korean, it's still hard."},
+          {"korean": "알다", "breakdown": "알 + 기는", "english": "그 사람을 알기는요, 한 번 본 적만 있어요 — I don't really know him, I've only seen him once."},
+          {"korean": "예쁘다", "breakdown": "예쁘 + 기는", "english": "예쁘기는요, 그냥 그래요 — Not really pretty, it's just okay."}
+        ]
+      }
+    ],
+    "notes": [
+      {"icon": "info", "title": "Humble response pattern", "text": "This is the go-to pattern for politely rejecting compliments in Korean. It is considered graceful, not rude."},
+      {"icon": "warning", "title": "Tone matters", "text": "Without 요, 기는 can sound dismissive. In 반말, use it only with close friends."}
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 346,
+    "explanation": "V-아/어 가다 and V-아/어 오다 are directional auxiliary patterns. They describe doing an action while moving in a specific direction. 가다 indicates motion away from the speaker; 오다 indicates motion toward the speaker. They create vivid, dynamic descriptions of movement.",
+    "rules": [
+      {
+        "title": "V-아/어 가다 (motion away)",
+        "description": "Do an action while going away from the speaker or current location.",
+        "examples": [
+          {"korean": "걷다", "breakdown": "걷 + 어 가다", "english": "학교까지 걸어 갔어요 — I walked to school."},
+          {"korean": "달리다", "breakdown": "달리 + 어 가다", "english": "버스를 향해 달려 갔어요 — Ran toward the bus."}
+        ]
+      },
+      {
+        "title": "V-아/어 오다 (motion toward)",
+        "description": "Do an action while coming toward the speaker or current location.",
+        "examples": [
+          {"korean": "뛰다", "breakdown": "뛰 + 어 오다", "english": "친구가 뛰어 왔어요 — My friend came running."},
+          {"korean": "들다", "breakdown": "들 + 어 오다", "english": "커피를 들어 오세요 — Please bring in the coffee."}
+        ]
+      }
+    ],
+    "notes": [
+      {"icon": "info", "title": "Spatial awareness", "text": "The direction is always relative to the speaker at the time of speaking. Use 가다 even when the listener is going with you, as long as it is away from where you are now."},
+      {"icon": "group", "title": "Related pattern", "text": "See ID 347 for movement outward (나가다/내다), which adds the nuance of exiting or extracting."}
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 347,
+    "explanation": "V-아/어 나가다 and V-아/어 내다 describe doing an action while moving outward or extracting something. 나가다 focuses on physically exiting a space while performing the action. 내다 can mean bringing something out or completing an action thoroughly from beginning to end.",
+    "rules": [
+      {
+        "title": "V-아/어 나가다 (exit while doing)",
+        "description": "Perform an action while moving out of a place.",
+        "examples": [
+          {"korean": "뛰다", "breakdown": "뛰 + 어 나가다", "english": "소방관이 뛰어 나갔어요 — The firefighter ran out."},
+          {"korean": "들다", "breakdown": "들 + 어 나가다", "english": "상자를 들어 나갔어요 — Carried the box and went out."}
+        ]
+      },
+      {
+        "title": "V-아/어 내다 (bring out / do completely)",
+        "description": "Do an action and bring the result out, or carry an action through to completion.",
+        "examples": [
+          {"korean": "마시다", "breakdown": "마시 + 어 내다", "english": "물을 한 번에 마셔 냈어요 — Drank all the water in one go."},
+          {"korean": "짜다", "breakdown": "짜 + 아 내다", "english": "수건을 꽉 짜 냈어요 — Squeezed the towel out tightly."}
+        ]
+      }
+    ],
+    "notes": [
+      {"icon": "info", "title": "Subtle difference", "text": "나가다 is always about physical exit. 내다 as an auxiliary can also mean completion, not just outward movement."},
+      {"icon": "group", "title": "Related pattern", "text": "See ID 346 for basic directional auxiliaries (가다/오다)."}
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 349,
+    "explanation": "V-아/어 두다 and V-아/어 놓다 mean to do something in advance and leave it in that state for later use. They express preparation, reservation, or keeping something ready. The two are largely interchangeable as auxiliaries, though 두다 feels slightly more planned.",
+    "rules": [
+      {
+        "title": "V-아/어 두다",
+        "description": "Do an action and keep the result for future use.",
+        "examples": [
+          {"korean": "사다", "breakdown": "사 + 아 두다", "english": "미리 사 두세요 — Buy it in advance."},
+          {"korean": "준비하다", "breakdown": "준비하 + 여 두다", "english": "준비해 둘게요 — I'll prepare it in advance."}
+        ]
+      },
+      {
+        "title": "V-아/어 놓다",
+        "description": "Do an action and leave the result in place.",
+        "examples": [
+          {"korean": "쓰다", "breakdown": "쓰 + 어 놓다", "english": "메모를 써 놓았어요 — I wrote a memo and left it there."},
+          {"korean": "열다", "breakdown": "열 + 어 놓다", "english": "창문을 열어 놓았어요 — I left the window open."}
+        ]
+      }
+    ],
+    "notes": [
+      {"icon": "info", "title": "Interchangeable auxiliaries", "text": "In modern Korean, 아/어 두다 and 아/어 놓다 are nearly identical when used as auxiliaries. 두다 is slightly more common in formal contexts."},
+      {"icon": "group", "title": "Related pattern", "text": "See ID 350 (V-아/어 있다) for a state that exists without the planning nuance."}
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 350,
+    "explanation": "V-아/어 있다 describes a state that remains as a result of a completed action. It is different from V-고 있다, which describes an ongoing action. Use 아/어 있다 when something was done and the resulting condition still exists.",
+    "rules": [
+      {
+        "title": "Intransitive verbs + 아/어 있다",
+        "description": "Used with intransitive verbs to show a maintained physical state.",
+        "examples": [
+          {"korean": "앉다", "breakdown": "앉 + 아 있다", "english": "친구가 벤치에 앉아 있어요 — My friend is sitting on the bench."},
+          {"korean": "서다", "breakdown": "서 + 어 있다", "english": "버스 정류장에 사람들이 서 있어요 — People are standing at the bus stop."},
+          {"korean": "눕다", "breakdown": "눕 + 어 있다", "english": "고양이가 소파에 누워 있어요 — The cat is lying on the sofa."}
+        ]
+      },
+      {
+        "title": "Passive / result state",
+        "description": "Used with passive or change-of-state verbs to show a lasting result.",
+        "examples": [
+          {"korean": "남다", "breakdown": "남 + 아 있다", "english": "음식이 조금 남아 있어요 — Some food remains."},
+          {"korean": "깨다", "breakdown": "깨 + 어 있다", "english": "벌써 깨어 있었어요 — Was already awake."}
+        ]
+      }
+    ],
+    "notes": [
+      {"icon": "close", "title": "Not the same as -고 있다", "text": "앉고 있다 means 'in the process of sitting down.' 앉아 있다 means 'is seated.' The first is an action; the second is a state."},
+      {"icon": "group", "title": "Related pattern", "text": "See ID 351 (V-아/어 지다) for the change that leads to a state, and ID 349 (V-아/어 두다) for intentionally maintaining a state."}
+    ],
+    "exceptions": [
+      {"name": "눕다", "description": "ㅂ irregular: ㅂ drops and 와 is added.", "example": "눕 + 어 있다 → 누워 있다"}
+    ]
+  },
+  {
+    "id": 351,
+    "explanation": "V-아/어 지다 has two major functions. First, it creates a passive verb from a transitive verb. Second, it expresses a change of state, like 'become' or 'get.' It turns adjectives or descriptive ideas into dynamic processes.",
+    "rules": [
+      {
+        "title": "Change of state (become)",
+        "description": "Attach 아/어 지다 to adjectives or intransitive descriptions to show becoming.",
+        "examples": [
+          {"korean": "쉽다", "breakdown": "쉽 + 어 지다", "english": "한국어가 점점 쉬워지고 있어요 — Korean is gradually becoming easier."},
+          {"korean": "멀다", "breakdown": "멀 + 어 지다", "english": "친구와 멀어졌어요 — I grew apart from my friend."}
+        ]
+      },
+      {
+        "title": "Passive voice",
+        "description": "Attach 아/어 지다 to transitive verbs to form a passive.",
+        "examples": [
+          {"korean": "만들다", "breakdown": "만들 + 어 지다", "english": "이 컵은 한국에서 만들어졌어요 — This cup was made in Korea."}
+        ]
+      }
+    ],
+    "notes": [
+      {"icon": "info", "title": "Many lexicalized passives", "text": "Some verbs already have lexicalized passive forms (e.g., 먹다 → 먹히다, 팔다 → 팔리다). When those exist, they are preferred over 아/어 지다."},
+      {"icon": "group", "title": "Related pattern", "text": "See ID 350 (V-아/어 있다) for the resultant state after a change has occurred."}
+    ],
+    "exceptions": [
+      {"name": "쉽다", "description": "ㅂ irregular: ㅂ drops and 와 is added.", "example": "쉽 + 어 지다 → 쉬워지다"}
+    ]
+  },
+  {
+    "id": 352,
+    "explanation": "V-아/어 대다 means to keep doing something repeatedly or continuously. It often carries a nuance of excess, annoyance, or doing something without restraint. It is commonly used to describe sounds, speech, or emotional outbursts that go on and on.",
+    "rules": [
+      {
+        "title": "Verb stem + 아/어 대다",
+        "description": "Attach 아/어 대다 to the verb stem. The action is repeated or prolonged.",
+        "examples": [
+          {"korean": "울다", "breakdown": "울 + 어 대다", "english": "강아지가 밤새 울어댔어요 — The puppy kept crying all night."},
+          {"korean": "떠들다", "breakdown": "떠들 + 어 대다", "english": "수업 시간에 떠들어대지 마세요 — Don't keep chattering during class."},
+          {"korean": "웃다", "breakdown": "웃 + 어 대다", "english": "혼자서 웃어대고 있었어요 — Was just laughing to himself."}
+        ]
+      }
+    ],
+    "notes": [
+      {"icon": "warning", "title": "Often negative", "text": "While neutral in some contexts, 아/어 대다 frequently implies that the repeated action is excessive or bothersome."},
+      {"icon": "info", "title": "Common collocations", "text": "울어대다, 떠들어대다, 소리쳐대다, 먹어대다 are all very common collocations."}
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 353,
+    "explanation": "V-아/어 먹다 is a highly colloquial auxiliary that means to do something thoroughly, completely, or to a strong degree. It is rough, casual, and sometimes slangy. Despite using 먹다, it has nothing to do with eating. It is mostly used among friends or in informal media.",
+    "rules": [
+      {
+        "title": "Verb stem + 아/어 먹다",
+        "description": "Attach 아/어 먹다 to the verb stem. The action is done completely or intensely.",
+        "examples": [
+          {"korean": "망치다", "breakdown": "망치 + 어 먹다", "english": "시험을 망쳐 먹었어 — I completely messed up the exam."},
+          {"korean": "잊다", "breakdown": "잊 + 어 먹다", "english": "약속을 잊어 먹었어 — I totally forgot the promise."},
+          {"korean": "까먹다 (lexicalized)", "breakdown": "까 + 아 먹다", "english": "열쇠를 까먹었어 — I completely forgot the keys."}
+        ]
+      }
+    ],
+    "notes": [
+      {"icon": "warning", "title": "Register warning", "text": "This form is very casual and can sound crude. Never use it in formal writing or with elders."},
+      {"icon": "info", "title": "Semantic intensifier", "text": "아/어 먹다 does not change the core meaning. It simply intensifies it, like adding 'the hell out of' in English."}
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 354,
+    "explanation": "V-아/어 죽다 is a hyperbolic expression meaning you are overwhelmed by something to the point of feeling like you might die. It is almost never literal. It is commonly used to describe extreme hunger, laughter, heat, cold, or fatigue.",
+    "rules": [
+      {
+        "title": "Verb stem + 아/어 죽겠다",
+        "description": "Attach 아/어 죽겠다 to the verb stem. 죽다 is almost always conjugated with the future intent 겠다 in this pattern.",
+        "examples": [
+          {"korean": "배고프다", "breakdown": "배고프 + 아 죽겠다", "english": "배고파 죽겠어 — I'm starving."},
+          {"korean": "재미있다", "breakdown": "재미있 + 어 죽겠다", "english": "이 영화 재미있어 죽겠다 — This movie is hilariously funny."},
+          {"korean": "덥다", "breakdown": "덥 + 어 죽겠다", "english": "여름에 더워 죽겠어 — It's unbearably hot in summer."}
+        ]
+      }
+    ],
+    "notes": [
+      {"icon": "info", "title": "Hyperbole is key", "text": "This is pure exaggeration. No one actually thinks they will die. It is a friendly, vivid way to express intensity."},
+      {"icon": "group", "title": "Related pattern", "text": "See ID 353 (V-아/어 먹다) for another casual auxiliary that intensifies meaning."}
+    ],
+    "exceptions": [
+      {"name": "배고프다", "description": "ㅡ drop: ㅡ drops and 아 is added.", "example": "배고프 + 아 죽겠다 → 배고파 죽겠다"},
+      {"name": "덥다", "description": "ㅂ irregular: ㅂ drops and 와 is added.", "example": "덥 + 어 죽겠다 → 더워 죽겠다"}
+    ]
+  },
+  {
+    "id": 355,
+    "explanation": "V-아/어 달라(고) 하다 is the standard pattern for asking someone to do something for you. It is less direct than 아/어 주세요 and functions as an indirect request. When shortened in casual speech, it becomes V-아/어 달라. It is an essential pattern for making polite or reported requests.",
+    "rules": [
+      {
+        "title": "V-아/어 달라(고) 하다",
+        "description": "Attach 아/어 달라고 하다 to the verb stem. Use this to report a request or make an indirect appeal.",
+        "examples": [
+          {"korean": "돕다", "breakdown": "돕 + 아 달라(고) 하다", "english": "동생에게 숙제를 도와 달라고 했어요 — I asked my younger sibling to help with homework."},
+          {"korean": "읽다", "breakdown": "읽 + 어 달라(고) 하다", "english": "책을 읽어 달라고 했어요 — I asked them to read the book."},
+          {"korean": "가르치다", "breakdown": "가르치 + 어 달라(고) 하다", "english": "한국어를 가르쳐 달라고 했어요 — I asked them to teach me Korean."}
+        ]
+      }
+    ],
+    "notes": [
+      {"icon": "info", "title": "Reported speech", "text": "달라고 하다 is the most natural way to report a request. '저는 선생님께 설명해 달라고 했어요' means 'I asked the teacher to explain.'"},
+      {"icon": "close", "title": "Not an auxiliary verb", "text": "달라 comes from 주다 (to give) in the request form. Unlike 가다 or 오다, it is not a standalone auxiliary verb, but the pattern is fixed and productive."}
+    ],
+    "exceptions": [
+      {"name": "돕다", "description": "ㅂ irregular: ㅂ drops and 와 is added.", "example": "돕 + 아 달라 → 도와 달라"}
+    ]
+  },
+  {
+    "id": 356,
+    "explanation": "V-아/여 보이다 means 'to look' or 'to seem' from the observer's perspective. It describes how something appears to others. It is formed by adding 보이다 to an adjective or descriptive verb stem. This is different from the passive 보이다 (to be seen).",
+    "rules": [
+      {
+        "title": "Adjective stem + 아/어 보이다",
+        "description": "Attach 아/어 보이다 to descriptive verbs. 하다 becomes 해 보이다.",
+        "examples": [
+          {"korean": "예쁘다", "breakdown": "예쁘 + 어 보이다", "english": "그 옷이 정말 예뻐 보여요 — That dress looks really pretty."},
+          {"korean": "어렵다", "breakdown": "어렵 + 어 보이다", "english": "이 문제는 어려워 보여요 — This problem looks difficult."},
+          {"korean": "피곤하다", "breakdown": "피곤하 + 여 보이다", "english": "어제 잠을 못 잤나 봐요, 피곤해 보여요 — You look tired, maybe you couldn't sleep yesterday."}
+        ]
+      }
+    ],
+    "notes": [
+      {"icon": "info", "title": "Observer's perspective", "text": "아/어 보이다 is always about appearance to an outside observer. You cannot use it to describe your own internal state as you experience it."},
+      {"icon": "close", "title": "Not the passive 보이다", "text": "산 보이다 means 'the mountain is visible.' 산이 멋있어 보이다 means 'the mountain looks cool.' These are different grammars."}
+    ],
+    "exceptions": [
+      {"name": "어렵다", "description": "ㅂ irregular: ㅂ drops and 와 is added.", "example": "어렵 + 어 보이다 → 어려워 보이다"}
+    ]
+  },
+  {
+    "id": 357,
+    "explanation": "V-아/어 가지고 is a casual connector with two main uses. First, it shows sequence: doing one thing and then another. Second, it shows cause and effect, like 'so' or 'because.' It is very common in spoken Korean but too casual for formal writing.",
+    "rules": [
+      {
+        "title": "Sequence (do A, then B)",
+        "description": "Attach 아/어 가지고 to the first verb to show that its action precedes the next.",
+        "examples": [
+          {"korean": "사다", "breakdown": "사 + 아 가지고", "english": "책을 사 가지고 왔어요 — I bought a book and brought it."},
+          {"korean": "입다", "breakdown": "입 + 어 가지고", "english": "옷을 입어 가지고 나갔어요 — Got dressed and went out."}
+        ]
+      },
+      {
+        "title": "Cause and effect",
+        "description": "Attach 아/어 가지고 to the cause clause. The result is usually negative or consequential.",
+        "examples": [
+          {"korean": "먹다", "breakdown": "먹 + 어 가지고", "english": "아침을 안 먹어 가지고 배가 고파요 — I didn't eat breakfast, so I'm hungry."},
+          {"korean": "공부하다", "breakdown": "공부하 + 여 가지고", "english": "밤새 공부해 가지고 잠이 와요 — I studied all night, so I'm sleepy."}
+        ]
+      }
+    ],
+    "notes": [
+      {"icon": "warning", "title": "Too casual for formal use", "text": "In essays, reports, or polite speeches, replace 가지고 with 아/어서 or -(으)니까."},
+      {"icon": "info", "title": "Often shortened to 갖고", "text": "In rapid speech, 가지고 is frequently pronounced and even written as 갖고."}
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 360,
+    "explanation": "N-에 따라(서) means 'according to,' 'depending on,' or 'in accordance with.' It shows that a result, opinion, or situation changes based on the noun. It is extremely common in both speech and writing.",
+    "rules": [
+      {
+        "title": "Noun + 에 따라(서)",
+        "description": "Attach 에 따라(서) directly to the noun. The 서 is optional and does not change the meaning.",
+        "examples": [
+          {"korean": "날씨", "breakdown": "날씨 + 에 따라(서)", "english": "날씨에 따라서 계획이 달라요 — Plans change depending on the weather."},
+          {"korean": "사람", "breakdown": "사람 + 에 따라(서)", "english": "취향은 사람에 따라서 달라요 — Tastes vary from person to person."},
+          {"korean": "상황", "breakdown": "상황 + 에 따라(서)", "english": "상황에 따라서 대처 방법이 달라요 — The way to handle it differs depending on the situation."}
+        ]
+      }
+    ],
+    "notes": [
+      {"icon": "info", "title": "Common set phrases", "text": "사람에 따라서, 상황에 따라서, 시간에 따라서, 장소에 따라서 are among the most frequent collocations."},
+      {"icon": "check", "title": "Formality tip", "text": "에 따라(서) is completely neutral. It is safe to use in any register, from casual chats to academic papers."}
+    ],
+    "exceptions": []
+  }
+]

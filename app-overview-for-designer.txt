@@ -1,0 +1,237 @@
+TOPIK Grammar Study App — Full Overview for Frontend Designer
+=============================================================
+
+## What It Is
+A mobile-first, offline Korean grammar study app for TOPIK (Test of Proficiency 
+in Korean) exam preparation. Users browse 627 grammar points across 3 levels 
+(1-2, 3-4, 5-6), track study progress, review with flashcards, and test knowledge 
+with quizzes. The app is built as a native Android APK via Capacitor.
+
+## Tech Stack
+- Framework: Vue 3.5.32 + TypeScript + Vite
+- Mobile wrapper: Capacitor 8 (Android native app)
+- State persistence: @capacitor/preferences (fully offline, no backend)
+- Styling: Scoped CSS in .vue files + global style.css
+- Fonts: IBM Plex Sans, Noto Sans KR (for Korean grammar text)
+- Package manager: npm
+- Build: npm run android:apk -> app-debug.apk
+
+## Data Model
+
+interface GrammarPoint {
+  id: number
+  level: string        // "1-2" | "3-4" | "5-6"
+  category: string     // e.g. "Tenses & Speech Levels", "Connectives", etc.
+  grammar: string      // Korean grammar pattern, e.g. "A/V-(으)ㄴ/는"
+  meaning: string      // English translation
+}
+
+type StudyStatus = 'new' | 'learning' | 'mastered'
+
+interface StudyState {
+  status: StudyStatus
+  lastReviewed: number | null   // timestamp
+  reviewCount: number
+}
+
+Dataset: src/data/grammar.json — 627 static items, imported directly. No API.
+
+Storage keys: topik_study_states_detail (via src/storage.ts, uses @capacitor/preferences)
+
+## Navigation Structure
+
+The app uses a stack-based navigation (not a router). App.vue maintains a 
+viewStack: string[].
+
+- Root tabs (bottom nav, viewStack.length === 1): browse | study | quiz | stats
+- Detail view (pushed onto stack): detail
+- Back button in header when viewStack.length > 1
+- navigateTo(tab, grammar?) and goBack() are provided via Vue provide/inject
+
+Bottom nav has 4 tabs: Browse, Study, Quiz, Stats. Active tab gets an 
+inset pressed (neumorphic) style.
+
+## Screens (5 Views)
+
+### 1. BrowseView (src/views/BrowseView.vue)
+The home screen. Two-pane layout: fixed filters on top, scrollable list below.
+
+Top filter pane:
+- Level tabs: 3 chips: L1-2 | L3-4 | L5-6. Selecting a level resets category to "All".
+- Search input: Real-time text search on grammar (Korean) and meaning (English). 
+  Inset neumorphic style.
+- Category chips: Horizontally scrollable list of categories for the selected 
+  level + "All". Active chip gets inset style.
+
+Grammar list pane:
+- Scrollable list inside a neumorphic card (grammar-panel)
+- Each row shows:
+  - Korean grammar pattern (grammar) in Noto Sans KR, bold
+  - English meaning below
+  - Category tag pill (left) + Level badge colored by level (right)
+  - Status dot (10px circle, right side of header): green=mastered, yellow=learning, 
+    faint grey=new
+- Header row shows "Grammar Points" title + count pill
+- Bottom shows "X grammar points" count
+
+Key behaviors:
+- Tapping a row navigates to DetailView with that grammar point
+- Data loaded from static JSON, study states from Preferences
+
+### 2. DetailView (src/views/DetailView.vue)
+Single grammar point detail. Receives selectedGrammar via inject.
+
+Layout (single neumorphic card):
+- Badges row: Level badge (colored by level) + Category badge
+- Grammar box: Large centered Korean text in a .neu-inset box
+- Meaning section: "Meaning" label + English text
+- Status section: "Study Status" label + 3 chips in a row:
+  - New
+  - Learning
+  - Mastered
+  - Tapping a chip saves to Preferences immediately
+  - Active chip gets inset pressed style
+
+### 3. StudyView (src/views/StudyView.vue)
+Flashcard-style spaced repetition review.
+
+Flow:
+1. Loads all non-mastered grammar points, shuffles, takes 20
+2. If all mastered, falls back to all grammar shuffled
+3. Shows one card at a time
+
+Card states:
+- Front: "What does this mean?" + large Korean grammar + "Tap to reveal" hint
+- Back: Korean grammar + meaning + category/level
+- Tap card to flip
+
+Actions below card:
+- Again (sets status = learning)
+- Got it (sets status = mastered)
+- Saves to Preferences on each response
+
+Progress bar: neu-progress-track + neu-progress-fill above the card. 
+Counter: "3 / 20".
+
+Session complete screen:
+- icon + "Session Complete!"
+- Stats: X Mastered, X Learning
+- "Study Again" button
+
+### 4. QuizView (src/views/QuizView.vue)
+Multiple choice quiz. 10 questions per session.
+
+Flow:
+1. Shuffles all grammar, takes 10
+2. For each question: shows a meaning, presents 4 grammar options (1 correct + 
+   3 random wrong, shuffled)
+3. User selects once (locked after selection)
+4. Shows correct/wrong feedback:
+   - Selected correct -> green background
+   - Selected wrong -> red background, correct answer shown in green (dimmed)
+5. "Next" or "Finish" button appears
+6. Finish screen: trophy + "Quiz Complete!" + score (e.g. "8 / 10") + "New Quiz" button
+
+Header: Inset bar with "Question X / 10" and "Score: X"
+
+### 5. StatsView (src/views/StatsView.vue)
+Progress dashboard.
+
+Overall card:
+- "Overall Progress" heading
+- Stacked progress bar: green (mastered) + yellow (learning) segments
+- Legend: dot + count + percentage for mastered, learning, new
+
+Level cards (3 cards):
+- One per level (1-2, 3-4, 5-6)
+- Colored level title + total count
+- Progress bar (same stacked style)
+- Bottom row: mastered count, learning count, new count
+
+## Current Design System (Neumorphic / Soft UI)
+
+The app currently uses a light neumorphic theme that the user wants to change. 
+Here's what's in place so you know what to replace:
+
+Background: #e6e7ee (very light grey-blue) everywhere
+
+Core CSS variables (style.css):
+  --color-primary: #31344b    /* dark navy text */
+  --color-dark: #31344b
+  --color-success: #18634b    /* green */
+  --color-warning: #f0b400    /* yellow/gold */
+  --color-danger: #a91e2c     /* red */
+  --level-1: #18634b
+  --level-4: #0056b3
+  --level-6: #a91e2c
+
+Neumorphic components (defined in style.css):
+- .neu-card — raised card with soft shadow, radius 22px
+- .neu-button — raised button, radius 16px, min-height 48px
+- .neu-button-primary / .neu-button-success / .neu-button-danger — filled colored variants
+- .neu-chip — smaller raised button/pill
+- .neu-chip-active — inset/pressed state (uses inset shadows)
+- .neu-inset — recessed panel with inset shadows
+- .neu-progress-track / .neu-progress-fill — progress bars with inset track and raised fill
+
+Active/pressed state pattern: transform: translateY(1px) scale(0.992) + inset shadows
+
+Typography:
+- IBM Plex Sans / Avenir Next / Segoe UI for English
+- Noto Sans KR for Korean grammar text
+- Labels: 11px uppercase, letter-spacing 0.08em, muted color
+- Body: 13-17px depending on context
+
+Status dot colors:
+- Mastered: var(--color-success) (#18634b green)
+- Learning: var(--color-warning) (#f0b400 yellow)
+- New: rgba(49, 52, 75, 0.22) (very faint grey)
+
+## Global Behaviors
+
+- Click sound: Global handler plays a soft click sound on all button taps 
+  (from src/sound.ts). Audio file: public/lesiakower-laptop-touchpad-click-384384.mp3
+- No sticky positioning anywhere — learned from past z-index hell
+- No dropdowns — all filters use horizontal scrollable chips
+- Scroll handling: -webkit-overflow-scrolling: touch on all scrollable areas
+- Android theming: Status bar and nav bar are set to #e6e7ee with dark icons
+
+## What Needs Redesign
+
+The user wants a complete frontend redesign. You should redesign:
+- Color scheme — move away from the neumorphic #e6e7ee look to something modern/clean
+- Typography scale — improve readability and hierarchy
+- Spacing and layout — better use of screen real estate on mobile
+- Component styles — replace .neu-card, .neu-button, .neu-chip, .neu-inset, 
+  .neu-progress-track with new styles
+- Bottom nav — cleaner, more modern tab bar
+- Back button — cleaner header design
+- Status dots — keep the semantic meaning (green/yellow/grey) but style them fresh
+
+## What to Keep (Functionality)
+
+- All Vue <script setup> logic, computed properties, methods, and state management
+- The inject/provide navigation API
+- Data structure and storage keys
+- All feature behaviors (filters, flashcards, quiz scoring, stats calculations)
+- The global click sound system
+- File structure: 5 views in src/views/, App.vue, style.css, storage.ts, sound.ts
+
+## Files to Modify
+
+- src/style.css — global design system, replace all neumorphic styles
+- src/App.vue — app shell, header, bottom nav
+- src/views/BrowseView.vue — browse screen
+- src/views/DetailView.vue — detail screen
+- src/views/StudyView.vue — flashcard study screen
+- src/views/QuizView.vue — quiz screen
+- src/views/StatsView.vue — stats dashboard
+
+## Files to Leave Alone
+
+- src/data/grammar.json — static data
+- src/types/grammar.ts — TypeScript types
+- src/storage.ts — Preferences wrapper
+- src/sound.ts — click sound system
+- src/main.ts — app entry point
+- public/lesiakower-laptop-touchpad-click-384384.mp3 — sound asset

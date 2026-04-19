@@ -1,0 +1,3733 @@
+[
+  {
+    "id": 1,
+    "level": "1-2",
+    "category": "Tenses & Speech Levels",
+    "grammar": "A/V-(으)ㄴ/는",
+    "meaning": "Present tense (adjective/verb)"
+  },
+  {
+    "id": 2,
+    "level": "1-2",
+    "category": "Tenses & Speech Levels",
+    "grammar": "A/V-았/었/였",
+    "meaning": "Past tense"
+  },
+  {
+    "id": 3,
+    "level": "1-2",
+    "category": "Tenses & Speech Levels",
+    "grammar": "V-(으)ㄹ 거예요 / -(으)ㄹ 거야 / -(으)ㄹ 겁니다",
+    "meaning": "Future tense / will"
+  },
+  {
+    "id": 4,
+    "level": "1-2",
+    "category": "Tenses & Speech Levels",
+    "grammar": "A/V-겠-",
+    "meaning": "Will / guess / intention / polite offer"
+  },
+  {
+    "id": 5,
+    "level": "1-2",
+    "category": "Tenses & Speech Levels",
+    "grammar": "V-고 있다",
+    "meaning": "Progressive (-ing)"
+  },
+  {
+    "id": 6,
+    "level": "1-2",
+    "category": "Tenses & Speech Levels",
+    "grammar": "A/V-았/었/였었-",
+    "meaning": "Past perfect / used to be"
+  },
+  {
+    "id": 7,
+    "level": "1-2",
+    "category": "Tenses & Speech Levels",
+    "grammar": "N-이에요 / 예요",
+    "meaning": "To be (copula, polite)"
+  },
+  {
+    "id": 8,
+    "level": "1-2",
+    "category": "Tenses & Speech Levels",
+    "grammar": "N-이야 / (이)지",
+    "meaning": "To be (casual / plain)"
+  },
+  {
+    "id": 9,
+    "level": "1-2",
+    "category": "Tenses & Speech Levels",
+    "grammar": "N-입니다",
+    "meaning": "To be (formal)"
+  },
+  {
+    "id": 10,
+    "level": "1-2",
+    "category": "Tenses & Speech Levels",
+    "grammar": "N-이/가 아니다 / 아니에요 / 아니야",
+    "meaning": "To not be"
+  },
+  {
+    "id": 11,
+    "level": "1-2",
+    "category": "Tenses & Speech Levels",
+    "grammar": "A/V-(스)ㅂ니다",
+    "meaning": "Formal declarative"
+  },
+  {
+    "id": 12,
+    "level": "1-2",
+    "category": "Tenses & Speech Levels",
+    "grammar": "A/V-(스)ㅂ니까?",
+    "meaning": "Formal question"
+  },
+  {
+    "id": 13,
+    "level": "1-2",
+    "category": "Tenses & Speech Levels",
+    "grammar": "A/V-(으)세요 / (으)십시오",
+    "meaning": "Honorific request / formal command"
+  },
+  {
+    "id": 14,
+    "level": "1-2",
+    "category": "Tenses & Speech Levels",
+    "grammar": "V-(으)ㅂ시다 / V-자",
+    "meaning": "Let's (formal / casual)"
+  },
+  {
+    "id": 15,
+    "level": "1-2",
+    "category": "Tenses & Speech Levels",
+    "grammar": "A/V-아/어요",
+    "meaning": "Polite present / question"
+  },
+  {
+    "id": 16,
+    "level": "1-2",
+    "category": "Tenses & Speech Levels",
+    "grammar": "A/V-아/어",
+    "meaning": "Casual present / command"
+  },
+  {
+    "id": 17,
+    "level": "1-2",
+    "category": "Tenses & Speech Levels",
+    "grammar": "A/V-(ㄴ/는)다",
+    "meaning": "Plain declarative"
+  },
+  {
+    "id": 18,
+    "level": "1-2",
+    "category": "Tenses & Speech Levels",
+    "grammar": "A/V-(ㄴ/는)다고",
+    "meaning": "Plain quoted statement"
+  },
+  {
+    "id": 19,
+    "level": "1-2",
+    "category": "Tenses & Speech Levels",
+    "grammar": "A/V-아/어라",
+    "meaning": "Casual command"
+  },
+  {
+    "id": 20,
+    "level": "1-2",
+    "category": "Tenses & Speech Levels",
+    "grammar": "A/V-(으)ㄹ게요",
+    "meaning": "I'll (promise / decision, polite)"
+  },
+  {
+    "id": 21,
+    "level": "1-2",
+    "category": "Tenses & Speech Levels",
+    "grammar": "A/V-(으)ㄹ래요? / -(으)ㄹ래?",
+    "meaning": "Shall I/we? / Do you want to?"
+  },
+  {
+    "id": 22,
+    "level": "1-2",
+    "category": "Tenses & Speech Levels",
+    "grammar": "A/V-(으)ㄹ까요? / -(으)ㄹ까?",
+    "meaning": "Shall we? / I wonder / casual question"
+  },
+  {
+    "id": 23,
+    "level": "1-2",
+    "category": "Tenses & Speech Levels",
+    "grammar": "A/V-(으)ㄹ 것이다 / -(으)ㄹ 거다",
+    "meaning": "Future / supposition (plain)"
+  },
+  {
+    "id": 24,
+    "level": "1-2",
+    "category": "Tenses & Speech Levels",
+    "grammar": "A/V-(으)ㄹ 텐데(요) / -(으)ㄹ 테니(까)",
+    "meaning": "I would... but / I will so..."
+  },
+  {
+    "id": 25,
+    "level": "1-2",
+    "category": "Tenses & Speech Levels",
+    "grammar": "A/V-(으)ㄹ까 하다 / -(으)ㄹ까 싶다",
+    "meaning": "Thinking of / considering"
+  },
+  {
+    "id": 26,
+    "level": "1-2",
+    "category": "Tenses & Speech Levels",
+    "grammar": "A/V-(으)ㄹ 수도 있다",
+    "meaning": "May be able to / might"
+  },
+  {
+    "id": 27,
+    "level": "1-2",
+    "category": "Tenses & Speech Levels",
+    "grammar": "A/V-(으)ㄹ 리가 없다",
+    "meaning": "No way / impossible (introduced early)"
+  },
+  {
+    "id": 28,
+    "level": "1-2",
+    "category": "Tenses & Speech Levels",
+    "grammar": "V-(으)ㄹ 뻔하다",
+    "meaning": "Almost / nearly (introduced early)"
+  },
+  {
+    "id": 29,
+    "level": "1-2",
+    "category": "Negation",
+    "grammar": "안 + A/V",
+    "meaning": "Not (short negation)"
+  },
+  {
+    "id": 30,
+    "level": "1-2",
+    "category": "Negation",
+    "grammar": "못 + V",
+    "meaning": "Cannot (short negation)"
+  },
+  {
+    "id": 31,
+    "level": "1-2",
+    "category": "Negation",
+    "grammar": "A/V-지 않다",
+    "meaning": "Not (long negation)"
+  },
+  {
+    "id": 32,
+    "level": "1-2",
+    "category": "Negation",
+    "grammar": "V-지 못하다",
+    "meaning": "Cannot (long form)"
+  },
+  {
+    "id": 33,
+    "level": "1-2",
+    "category": "Negation",
+    "grammar": "V-지 마(라)",
+    "meaning": "Don't (casual command)"
+  },
+  {
+    "id": 34,
+    "level": "1-2",
+    "category": "Negation",
+    "grammar": "V-지 마세요 / V-지 맙시다",
+    "meaning": "Don't (polite / formal command)"
+  },
+  {
+    "id": 35,
+    "level": "1-2",
+    "category": "Negation",
+    "grammar": "V-지 말아요",
+    "meaning": "Don't (polite casual)"
+  },
+  {
+    "id": 36,
+    "level": "1-2",
+    "category": "Negation",
+    "grammar": "A/V-아/어도 괜찮다 / 되다",
+    "meaning": "It's okay to / may"
+  },
+  {
+    "id": 37,
+    "level": "1-2",
+    "category": "Negation",
+    "grammar": "A/V-(으)면 안 되다 / -(으)면 돼요?",
+    "meaning": "Must not / asking if okay"
+  },
+  {
+    "id": 38,
+    "level": "1-2",
+    "category": "Negation",
+    "grammar": "A/V-아/어서는 안 되다",
+    "meaning": "Should not"
+  },
+  {
+    "id": 39,
+    "level": "1-2",
+    "category": "Particles (조사)",
+    "grammar": "N-은/는",
+    "meaning": "Topic particle"
+  },
+  {
+    "id": 40,
+    "level": "1-2",
+    "category": "Particles (조사)",
+    "grammar": "N-이/가",
+    "meaning": "Subject particle"
+  },
+  {
+    "id": 41,
+    "level": "1-2",
+    "category": "Particles (조사)",
+    "grammar": "N-을/를",
+    "meaning": "Object particle"
+  },
+  {
+    "id": 42,
+    "level": "1-2",
+    "category": "Particles (조사)",
+    "grammar": "N-의",
+    "meaning": "Possessive ('s)"
+  },
+  {
+    "id": 43,
+    "level": "1-2",
+    "category": "Particles (조사)",
+    "grammar": "N-도",
+    "meaning": "Also / too"
+  },
+  {
+    "id": 44,
+    "level": "1-2",
+    "category": "Particles (조사)",
+    "grammar": "N-에",
+    "meaning": "At / to / in (time/place)"
+  },
+  {
+    "id": 45,
+    "level": "1-2",
+    "category": "Particles (조사)",
+    "grammar": "N-에서",
+    "meaning": "From / at (location of action)"
+  },
+  {
+    "id": 46,
+    "level": "1-2",
+    "category": "Particles (조사)",
+    "grammar": "N-에게 / N-한테",
+    "meaning": "To (someone)"
+  },
+  {
+    "id": 47,
+    "level": "1-2",
+    "category": "Particles (조사)",
+    "grammar": "N-에게서 / N-한테서",
+    "meaning": "From (someone)"
+  },
+  {
+    "id": 48,
+    "level": "1-2",
+    "category": "Particles (조사)",
+    "grammar": "N-와/과",
+    "meaning": "And / with (formal/written)"
+  },
+  {
+    "id": 49,
+    "level": "1-2",
+    "category": "Particles (조사)",
+    "grammar": "N-하고",
+    "meaning": "And / with (casual)"
+  },
+  {
+    "id": 50,
+    "level": "1-2",
+    "category": "Particles (조사)",
+    "grammar": "N-(이)랑",
+    "meaning": "And / with (very casual)"
+  },
+  {
+    "id": 51,
+    "level": "1-2",
+    "category": "Particles (조사)",
+    "grammar": "N-처럼",
+    "meaning": "Like / similar to"
+  },
+  {
+    "id": 52,
+    "level": "1-2",
+    "category": "Particles (조사)",
+    "grammar": "N-같이",
+    "meaning": "Like / together with"
+  },
+  {
+    "id": 53,
+    "level": "1-2",
+    "category": "Particles (조사)",
+    "grammar": "N-보다",
+    "meaning": "Than / more than"
+  },
+  {
+    "id": 54,
+    "level": "1-2",
+    "category": "Particles (조사)",
+    "grammar": "N-만",
+    "meaning": "Only"
+  },
+  {
+    "id": 55,
+    "level": "1-2",
+    "category": "Particles (조사)",
+    "grammar": "N-밖에",
+    "meaning": "Nothing but / only (~negative)"
+  },
+  {
+    "id": 56,
+    "level": "1-2",
+    "category": "Particles (조사)",
+    "grammar": "N-까지",
+    "meaning": "Until / to / even"
+  },
+  {
+    "id": 57,
+    "level": "1-2",
+    "category": "Particles (조사)",
+    "grammar": "N-부터",
+    "meaning": "From (time/place)"
+  },
+  {
+    "id": 58,
+    "level": "1-2",
+    "category": "Particles (조사)",
+    "grammar": "N-마다",
+    "meaning": "Every"
+  },
+  {
+    "id": 59,
+    "level": "1-2",
+    "category": "Particles (조사)",
+    "grammar": "N-(이)나",
+    "meaning": "Or / rather / even (as much as)"
+  },
+  {
+    "id": 60,
+    "level": "1-2",
+    "category": "Particles (조사)",
+    "grammar": "N-(이)나마",
+    "meaning": "Even if only / at least"
+  },
+  {
+    "id": 61,
+    "level": "1-2",
+    "category": "Particles (조사)",
+    "grammar": "N-만큼",
+    "meaning": "As much as"
+  },
+  {
+    "id": 62,
+    "level": "1-2",
+    "category": "Particles (조사)",
+    "grammar": "N-께",
+    "meaning": "To (honorific)"
+  },
+  {
+    "id": 63,
+    "level": "1-2",
+    "category": "Particles (조사)",
+    "grammar": "N-께서",
+    "meaning": "Subject (honorific)"
+  },
+  {
+    "id": 64,
+    "level": "1-2",
+    "category": "Particles (조사)",
+    "grammar": "N-(으)로",
+    "meaning": "Toward / by means of"
+  },
+  {
+    "id": 65,
+    "level": "1-2",
+    "category": "Particles (조사)",
+    "grammar": "N-에다(가)",
+    "meaning": "Onto / in addition to"
+  },
+  {
+    "id": 66,
+    "level": "1-2",
+    "category": "Particles (조사)",
+    "grammar": "N-에 대해(서)",
+    "meaning": "About / concerning"
+  },
+  {
+    "id": 67,
+    "level": "1-2",
+    "category": "Particles (조사)",
+    "grammar": "N-에 관해(서)",
+    "meaning": "About / regarding"
+  },
+  {
+    "id": 68,
+    "level": "1-2",
+    "category": "Particles (조사)",
+    "grammar": "N-을/를 위해(서)",
+    "meaning": "For the sake of"
+  },
+  {
+    "id": 69,
+    "level": "1-2",
+    "category": "Particles (조사)",
+    "grammar": "N-때문에",
+    "meaning": "Because of"
+  },
+  {
+    "id": 70,
+    "level": "1-2",
+    "category": "Particles (조사)",
+    "grammar": "N-(으)로서",
+    "meaning": "As / in the capacity of"
+  },
+  {
+    "id": 71,
+    "level": "1-2",
+    "category": "Particles (조사)",
+    "grammar": "N-치고(는)",
+    "meaning": "For a / considering"
+  },
+  {
+    "id": 72,
+    "level": "1-2",
+    "category": "Particles (조사)",
+    "grammar": "N-대로",
+    "meaning": "As / just as"
+  },
+  {
+    "id": 73,
+    "level": "1-2",
+    "category": "Particles (조사)",
+    "grammar": "N-쯤",
+    "meaning": "About / approximately"
+  },
+  {
+    "id": 74,
+    "level": "1-2",
+    "category": "Particles (조사)",
+    "grammar": "N-씩",
+    "meaning": "Each / per"
+  },
+  {
+    "id": 75,
+    "level": "1-2",
+    "category": "Particles (조사)",
+    "grammar": "N-동안",
+    "meaning": "During"
+  },
+  {
+    "id": 76,
+    "level": "1-2",
+    "category": "Connectives & Clauses",
+    "grammar": "A/V-고",
+    "meaning": "And (sequence)"
+  },
+  {
+    "id": 77,
+    "level": "1-2",
+    "category": "Connectives & Clauses",
+    "grammar": "A/V-아/어서",
+    "meaning": "Because / and then (causal/sequential)"
+  },
+  {
+    "id": 78,
+    "level": "1-2",
+    "category": "Connectives & Clauses",
+    "grammar": "A/V-지만",
+    "meaning": "But / although"
+  },
+  {
+    "id": 79,
+    "level": "1-2",
+    "category": "Connectives & Clauses",
+    "grammar": "A/V-는데 / -(으)ㄴ/는데",
+    "meaning": "But / and / background info"
+  },
+  {
+    "id": 80,
+    "level": "1-2",
+    "category": "Connectives & Clauses",
+    "grammar": "A/V-(으)면",
+    "meaning": "If / when"
+  },
+  {
+    "id": 81,
+    "level": "1-2",
+    "category": "Connectives & Clauses",
+    "grammar": "A/V-(으)니까 / -(으)니",
+    "meaning": "Because / since"
+  },
+  {
+    "id": 82,
+    "level": "1-2",
+    "category": "Connectives & Clauses",
+    "grammar": "A/V-거나",
+    "meaning": "Or"
+  },
+  {
+    "id": 83,
+    "level": "1-2",
+    "category": "Connectives & Clauses",
+    "grammar": "A/V-(으)면서 / -(으)며",
+    "meaning": "While (simultaneous)"
+  },
+  {
+    "id": 84,
+    "level": "1-2",
+    "category": "Connectives & Clauses",
+    "grammar": "A/V-아/어도",
+    "meaning": "Even if / even though"
+  },
+  {
+    "id": 85,
+    "level": "1-2",
+    "category": "Connectives & Clauses",
+    "grammar": "V-(으)ㄴ 후에 / -고 나서",
+    "meaning": "After"
+  },
+  {
+    "id": 86,
+    "level": "1-2",
+    "category": "Connectives & Clauses",
+    "grammar": "V-기 전에",
+    "meaning": "Before"
+  },
+  {
+    "id": 87,
+    "level": "1-2",
+    "category": "Connectives & Clauses",
+    "grammar": "V-자마자 / -(으)ㄴ/는 대로",
+    "meaning": "As soon as"
+  },
+  {
+    "id": 88,
+    "level": "1-2",
+    "category": "Connectives & Clauses",
+    "grammar": "V-는 동안 / -(으)ㄹ 때",
+    "meaning": "During / while / when"
+  },
+  {
+    "id": 89,
+    "level": "1-2",
+    "category": "Connectives & Clauses",
+    "grammar": "A/V-(으)ㄴ/는/(으)ㄹ 때",
+    "meaning": "When"
+  },
+  {
+    "id": 90,
+    "level": "1-2",
+    "category": "Desire, Ability, Permission & Necessity",
+    "grammar": "V-고 싶다",
+    "meaning": "Want to (1st person)"
+  },
+  {
+    "id": 91,
+    "level": "1-2",
+    "category": "Desire, Ability, Permission & Necessity",
+    "grammar": "V-고 싶어하다",
+    "meaning": "Want to (3rd person)"
+  },
+  {
+    "id": 92,
+    "level": "1-2",
+    "category": "Desire, Ability, Permission & Necessity",
+    "grammar": "A/V-아/어 보다",
+    "meaning": "Try doing"
+  },
+  {
+    "id": 93,
+    "level": "1-2",
+    "category": "Desire, Ability, Permission & Necessity",
+    "grammar": "V-(으)ㄹ 수 있다/없다",
+    "meaning": "Can / cannot"
+  },
+  {
+    "id": 94,
+    "level": "1-2",
+    "category": "Desire, Ability, Permission & Necessity",
+    "grammar": "V-(으)ㄹ 줄 알다/모르다",
+    "meaning": "Know how to / don't know how to"
+  },
+  {
+    "id": 95,
+    "level": "1-2",
+    "category": "Desire, Ability, Permission & Necessity",
+    "grammar": "V-(으)ㄹ 수밖에 없다",
+    "meaning": "Have no choice but to"
+  },
+  {
+    "id": 96,
+    "level": "1-2",
+    "category": "Desire, Ability, Permission & Necessity",
+    "grammar": "A/V-아/어도 되다",
+    "meaning": "It's okay to / may"
+  },
+  {
+    "id": 97,
+    "level": "1-2",
+    "category": "Desire, Ability, Permission & Necessity",
+    "grammar": "A/V-(으)면 안 되다",
+    "meaning": "Must not"
+  },
+  {
+    "id": 98,
+    "level": "1-2",
+    "category": "Desire, Ability, Permission & Necessity",
+    "grammar": "A/V-아/어야 되다/하다/겠다",
+    "meaning": "Must / have to / should"
+  },
+  {
+    "id": 99,
+    "level": "1-2",
+    "category": "Desire, Ability, Permission & Necessity",
+    "grammar": "V-(으)ㄹ까 하다 / -(으)ㄹ까 싶다",
+    "meaning": "I'm thinking of / considering"
+  },
+  {
+    "id": 100,
+    "level": "1-2",
+    "category": "Desire, Ability, Permission & Necessity",
+    "grammar": "A/V-(으)면 좋겠다 / -(으)면 좋다",
+    "meaning": "I wish / it would be nice if"
+  },
+  {
+    "id": 101,
+    "level": "1-2",
+    "category": "Desire, Ability, Permission & Necessity",
+    "grammar": "V-는 게 좋다 / V-는 게 낫다",
+    "meaning": "It's good to / you'd better"
+  },
+  {
+    "id": 102,
+    "level": "1-2",
+    "category": "Desire, Ability, Permission & Necessity",
+    "grammar": "V-(으)ㄹ 필요가 있다/없다",
+    "meaning": "Need to / don't need to"
+  },
+  {
+    "id": 103,
+    "level": "1-2",
+    "category": "Giving & Receiving",
+    "grammar": "V-아/어 주다",
+    "meaning": "Do for someone"
+  },
+  {
+    "id": 104,
+    "level": "1-2",
+    "category": "Giving & Receiving",
+    "grammar": "V-아/어 드리다",
+    "meaning": "Do for someone (honorific)"
+  },
+  {
+    "id": 105,
+    "level": "1-2",
+    "category": "Giving & Receiving",
+    "grammar": "V-아/어 주시다",
+    "meaning": "Do for me (honorific)"
+  },
+  {
+    "id": 106,
+    "level": "1-2",
+    "category": "Giving & Receiving",
+    "grammar": "V-아/어 받다",
+    "meaning": "Receive (doing for me)"
+  },
+  {
+    "id": 107,
+    "level": "1-2",
+    "category": "Giving & Receiving",
+    "grammar": "V-아/어 드리다 / 올리다",
+    "meaning": "Give (humble)"
+  },
+  {
+    "id": 108,
+    "level": "1-2",
+    "category": "Giving & Receiving",
+    "grammar": "V-아/어 주세요 / -(으)ㄹ래요?",
+    "meaning": "Please do for me"
+  },
+  {
+    "id": 109,
+    "level": "1-2",
+    "category": "Intention & Purpose",
+    "grammar": "V-(으)려고",
+    "meaning": "In order to / intending to"
+  },
+  {
+    "id": 110,
+    "level": "1-2",
+    "category": "Intention & Purpose",
+    "grammar": "V-(으)려고 하다",
+    "meaning": "Intend to / plan to"
+  },
+  {
+    "id": 111,
+    "level": "1-2",
+    "category": "Intention & Purpose",
+    "grammar": "V-(으)려면",
+    "meaning": "If one intends to"
+  },
+  {
+    "id": 112,
+    "level": "1-2",
+    "category": "Intention & Purpose",
+    "grammar": "V-(으)러",
+    "meaning": "In order to (go/come to do)"
+  },
+  {
+    "id": 113,
+    "level": "1-2",
+    "category": "Intention & Purpose",
+    "grammar": "V-기 위해서",
+    "meaning": "In order to (formal)"
+  },
+  {
+    "id": 114,
+    "level": "1-2",
+    "category": "Intention & Purpose",
+    "grammar": "V-도록",
+    "meaning": "So that / to the extent"
+  },
+  {
+    "id": 115,
+    "level": "1-2",
+    "category": "Intention & Purpose",
+    "grammar": "V-게",
+    "meaning": "So that (causative/result)"
+  },
+  {
+    "id": 116,
+    "level": "1-2",
+    "category": "Intention & Purpose",
+    "grammar": "V-기로 하다 / -기로 되다",
+    "meaning": "Decide to / it is decided that"
+  },
+  {
+    "id": 117,
+    "level": "1-2",
+    "category": "Nominalization & Modifiers",
+    "grammar": "V-는 것 / -(으)ㄴ 것 / -(으)ㄹ 것",
+    "meaning": "Noun clause (-ing / fact / thing)"
+  },
+  {
+    "id": 118,
+    "level": "1-2",
+    "category": "Nominalization & Modifiers",
+    "grammar": "V-는 것 같다 / -(으)ㄴ 것 같다 / -(으)ㄹ 것 같다",
+    "meaning": "Seems like / I think"
+  },
+  {
+    "id": 119,
+    "level": "1-2",
+    "category": "Nominalization & Modifiers",
+    "grammar": "A/V-(으)ㄴ/는/(으)ㄹ",
+    "meaning": "Modifier (past/present/future)"
+  },
+  {
+    "id": 120,
+    "level": "1-2",
+    "category": "Nominalization & Modifiers",
+    "grammar": "V-는 중(이다)",
+    "meaning": "In the middle of"
+  },
+  {
+    "id": 121,
+    "level": "1-2",
+    "category": "Nominalization & Modifiers",
+    "grammar": "V-기 / -ㅁ/음",
+    "meaning": "Nominalizer (formal)"
+  },
+  {
+    "id": 122,
+    "level": "1-2",
+    "category": "Nominalization & Modifiers",
+    "grammar": "A/V-던 / -았/었/였던",
+    "meaning": "Modifier (past habitual/recollection)"
+  },
+  {
+    "id": 123,
+    "level": "1-2",
+    "category": "Nominalization & Modifiers",
+    "grammar": "V-는 사람/것/데",
+    "meaning": "Modifying nouns"
+  },
+  {
+    "id": 124,
+    "level": "1-2",
+    "category": "Experience, Time & State",
+    "grammar": "V-(으)ㄴ 적이 있다/없다",
+    "meaning": "Have/haven't experienced"
+  },
+  {
+    "id": 125,
+    "level": "1-2",
+    "category": "Experience, Time & State",
+    "grammar": "V-(으)ㄴ 지 (시간) 되다",
+    "meaning": "It's been (time) since"
+  },
+  {
+    "id": 126,
+    "level": "1-2",
+    "category": "Experience, Time & State",
+    "grammar": "V-(으)ㄴ/는지 알다/모르다",
+    "meaning": "Know/don't know whether"
+  },
+  {
+    "id": 127,
+    "level": "1-2",
+    "category": "Experience, Time & State",
+    "grammar": "A/V-아/여 있다",
+    "meaning": "State (resultative / ongoing state)"
+  },
+  {
+    "id": 128,
+    "level": "1-2",
+    "category": "Experience, Time & State",
+    "grammar": "A/V-(으)ㄹ 때",
+    "meaning": "When"
+  },
+  {
+    "id": 129,
+    "level": "1-2",
+    "category": "Experience, Time & State",
+    "grammar": "V-기 시작하다",
+    "meaning": "Begin to"
+  },
+  {
+    "id": 130,
+    "level": "1-2",
+    "category": "Experience, Time & State",
+    "grammar": "V-게 되다",
+    "meaning": "Become / end up"
+  },
+  {
+    "id": 131,
+    "level": "1-2",
+    "category": "Experience, Time & State",
+    "grammar": "A/V-아/어지다",
+    "meaning": "Become (change of state)"
+  },
+  {
+    "id": 132,
+    "level": "1-2",
+    "category": "Experience, Time & State",
+    "grammar": "A/V-아/여 보이다",
+    "meaning": "Look / seem"
+  },
+  {
+    "id": 133,
+    "level": "1-2",
+    "category": "Experience, Time & State",
+    "grammar": "A/V-(으)ㄴ/는/(으)ㄹ 줄 알다/모르다",
+    "meaning": "Know/don't know that"
+  },
+  {
+    "id": 134,
+    "level": "1-2",
+    "category": "Experience, Time & State",
+    "grammar": "V-(으)ㄹ 줄 알았다/몰랐다",
+    "meaning": "Thought/didn't think that"
+  },
+  {
+    "id": 135,
+    "level": "1-2",
+    "category": "Experience, Time & State",
+    "grammar": "V-기도 하다",
+    "meaning": "Sometimes do / also do"
+  },
+  {
+    "id": 136,
+    "level": "1-2",
+    "category": "Experience, Time & State",
+    "grammar": "V-기 쉽다 / -기 어렵다",
+    "meaning": "Easy to / hard to"
+  },
+  {
+    "id": 137,
+    "level": "1-2",
+    "category": "Exclamations, Suggestions & Questions",
+    "grammar": "A/V-네요",
+    "meaning": "Exclamation (realization)"
+  },
+  {
+    "id": 138,
+    "level": "1-2",
+    "category": "Exclamations, Suggestions & Questions",
+    "grammar": "A/V-군요 / -(는)구나",
+    "meaning": "Exclamation (discovery)"
+  },
+  {
+    "id": 139,
+    "level": "1-2",
+    "category": "Exclamations, Suggestions & Questions",
+    "grammar": "A/V-지요? / -죠?",
+    "meaning": "Right? / isn't it?"
+  },
+  {
+    "id": 140,
+    "level": "1-2",
+    "category": "Exclamations, Suggestions & Questions",
+    "grammar": "A/V-(ㄴ/는)가(요)? / -(으)ㄴ/는지",
+    "meaning": "Plain question / indirect question"
+  },
+  {
+    "id": 141,
+    "level": "1-2",
+    "category": "Exclamations, Suggestions & Questions",
+    "grammar": "A/V-잖아(요)",
+    "meaning": "You know... / after all"
+  },
+  {
+    "id": 142,
+    "level": "1-2",
+    "category": "Exclamations, Suggestions & Questions",
+    "grammar": "A/V-(ㄴ/는)다고(요)?",
+    "meaning": "You mean...? / I see that..."
+  },
+  {
+    "id": 143,
+    "level": "1-2",
+    "category": "Exclamations, Suggestions & Questions",
+    "grammar": "A/V-거든(요)",
+    "meaning": "You see / because (casual)"
+  },
+  {
+    "id": 144,
+    "level": "1-2",
+    "category": "Exclamations, Suggestions & Questions",
+    "grammar": "V-자",
+    "meaning": "Let's (casual)"
+  },
+  {
+    "id": 145,
+    "level": "1-2",
+    "category": "Exclamations, Suggestions & Questions",
+    "grammar": "V-(으)ㅂ시다",
+    "meaning": "Let's (formal)"
+  },
+  {
+    "id": 146,
+    "level": "1-2",
+    "category": "Exclamations, Suggestions & Questions",
+    "grammar": "V-(으)ㄹ까요?",
+    "meaning": "Shall we? / I wonder"
+  },
+  {
+    "id": 147,
+    "level": "1-2",
+    "category": "Exclamations, Suggestions & Questions",
+    "grammar": "V-(으)ㄹ래요? / -(으)ㄹ래?",
+    "meaning": "Do you want to? / Shall I?"
+  },
+  {
+    "id": 148,
+    "level": "1-2",
+    "category": "Exclamations, Suggestions & Questions",
+    "grammar": "A/V-아/어도 돼요?",
+    "meaning": "Is it okay if...?"
+  },
+  {
+    "id": 149,
+    "level": "1-2",
+    "category": "Exclamations, Suggestions & Questions",
+    "grammar": "누구/무엇/어디/언제/왜/어떻게/어느/몇",
+    "meaning": "Question words (grammar usage)"
+  },
+  {
+    "id": 150,
+    "level": "1-2",
+    "category": "Exclamations, Suggestions & Questions",
+    "grammar": "아무-나 / 아무-도 / 누구-나 / 모든",
+    "meaning": "Anybody / nobody / everybody / every"
+  },
+  {
+    "id": 151,
+    "level": "1-2",
+    "category": "Passive, Causative & Change",
+    "grammar": "V-아/어지다",
+    "meaning": "Passive / become"
+  },
+  {
+    "id": 152,
+    "level": "1-2",
+    "category": "Passive, Causative & Change",
+    "grammar": "V-게 하다 / -게 되다",
+    "meaning": "Make / let / end up"
+  },
+  {
+    "id": 153,
+    "level": "1-2",
+    "category": "Passive, Causative & Change",
+    "grammar": "V-이/히/리/기-",
+    "meaning": "Passive/causative irregular stems"
+  },
+  {
+    "id": 154,
+    "level": "1-2",
+    "category": "Passive, Causative & Change",
+    "grammar": "V-도록 하다",
+    "meaning": "Make sure that"
+  },
+  {
+    "id": 155,
+    "level": "1-2",
+    "category": "Passive, Causative & Change",
+    "grammar": "V-시키다",
+    "meaning": "Causative (make someone do)"
+  },
+  {
+    "id": 156,
+    "level": "1-2",
+    "category": "Passive, Causative & Change",
+    "grammar": "V-아/어 놓다/두다",
+    "meaning": "Do for later / keep"
+  },
+  {
+    "id": 157,
+    "level": "1-2",
+    "category": "Passive, Causative & Change",
+    "grammar": "V-아/어 버리다",
+    "meaning": "Do completely / regretfully"
+  },
+  {
+    "id": 158,
+    "level": "1-2",
+    "category": "Passive, Causative & Change",
+    "grammar": "V-아/어 오다/가다",
+    "meaning": "Go/come doing"
+  },
+  {
+    "id": 159,
+    "level": "1-2",
+    "category": "Miscellaneous Beginner Patterns",
+    "grammar": "N-들",
+    "meaning": "Plural marker"
+  },
+  {
+    "id": 160,
+    "level": "1-2",
+    "category": "Miscellaneous Beginner Patterns",
+    "grammar": "A/V-(으)ㄹ 걸(요)",
+    "meaning": "Probably would"
+  },
+  {
+    "id": 161,
+    "level": "1-2",
+    "category": "Miscellaneous Beginner Patterns",
+    "grammar": "A/V-(으)ㄹ 테니(까)",
+    "meaning": "I will... so..."
+  },
+  {
+    "id": 162,
+    "level": "1-2",
+    "category": "Miscellaneous Beginner Patterns",
+    "grammar": "V-고 복면",
+    "meaning": "If you think about it"
+  },
+  {
+    "id": 163,
+    "level": "1-2",
+    "category": "Miscellaneous Beginner Patterns",
+    "grammar": "V-고 보니(까)",
+    "meaning": "Having done, I realized"
+  },
+  {
+    "id": 164,
+    "level": "1-2",
+    "category": "Miscellaneous Beginner Patterns",
+    "grammar": "V-다가",
+    "meaning": "While doing, then"
+  },
+  {
+    "id": 165,
+    "level": "1-2",
+    "category": "Miscellaneous Beginner Patterns",
+    "grammar": "V-다가(는)",
+    "meaning": "If you keep doing..."
+  },
+  {
+    "id": 166,
+    "level": "1-2",
+    "category": "Miscellaneous Beginner Patterns",
+    "grammar": "V-(ㄴ/는)다면",
+    "meaning": "If (supposition)"
+  },
+  {
+    "id": 167,
+    "level": "1-2",
+    "category": "Miscellaneous Beginner Patterns",
+    "grammar": "N-(이)라도",
+    "meaning": "Even if it is / at least"
+  },
+  {
+    "id": 168,
+    "level": "1-2",
+    "category": "Miscellaneous Beginner Patterns",
+    "grammar": "N-뿐(만 아니라)",
+    "meaning": "Only / not only... but also (introduced)"
+  },
+  {
+    "id": 169,
+    "level": "1-2",
+    "category": "Miscellaneous Beginner Patterns",
+    "grammar": "N-조차 / N-마저",
+    "meaning": "Even (emphatic/negative)"
+  },
+  {
+    "id": 170,
+    "level": "1-2",
+    "category": "Miscellaneous Beginner Patterns",
+    "grammar": "N-대신(에)",
+    "meaning": "Instead of"
+  },
+  {
+    "id": 171,
+    "level": "1-2",
+    "category": "Miscellaneous Beginner Patterns",
+    "grammar": "A/V-(으)ㄴ/는 데 (좋다/나쁘다)",
+    "meaning": "Good/bad for"
+  },
+  {
+    "id": 172,
+    "level": "1-2",
+    "category": "Miscellaneous Beginner Patterns",
+    "grammar": "V-는 법이다",
+    "meaning": "It is natural to"
+  },
+  {
+    "id": 173,
+    "level": "1-2",
+    "category": "Miscellaneous Beginner Patterns",
+    "grammar": "V-는 척하다 / -(으)ㄴ 척하다",
+    "meaning": "Pretend to"
+  },
+  {
+    "id": 174,
+    "level": "1-2",
+    "category": "Miscellaneous Beginner Patterns",
+    "grammar": "V-는 통에 / -(으)ㄴ 탓에",
+    "meaning": "Because of (disruption/negative)"
+  },
+  {
+    "id": 175,
+    "level": "1-2",
+    "category": "Miscellaneous Beginner Patterns",
+    "grammar": "V-는 덕분에",
+    "meaning": "Thanks to (positive)"
+  },
+  {
+    "id": 176,
+    "level": "1-2",
+    "category": "Miscellaneous Beginner Patterns",
+    "grammar": "V-(으)ㄴ/는 걸 보니(까)",
+    "meaning": "Judging from"
+  },
+  {
+    "id": 177,
+    "level": "1-2",
+    "category": "Miscellaneous Beginner Patterns",
+    "grammar": "V-(으)ㄴ 채(로)",
+    "meaning": "While in a state of"
+  },
+  {
+    "id": 178,
+    "level": "1-2",
+    "category": "Miscellaneous Beginner Patterns",
+    "grammar": "V-곤 하다",
+    "meaning": "Often / tend to"
+  },
+  {
+    "id": 179,
+    "level": "1-2",
+    "category": "Miscellaneous Beginner Patterns",
+    "grammar": "V-(으)ㄹ 만하다",
+    "meaning": "Be worth doing"
+  },
+  {
+    "id": 180,
+    "level": "1-2",
+    "category": "Miscellaneous Beginner Patterns",
+    "grammar": "A/V-다시피",
+    "meaning": "As you know"
+  },
+  {
+    "id": 181,
+    "level": "1-2",
+    "category": "Miscellaneous Beginner Patterns",
+    "grammar": "A/V-(으)ㄴ/는/(으)ㄹ 셈이다",
+    "meaning": "Equivalent to / amount to"
+  },
+  {
+    "id": 182,
+    "level": "1-2",
+    "category": "Miscellaneous Beginner Patterns",
+    "grammar": "V-나 보다 / -(으)ㄴ가 보다",
+    "meaning": "Seems like / apparently"
+  },
+  {
+    "id": 183,
+    "level": "1-2",
+    "category": "Miscellaneous Beginner Patterns",
+    "grammar": "A/V-(으)ㄴ/는/(으)ㄹ 듯하다",
+    "meaning": "Seem as if"
+  },
+  {
+    "id": 186,
+    "level": "1-2",
+    "category": "Miscellaneous Beginner Patterns",
+    "grammar": "A/V-(으)ㄹ 텐데(요)",
+    "meaning": "I would... but"
+  },
+  {
+    "id": 187,
+    "level": "1-2",
+    "category": "Miscellaneous Beginner Patterns",
+    "grammar": "V-(으)ㄹ 걸 그랬다",
+    "meaning": "I should have"
+  },
+  {
+    "id": 188,
+    "level": "1-2",
+    "category": "Miscellaneous Beginner Patterns",
+    "grammar": "V-기 마련이다",
+    "meaning": "Bound to"
+  },
+  {
+    "id": 189,
+    "level": "1-2",
+    "category": "Miscellaneous Beginner Patterns",
+    "grammar": "V-기 십상이다",
+    "meaning": "Very likely to"
+  },
+  {
+    "id": 191,
+    "level": "3-4",
+    "category": "Causative & Passive",
+    "grammar": "V-게 하다",
+    "meaning": "Make / let someone do"
+  },
+  {
+    "id": 193,
+    "level": "3-4",
+    "category": "Causative & Passive",
+    "grammar": "V-아/여지다",
+    "meaning": "Passive (regular)"
+  },
+  {
+    "id": 197,
+    "level": "3-4",
+    "category": "Time & Sequence",
+    "grammar": "V-(으)ㄴ/는 대로",
+    "meaning": "As soon as / the way"
+  },
+  {
+    "id": 198,
+    "level": "3-4",
+    "category": "Time & Sequence",
+    "grammar": "V-자마자",
+    "meaning": "As soon as"
+  },
+  {
+    "id": 199,
+    "level": "3-4",
+    "category": "Time & Sequence",
+    "grammar": "V-는 길에",
+    "meaning": "On the way"
+  },
+  {
+    "id": 200,
+    "level": "3-4",
+    "category": "Time & Sequence",
+    "grammar": "V-(으)ㄴ/는 김에",
+    "meaning": "While I'm at it"
+  },
+  {
+    "id": 201,
+    "level": "3-4",
+    "category": "Time & Sequence",
+    "grammar": "V-는 사이에",
+    "meaning": "In the meantime"
+  },
+  {
+    "id": 202,
+    "level": "3-4",
+    "category": "Time & Sequence",
+    "grammar": "V-(으)ㄴ 채(로)",
+    "meaning": "While in a state of"
+  },
+  {
+    "id": 203,
+    "level": "3-4",
+    "category": "Time & Sequence",
+    "grammar": "V-고 나서",
+    "meaning": "After doing"
+  },
+  {
+    "id": 204,
+    "level": "3-4",
+    "category": "Time & Sequence",
+    "grammar": "V-고 나면",
+    "meaning": "Once done"
+  },
+  {
+    "id": 205,
+    "level": "3-4",
+    "category": "Time & Sequence",
+    "grammar": "V-고 나니(까)",
+    "meaning": "Having done, I found that"
+  },
+  {
+    "id": 206,
+    "level": "3-4",
+    "category": "Time & Sequence",
+    "grammar": "V-다가",
+    "meaning": "While doing, then"
+  },
+  {
+    "id": 207,
+    "level": "3-4",
+    "category": "Time & Sequence",
+    "grammar": "V-다가(는)",
+    "meaning": "If you keep doing..."
+  },
+  {
+    "id": 208,
+    "level": "3-4",
+    "category": "Time & Sequence",
+    "grammar": "V-(으)면",
+    "meaning": "If / when"
+  },
+  {
+    "id": 209,
+    "level": "3-4",
+    "category": "Time & Sequence",
+    "grammar": "V-(으)려면",
+    "meaning": "If you want to"
+  },
+  {
+    "id": 210,
+    "level": "3-4",
+    "category": "Time & Sequence",
+    "grammar": "V-기 전에",
+    "meaning": "Before"
+  },
+  {
+    "id": 211,
+    "level": "3-4",
+    "category": "Time & Sequence",
+    "grammar": "V-는 동안",
+    "meaning": "During"
+  },
+  {
+    "id": 212,
+    "level": "3-4",
+    "category": "Time & Sequence",
+    "grammar": "V-(으)ㄹ 때",
+    "meaning": "When"
+  },
+  {
+    "id": 213,
+    "level": "3-4",
+    "category": "Time & Sequence",
+    "grammar": "V-(으)ㄴ 후에",
+    "meaning": "After"
+  },
+  {
+    "id": 214,
+    "level": "3-4",
+    "category": "Contrast & Concession",
+    "grammar": "A/V-지만",
+    "meaning": "But / although"
+  },
+  {
+    "id": 215,
+    "level": "3-4",
+    "category": "Contrast & Concession",
+    "grammar": "A/V-는데",
+    "meaning": "But / background / and"
+  },
+  {
+    "id": 216,
+    "level": "3-4",
+    "category": "Contrast & Concession",
+    "grammar": "A/V-기는 하지만",
+    "meaning": "Although it is true that"
+  },
+  {
+    "id": 217,
+    "level": "3-4",
+    "category": "Contrast & Concession",
+    "grammar": "A/V-(으)ㄴ/는 반면(에)",
+    "meaning": "Whereas / on the other hand"
+  },
+  {
+    "id": 218,
+    "level": "3-4",
+    "category": "Contrast & Concession",
+    "grammar": "V-(으)ㄹ지라도",
+    "meaning": "Even if"
+  },
+  {
+    "id": 219,
+    "level": "3-4",
+    "category": "Contrast & Concession",
+    "grammar": "A/V-아/어도",
+    "meaning": "Even if / even though"
+  },
+  {
+    "id": 220,
+    "level": "3-4",
+    "category": "Contrast & Concession",
+    "grammar": "V-(으)ㄴ/는데도",
+    "meaning": "Even though"
+  },
+  {
+    "id": 221,
+    "level": "3-4",
+    "category": "Contrast & Concession",
+    "grammar": "V-(으)ㄴ/는 반대로",
+    "meaning": "Contrary to"
+  },
+  {
+    "id": 222,
+    "level": "3-4",
+    "category": "Contrast & Concession",
+    "grammar": "A/V-(으)ㄴ/는 탓에",
+    "meaning": "Due to / because of (negative)"
+  },
+  {
+    "id": 223,
+    "level": "3-4",
+    "category": "Contrast & Concession",
+    "grammar": "N-(이)나마",
+    "meaning": "Even if it's only"
+  },
+  {
+    "id": 224,
+    "level": "3-4",
+    "category": "Contrast & Concession",
+    "grammar": "N-(은/는)커녕",
+    "meaning": "Let alone / not to mention"
+  },
+  {
+    "id": 226,
+    "level": "3-4",
+    "category": "Cause & Reason",
+    "grammar": "A/V-(으)니까",
+    "meaning": "Because / since"
+  },
+  {
+    "id": 227,
+    "level": "3-4",
+    "category": "Cause & Reason",
+    "grammar": "V-는 바람에",
+    "meaning": "Due to (sudden cause, often negative)"
+  },
+  {
+    "id": 228,
+    "level": "3-4",
+    "category": "Cause & Reason",
+    "grammar": "V-는 통에",
+    "meaning": "Because of (disruptive cause)"
+  },
+  {
+    "id": 231,
+    "level": "3-4",
+    "category": "Cause & Reason",
+    "grammar": "A/V-기 때문에",
+    "meaning": "Because"
+  },
+  {
+    "id": 232,
+    "level": "3-4",
+    "category": "Cause & Reason",
+    "grammar": "V-느라고",
+    "meaning": "Because (busy doing, negative result)"
+  },
+  {
+    "id": 233,
+    "level": "3-4",
+    "category": "Cause & Reason",
+    "grammar": "V-(으)ㄴ/는 탓에",
+    "meaning": "Due to (negative result)"
+  },
+  {
+    "id": 234,
+    "level": "3-4",
+    "category": "Cause & Reason",
+    "grammar": "V-아/어/여서 그런지",
+    "meaning": "Maybe because"
+  },
+  {
+    "id": 235,
+    "level": "3-4",
+    "category": "Cause & Reason",
+    "grammar": "-(으)로 인해(서)",
+    "meaning": "Due to / caused by"
+  },
+  {
+    "id": 236,
+    "level": "3-4",
+    "category": "Cause & Reason",
+    "grammar": "-에 의해(서)",
+    "meaning": "By / through (passive agent)"
+  },
+  {
+    "id": 238,
+    "level": "3-4",
+    "category": "Condition & Assumption",
+    "grammar": "A/V-(으)ㄹ까 봐(서)",
+    "meaning": "For fear that / in case"
+  },
+  {
+    "id": 239,
+    "level": "3-4",
+    "category": "Condition & Assumption",
+    "grammar": "V-(으)ㄹ까 하다/싶다",
+    "meaning": "Thinking of / considering"
+  },
+  {
+    "id": 240,
+    "level": "3-4",
+    "category": "Condition & Assumption",
+    "grammar": "V-(으)ㄹ까 말까",
+    "meaning": "Whether or not to"
+  },
+  {
+    "id": 241,
+    "level": "3-4",
+    "category": "Condition & Assumption",
+    "grammar": "V-(으)ㄹ까 보다",
+    "meaning": "Seems like someone might"
+  },
+  {
+    "id": 242,
+    "level": "3-4",
+    "category": "Condition & Assumption",
+    "grammar": "V-(으)ㄹ지(도) 모르다",
+    "meaning": "Might / may"
+  },
+  {
+    "id": 244,
+    "level": "3-4",
+    "category": "Condition & Assumption",
+    "grammar": "V-(으)ㄹ 테니(까)",
+    "meaning": "I will... so (you should)"
+  },
+  {
+    "id": 245,
+    "level": "3-4",
+    "category": "Condition & Assumption",
+    "grammar": "V-(으)ㄹ 텐데(요)",
+    "meaning": "I would... but"
+  },
+  {
+    "id": 246,
+    "level": "3-4",
+    "category": "Condition & Assumption",
+    "grammar": "V-(으)려던 참이다",
+    "meaning": "I was just about to"
+  },
+  {
+    "id": 247,
+    "level": "3-4",
+    "category": "Condition & Assumption",
+    "grammar": "A/V-(으)ㄹ 수밖에 없다",
+    "meaning": "Have no choice but to"
+  },
+  {
+    "id": 248,
+    "level": "3-4",
+    "category": "Condition & Assumption",
+    "grammar": "V-(으)ㄹ 정도(로)",
+    "meaning": "To the extent that"
+  },
+  {
+    "id": 249,
+    "level": "3-4",
+    "category": "Condition & Assumption",
+    "grammar": "V-(으)ㄹ 지경이다",
+    "meaning": "On the verge of"
+  },
+  {
+    "id": 250,
+    "level": "3-4",
+    "category": "Condition & Assumption",
+    "grammar": "A/V-(으)ㄴ/는/(으)ㄹ지",
+    "meaning": "Whether or not"
+  },
+  {
+    "id": 251,
+    "level": "3-4",
+    "category": "Condition & Assumption",
+    "grammar": "A/V-(으)ㄹ 뻔하다",
+    "meaning": "Almost / nearly"
+  },
+  {
+    "id": 252,
+    "level": "3-4",
+    "category": "Condition & Assumption",
+    "grammar": "A/V-았/었/였더라면",
+    "meaning": "If only / had... then"
+  },
+  {
+    "id": 258,
+    "level": "3-4",
+    "category": "Purpose & Intention",
+    "grammar": "V-(으)ㄹ 겸 (해서)",
+    "meaning": "Partly / as well as"
+  },
+  {
+    "id": 259,
+    "level": "3-4",
+    "category": "Purpose & Intention",
+    "grammar": "V-기로 하다",
+    "meaning": "Decide to"
+  },
+  {
+    "id": 260,
+    "level": "3-4",
+    "category": "Purpose & Intention",
+    "grammar": "V-기로 되다",
+    "meaning": "It is decided that"
+  },
+  {
+    "id": 261,
+    "level": "3-4",
+    "category": "Degree & Extent",
+    "grammar": "A/V-(으)ㄴ/는 만큼",
+    "meaning": "As much as"
+  },
+  {
+    "id": 262,
+    "level": "3-4",
+    "category": "Degree & Extent",
+    "grammar": "A/V-기만 하면 (되다)",
+    "meaning": "All you have to do is"
+  },
+  {
+    "id": 263,
+    "level": "3-4",
+    "category": "Degree & Extent",
+    "grammar": "A/V-을/를 정도(로)",
+    "meaning": "To the extent/point that"
+  },
+  {
+    "id": 264,
+    "level": "3-4",
+    "category": "Degree & Extent",
+    "grammar": "N-만 하다/못하다",
+    "meaning": "About the same as / not even"
+  },
+  {
+    "id": 266,
+    "level": "3-4",
+    "category": "Degree & Extent",
+    "grammar": "V-(으)ㄹ 뿐만 아니라",
+    "meaning": "Not only... but also"
+  },
+  {
+    "id": 267,
+    "level": "3-4",
+    "category": "Degree & Extent",
+    "grammar": "A/V-(으)ㄹ 뿐이다",
+    "meaning": "Just / merely"
+  },
+  {
+    "id": 268,
+    "level": "3-4",
+    "category": "Degree & Extent",
+    "grammar": "얼마나 -(으)ㄴ지",
+    "meaning": "How (very)"
+  },
+  {
+    "id": 270,
+    "level": "3-4",
+    "category": "Degree & Extent",
+    "grammar": "N-뿐",
+    "meaning": "Only / just"
+  },
+  {
+    "id": 271,
+    "level": "3-4",
+    "category": "Degree & Extent",
+    "grammar": "N-조차",
+    "meaning": "Even"
+  },
+  {
+    "id": 272,
+    "level": "3-4",
+    "category": "Degree & Extent",
+    "grammar": "N-마저",
+    "meaning": "Even (in negative)"
+  },
+  {
+    "id": 273,
+    "level": "3-4",
+    "category": "Supposition & Inference",
+    "grammar": "A/V-(으)ㄴ/는/(으)ㄹ 것 같다",
+    "meaning": "Seems like / I think"
+  },
+  {
+    "id": 274,
+    "level": "3-4",
+    "category": "Supposition & Inference",
+    "grammar": "A/V-(으)ㄴ/는/(으)ㄹ 모양이다",
+    "meaning": "Looks like / appears"
+  },
+  {
+    "id": 276,
+    "level": "3-4",
+    "category": "Supposition & Inference",
+    "grammar": "A/V-(으)ㄴ가 보다",
+    "meaning": "Seems like / I guess"
+  },
+  {
+    "id": 277,
+    "level": "3-4",
+    "category": "Supposition & Inference",
+    "grammar": "A/V-(으)ㄹ 테니까",
+    "meaning": "I suppose... so"
+  },
+  {
+    "id": 278,
+    "level": "3-4",
+    "category": "Supposition & Inference",
+    "grammar": "V-나 보다",
+    "meaning": "Seems like / apparently"
+  },
+  {
+    "id": 281,
+    "level": "3-4",
+    "category": "Supposition & Inference",
+    "grammar": "V-(으)ㄹ걸(요)",
+    "meaning": "Probably would"
+  },
+  {
+    "id": 284,
+    "level": "3-4",
+    "category": "Supposition & Inference",
+    "grammar": "A/V-나 마나",
+    "meaning": "Whether or not"
+  },
+  {
+    "id": 285,
+    "level": "3-4",
+    "category": "Supposition & Inference",
+    "grammar": "V-(으)ㄹ 리가 없다",
+    "meaning": "No way"
+  },
+  {
+    "id": 287,
+    "level": "3-4",
+    "category": "Supposition & Inference",
+    "grammar": "V-(으)ㄴ 척하다",
+    "meaning": "Pretend to"
+  },
+  {
+    "id": 288,
+    "level": "3-4",
+    "category": "Supposition & Inference",
+    "grammar": "V-(으)ㄴ 체하다",
+    "meaning": "Pretend to"
+  },
+  {
+    "id": 289,
+    "level": "3-4",
+    "category": "Supposition & Inference",
+    "grammar": "V-는 척하다",
+    "meaning": "Pretend to be"
+  },
+  {
+    "id": 290,
+    "level": "3-4",
+    "category": "Indirect Speech (Quoted Speech)",
+    "grammar": "V-(ㄴ/는)다고 하다",
+    "meaning": "Say that (someone does)"
+  },
+  {
+    "id": 291,
+    "level": "3-4",
+    "category": "Indirect Speech (Quoted Speech)",
+    "grammar": "A-다고 하다",
+    "meaning": "Say that (someone is)"
+  },
+  {
+    "id": 292,
+    "level": "3-4",
+    "category": "Indirect Speech (Quoted Speech)",
+    "grammar": "N-(이)라고 하다",
+    "meaning": "Say that (something is)"
+  },
+  {
+    "id": 293,
+    "level": "3-4",
+    "category": "Indirect Speech (Quoted Speech)",
+    "grammar": "V-자고 하다",
+    "meaning": "Suggest that"
+  },
+  {
+    "id": 294,
+    "level": "3-4",
+    "category": "Indirect Speech (Quoted Speech)",
+    "grammar": "V-(으)라고 하다",
+    "meaning": "Tell someone to"
+  },
+  {
+    "id": 295,
+    "level": "3-4",
+    "category": "Indirect Speech (Quoted Speech)",
+    "grammar": "V-냐고 하다",
+    "meaning": "Ask if"
+  },
+  {
+    "id": 296,
+    "level": "3-4",
+    "category": "Indirect Speech (Quoted Speech)",
+    "grammar": "A/V-(으)ㄴ/는다고(요)?",
+    "meaning": "You mean...? / So you're saying..."
+  },
+  {
+    "id": 297,
+    "level": "3-4",
+    "category": "Indirect Speech (Quoted Speech)",
+    "grammar": "A/V-(으)ㄴ/는다면서(요)?",
+    "meaning": "I heard that..."
+  },
+  {
+    "id": 298,
+    "level": "3-4",
+    "category": "Indirect Speech (Quoted Speech)",
+    "grammar": "A/V-(으)ㄴ/는다니(요)?",
+    "meaning": "You mean...? / I can't believe..."
+  },
+  {
+    "id": 299,
+    "level": "3-4",
+    "category": "Indirect Speech (Quoted Speech)",
+    "grammar": "A/V-(으)ㄴ/는다거나",
+    "meaning": "Whether... or"
+  },
+  {
+    "id": 300,
+    "level": "3-4",
+    "category": "Indirect Speech (Quoted Speech)",
+    "grammar": "A/V-(으)ㄴ/는다기에 / 다길래",
+    "meaning": "Because they said"
+  },
+  {
+    "id": 301,
+    "level": "3-4",
+    "category": "Indirect Speech (Quoted Speech)",
+    "grammar": "A/V-(으)ㄴ/는다더니",
+    "meaning": "They said... but"
+  },
+  {
+    "id": 302,
+    "level": "3-4",
+    "category": "Indirect Speech (Quoted Speech)",
+    "grammar": "A/V-(으)ㄴ/는다니까",
+    "meaning": "They say... so"
+  },
+  {
+    "id": 303,
+    "level": "3-4",
+    "category": "Indirect Speech (Quoted Speech)",
+    "grammar": "A/V-(으)ㄴ/는다더라 / 다던데",
+    "meaning": "They said... (I observed)"
+  },
+  {
+    "id": 304,
+    "level": "3-4",
+    "category": "Indirect Speech (Quoted Speech)",
+    "grammar": "A/V-(느/는)다니",
+    "meaning": "(I hear that)... (surprise)"
+  },
+  {
+    "id": 305,
+    "level": "3-4",
+    "category": "Indirect Speech (Quoted Speech)",
+    "grammar": "V-(ㄴ/는)다고 핵도",
+    "meaning": "Even if they say"
+  },
+  {
+    "id": 306,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-(으)므로",
+    "meaning": "Therefore (formal)"
+  },
+  {
+    "id": 307,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-거든(요)",
+    "meaning": "You see / because (casual explanation)"
+  },
+  {
+    "id": 308,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-거든",
+    "meaning": "If / because (formal conditional)"
+  },
+  {
+    "id": 309,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-길래",
+    "meaning": "Because / so (casual)"
+  },
+  {
+    "id": 310,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-(으)니만큼",
+    "meaning": "Since / as"
+  },
+  {
+    "id": 311,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "A/V-(으)ㄴ/는들",
+    "meaning": "Even if"
+  },
+  {
+    "id": 313,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-더니",
+    "meaning": "And then / but then (change)"
+  },
+  {
+    "id": 314,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-더라도",
+    "meaning": "Even if"
+  },
+  {
+    "id": 315,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-던데(요)",
+    "meaning": "I saw that... / you know..."
+  },
+  {
+    "id": 316,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-더라 / 더군(요)",
+    "meaning": "I observed that..."
+  },
+  {
+    "id": 317,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-던가(요)? / 던데(요)",
+    "meaning": "I wonder if"
+  },
+  {
+    "id": 319,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-다(가) 보니(까)",
+    "meaning": "After doing repeatedly..."
+  },
+  {
+    "id": 320,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-다(가) 복면",
+    "meaning": "If you keep doing..."
+  },
+  {
+    "id": 321,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-다고 치다",
+    "meaning": "Assuming that"
+  },
+  {
+    "id": 322,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-든지",
+    "meaning": "Whether... or / whatever"
+  },
+  {
+    "id": 323,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-듯이",
+    "meaning": "As if / like"
+  },
+  {
+    "id": 324,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "A/V-(이)나 -(이)나 할 것 없이",
+    "meaning": "Regardless of"
+  },
+  {
+    "id": 325,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-고(요)",
+    "meaning": "And (softening)"
+  },
+  {
+    "id": 328,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-고 말다",
+    "meaning": "End up doing"
+  },
+  {
+    "id": 329,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-고 들다",
+    "meaning": "End up (unexpectedly)"
+  },
+  {
+    "id": 330,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-고 말고(요)",
+    "meaning": "Of course"
+  },
+  {
+    "id": 331,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "A/V-기 십상이다",
+    "meaning": "Very likely to"
+  },
+  {
+    "id": 332,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "A/V-기/게 마련이다",
+    "meaning": "Bound to"
+  },
+  {
+    "id": 333,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-(으)ㄴ/는 걸(요)",
+    "meaning": "You know... / the thing is..."
+  },
+  {
+    "id": 334,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-(는)군(요) / (는)구나",
+    "meaning": "Oh, I see / so that's how"
+  },
+  {
+    "id": 335,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-(으)ㄴ가(요)?",
+    "meaning": "I wonder"
+  },
+  {
+    "id": 336,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-잖아(요)",
+    "meaning": "You know... / after all"
+  },
+  {
+    "id": 337,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-(ㄴ/는)다",
+    "meaning": "Plain declarative"
+  },
+  {
+    "id": 338,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-아/어라",
+    "meaning": "Casual command"
+  },
+  {
+    "id": 340,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-아/어야지",
+    "meaning": "I should"
+  },
+  {
+    "id": 341,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-아/어/(이)야",
+    "meaning": "Only if / have to"
+  },
+  {
+    "id": 342,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-나(요)? / 니/냐?",
+    "meaning": "Casual question"
+  },
+  {
+    "id": 343,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-기에(는)",
+    "meaning": "Because (formal)"
+  },
+  {
+    "id": 344,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-기는(요)",
+    "meaning": "Not really / on the contrary"
+  },
+  {
+    "id": 346,
+    "level": "3-4",
+    "category": "Auxiliary Verbs & Compound Expressions",
+    "grammar": "V-아/어 가다/오다",
+    "meaning": "Go/come doing"
+  },
+  {
+    "id": 347,
+    "level": "3-4",
+    "category": "Auxiliary Verbs & Compound Expressions",
+    "grammar": "V-아/어 나가다/내다",
+    "meaning": "Go out/bring out doing"
+  },
+  {
+    "id": 349,
+    "level": "3-4",
+    "category": "Auxiliary Verbs & Compound Expressions",
+    "grammar": "V-아/어 두다/놓다",
+    "meaning": "Do for later"
+  },
+  {
+    "id": 350,
+    "level": "3-4",
+    "category": "Auxiliary Verbs & Compound Expressions",
+    "grammar": "V-아/어 있다",
+    "meaning": "State of having done"
+  },
+  {
+    "id": 351,
+    "level": "3-4",
+    "category": "Auxiliary Verbs & Compound Expressions",
+    "grammar": "V-아/어 지다",
+    "meaning": "Become"
+  },
+  {
+    "id": 352,
+    "level": "3-4",
+    "category": "Auxiliary Verbs & Compound Expressions",
+    "grammar": "V-아/어 대다",
+    "meaning": "Keep doing"
+  },
+  {
+    "id": 353,
+    "level": "3-4",
+    "category": "Auxiliary Verbs & Compound Expressions",
+    "grammar": "V-아/어 먹다",
+    "meaning": "Do thoroughly (casual)"
+  },
+  {
+    "id": 354,
+    "level": "3-4",
+    "category": "Auxiliary Verbs & Compound Expressions",
+    "grammar": "V-아/어 죽다",
+    "meaning": "Almost die from"
+  },
+  {
+    "id": 355,
+    "level": "3-4",
+    "category": "Auxiliary Verbs & Compound Expressions",
+    "grammar": "V-아/어 달라다",
+    "meaning": "Ask someone to do"
+  },
+  {
+    "id": 356,
+    "level": "3-4",
+    "category": "Auxiliary Verbs & Compound Expressions",
+    "grammar": "V-아/여 보이다",
+    "meaning": "Look / seem"
+  },
+  {
+    "id": 357,
+    "level": "3-4",
+    "category": "Auxiliary Verbs & Compound Expressions",
+    "grammar": "V-아/어 가지고",
+    "meaning": "And then (casual)"
+  },
+  {
+    "id": 360,
+    "level": "3-4",
+    "category": "Auxiliary Verbs & Compound Expressions",
+    "grammar": "N-에 따라(서)",
+    "meaning": "According to / depending on"
+  },
+  {
+    "id": 362,
+    "level": "3-4",
+    "category": "Auxiliary Verbs & Compound Expressions",
+    "grammar": "N-을/를 비롯해(서)",
+    "meaning": "Including / starting with"
+  },
+  {
+    "id": 363,
+    "level": "3-4",
+    "category": "Auxiliary Verbs & Compound Expressions",
+    "grammar": "N-을/를 통해(서)",
+    "meaning": "Through"
+  },
+  {
+    "id": 367,
+    "level": "3-4",
+    "category": "Auxiliary Verbs & Compound Expressions",
+    "grammar": "아무 -(이)나",
+    "meaning": "Any"
+  },
+  {
+    "id": 368,
+    "level": "3-4",
+    "category": "Auxiliary Verbs & Compound Expressions",
+    "grammar": "아무 -도",
+    "meaning": "Any... (negative)"
+  },
+  {
+    "id": 369,
+    "level": "3-4",
+    "category": "Auxiliary Verbs & Compound Expressions",
+    "grammar": "V-는 수(가) 있다",
+    "meaning": "There is a way to"
+  },
+  {
+    "id": 370,
+    "level": "3-4",
+    "category": "Auxiliary Verbs & Compound Expressions",
+    "grammar": "V-는 한",
+    "meaning": "As long as"
+  },
+  {
+    "id": 371,
+    "level": "3-4",
+    "category": "Auxiliary Verbs & Compound Expressions",
+    "grammar": "V-는 한편",
+    "meaning": "On one hand"
+  },
+  {
+    "id": 372,
+    "level": "3-4",
+    "category": "Auxiliary Verbs & Compound Expressions",
+    "grammar": "V-는 대신(에)",
+    "meaning": "Instead of"
+  },
+  {
+    "id": 373,
+    "level": "3-4",
+    "category": "Auxiliary Verbs & Compound Expressions",
+    "grammar": "V-는 데 (좋다/나쁘다)",
+    "meaning": "Good/bad for"
+  },
+  {
+    "id": 374,
+    "level": "3-4",
+    "category": "Auxiliary Verbs & Compound Expressions",
+    "grammar": "V-는 셈치다",
+    "meaning": "Consider it as"
+  },
+  {
+    "id": 375,
+    "level": "3-4",
+    "category": "Auxiliary Verbs & Compound Expressions",
+    "grammar": "V-는 편이다",
+    "meaning": "Tend to"
+  },
+  {
+    "id": 376,
+    "level": "3-4",
+    "category": "Auxiliary Verbs & Compound Expressions",
+    "grammar": "A/V-았/었/였던 것 같다",
+    "meaning": "I think it was"
+  },
+  {
+    "id": 377,
+    "level": "3-4",
+    "category": "Auxiliary Verbs & Compound Expressions",
+    "grammar": "V-았/었으면 하다",
+    "meaning": "Wish that"
+  },
+  {
+    "id": 378,
+    "level": "5-6",
+    "category": "Formal Written & Academic Connectives",
+    "grammar": "A/V-(으)므로",
+    "meaning": "Therefore (formal written)"
+  },
+  {
+    "id": 379,
+    "level": "5-6",
+    "category": "Formal Written & Academic Connectives",
+    "grammar": "A/V-기에",
+    "meaning": "Because (formal)"
+  },
+  {
+    "id": 380,
+    "level": "5-6",
+    "category": "Formal Written & Academic Connectives",
+    "grammar": "N-에 의거하여 / 의하여",
+    "meaning": "Based on / by means of"
+  },
+  {
+    "id": 381,
+    "level": "5-6",
+    "category": "Formal Written & Academic Connectives",
+    "grammar": "N-을/를 통하여 / 통해",
+    "meaning": "Through"
+  },
+  {
+    "id": 382,
+    "level": "5-6",
+    "category": "Formal Written & Academic Connectives",
+    "grammar": "A/V-(으)ㄴ/는 데다(가)",
+    "meaning": "Not only... but also"
+  },
+  {
+    "id": 383,
+    "level": "5-6",
+    "category": "Formal Written & Academic Connectives",
+    "grammar": "A/V-(으)ㄴ/는 데 있다",
+    "meaning": "The point/issue lies in"
+  },
+  {
+    "id": 384,
+    "level": "5-6",
+    "category": "Formal Written & Academic Connectives",
+    "grammar": "N-에 있어서 / -는 데 있어서",
+    "meaning": "In terms of"
+  },
+  {
+    "id": 385,
+    "level": "5-6",
+    "category": "Formal Written & Academic Connectives",
+    "grammar": "N-에 관한 / -에 대한",
+    "meaning": "Regarding / about"
+  },
+  {
+    "id": 387,
+    "level": "5-6",
+    "category": "Formal Written & Academic Connectives",
+    "grammar": "A/V-(으)ㄹ진대",
+    "meaning": "Now that / since (formal)"
+  },
+  {
+    "id": 388,
+    "level": "5-6",
+    "category": "Formal Written & Academic Connectives",
+    "grammar": "V-(으)ㄹ수록",
+    "meaning": "The more... the more"
+  },
+  {
+    "id": 389,
+    "level": "5-6",
+    "category": "Formal Written & Academic Connectives",
+    "grammar": "A/V-(으)ㄹ 뿐 아니라",
+    "meaning": "Not only... but also"
+  },
+  {
+    "id": 391,
+    "level": "5-6",
+    "category": "Formal Written & Academic Connectives",
+    "grammar": "A/V-(으)ㄹ 것이 아니라",
+    "meaning": "Not... but rather"
+  },
+  {
+    "id": 392,
+    "level": "5-6",
+    "category": "Formal Written & Academic Connectives",
+    "grammar": "A/V-(으)ㄴ/는 반면에",
+    "meaning": "Whereas / while"
+  },
+  {
+    "id": 393,
+    "level": "5-6",
+    "category": "Formal Written & Academic Connectives",
+    "grammar": "A/V-(으)ㄴ/는 대신에",
+    "meaning": "Instead of"
+  },
+  {
+    "id": 394,
+    "level": "5-6",
+    "category": "Formal Written & Academic Connectives",
+    "grammar": "A/V-(으)ㄴ/는 한편",
+    "meaning": "On the one hand"
+  },
+  {
+    "id": 395,
+    "level": "5-6",
+    "category": "Formal Written & Academic Connectives",
+    "grammar": "N-와/과는 달리",
+    "meaning": "Unlike"
+  },
+  {
+    "id": 396,
+    "level": "5-6",
+    "category": "Formal Written & Academic Connectives",
+    "grammar": "N-와/과 마찬가지로",
+    "meaning": "Just like"
+  },
+  {
+    "id": 397,
+    "level": "5-6",
+    "category": "Formal Written & Academic Connectives",
+    "grammar": "N-과/와 더불어",
+    "meaning": "Together with"
+  },
+  {
+    "id": 398,
+    "level": "5-6",
+    "category": "Formal Written & Academic Connectives",
+    "grammar": "N-뿐 아니라",
+    "meaning": "Not only... but also"
+  },
+  {
+    "id": 399,
+    "level": "5-6",
+    "category": "Formal Written & Academic Connectives",
+    "grammar": "N-에 불과하다",
+    "meaning": "Merely / no more than"
+  },
+  {
+    "id": 400,
+    "level": "5-6",
+    "category": "Formal Written & Academic Connectives",
+    "grammar": "N-에 지나지 않다",
+    "meaning": "Nothing more than"
+  },
+  {
+    "id": 401,
+    "level": "5-6",
+    "category": "Formal Written & Academic Connectives",
+    "grammar": "A/V-다고 핼 수 없다",
+    "meaning": "Cannot say that"
+  },
+  {
+    "id": 402,
+    "level": "5-6",
+    "category": "Formal Written & Academic Connectives",
+    "grammar": "A/V-다고 볼 수 있다",
+    "meaning": "Can be seen as"
+  },
+  {
+    "id": 403,
+    "level": "5-6",
+    "category": "Formal Written & Academic Connectives",
+    "grammar": "A/V-ㄹ/을 수 있다",
+    "meaning": "It is possible that"
+  },
+  {
+    "id": 404,
+    "level": "5-6",
+    "category": "Formal Written & Academic Connectives",
+    "grammar": "A/V-는 한",
+    "meaning": "As long as"
+  },
+  {
+    "id": 405,
+    "level": "5-6",
+    "category": "Formal Written & Academic Connectives",
+    "grammar": "A/V-(으)ㄴ/는 데다가",
+    "meaning": "On top of / in addition"
+  },
+  {
+    "id": 407,
+    "level": "5-6",
+    "category": "Formal Written & Academic Connectives",
+    "grammar": "A/V-(으)ㄴ/는 통에",
+    "meaning": "Because of (disruption)"
+  },
+  {
+    "id": 408,
+    "level": "5-6",
+    "category": "Formal Written & Academic Connectives",
+    "grammar": "A/V-(으)ㄴ/는 법이다",
+    "meaning": "It is natural that"
+  },
+  {
+    "id": 409,
+    "level": "5-6",
+    "category": "Formal Written & Academic Connectives",
+    "grammar": "A/V-(으)ㄴ/는 셈이다",
+    "meaning": "Equivalent to / amount to"
+  },
+  {
+    "id": 410,
+    "level": "5-6",
+    "category": "Formal Written & Academic Connectives",
+    "grammar": "A/V-(으)ㄴ/는 척하다",
+    "meaning": "Pretend to"
+  },
+  {
+    "id": 411,
+    "level": "5-6",
+    "category": "Formal Written & Academic Connectives",
+    "grammar": "A/V-(으)ㄴ/는 한",
+    "meaning": "As long as"
+  },
+  {
+    "id": 412,
+    "level": "5-6",
+    "category": "Formal Written & Academic Connectives",
+    "grammar": "V-는 데 있다 / -는 데 있다",
+    "meaning": "Lie in / consist in"
+  },
+  {
+    "id": 413,
+    "level": "5-6",
+    "category": "Formal Written & Academic Connectives",
+    "grammar": "V-는 데서",
+    "meaning": "From the fact that"
+  },
+  {
+    "id": 414,
+    "level": "5-6",
+    "category": "Formal Written & Academic Connectives",
+    "grammar": "N-으로 인해(서)",
+    "meaning": "Due to"
+  },
+  {
+    "id": 415,
+    "level": "5-6",
+    "category": "Formal Written & Academic Connectives",
+    "grammar": "N-에 기인하다",
+    "meaning": "Due to / attributable to"
+  },
+  {
+    "id": 416,
+    "level": "5-6",
+    "category": "Formal Written & Academic Connectives",
+    "grammar": "N-이/가 아닌",
+    "meaning": "Not... but rather"
+  },
+  {
+    "id": 417,
+    "level": "5-6",
+    "category": "Formal Written & Academic Connectives",
+    "grammar": "N-을/를 포함하여",
+    "meaning": "Including"
+  },
+  {
+    "id": 419,
+    "level": "5-6",
+    "category": "Advanced Supposition, Inference & Nuance",
+    "grammar": "A/V-(으)ㄹ지도 모르다",
+    "meaning": "Might / may"
+  },
+  {
+    "id": 420,
+    "level": "5-6",
+    "category": "Advanced Supposition, Inference & Nuance",
+    "grammar": "A/V-(으)ㄹ 터인데",
+    "meaning": "Would have... but"
+  },
+  {
+    "id": 421,
+    "level": "5-6",
+    "category": "Advanced Supposition, Inference & Nuance",
+    "grammar": "A/V-(으)ㄹ 테지만",
+    "meaning": "I would... but"
+  },
+  {
+    "id": 424,
+    "level": "5-6",
+    "category": "Advanced Supposition, Inference & Nuance",
+    "grammar": "A/V-았/었/였을 텐데",
+    "meaning": "Would have... but"
+  },
+  {
+    "id": 426,
+    "level": "5-6",
+    "category": "Advanced Supposition, Inference & Nuance",
+    "grammar": "A/V-(으)ㄹ 정도(로)",
+    "meaning": "To the extent that"
+  },
+  {
+    "id": 427,
+    "level": "5-6",
+    "category": "Advanced Supposition, Inference & Nuance",
+    "grammar": "A/V-(으)ㄹ 지경이다",
+    "meaning": "On the verge of"
+  },
+  {
+    "id": 430,
+    "level": "5-6",
+    "category": "Advanced Supposition, Inference & Nuance",
+    "grammar": "A/V-나 보다 / -(으)ㄴ가 보다",
+    "meaning": "Seems like / apparently"
+  },
+  {
+    "id": 431,
+    "level": "5-6",
+    "category": "Advanced Supposition, Inference & Nuance",
+    "grammar": "A/V-(으)ㄴ/는 걸 보니(까)",
+    "meaning": "Judging from"
+  },
+  {
+    "id": 433,
+    "level": "5-6",
+    "category": "Advanced Supposition, Inference & Nuance",
+    "grammar": "A/V-(으)ㄴ 척하다 / 체하다",
+    "meaning": "Pretend to"
+  },
+  {
+    "id": 434,
+    "level": "5-6",
+    "category": "Advanced Supposition, Inference & Nuance",
+    "grammar": "A/V-(으)ㄴ 채(로)",
+    "meaning": "While remaining in a state"
+  },
+  {
+    "id": 435,
+    "level": "5-6",
+    "category": "Advanced Supposition, Inference & Nuance",
+    "grammar": "A/V-(으)ㄴ/는 듯하다 / 듯싶다",
+    "meaning": "Seem as if"
+  },
+  {
+    "id": 436,
+    "level": "5-6",
+    "category": "Advanced Supposition, Inference & Nuance",
+    "grammar": "V-는 것으로 보이다",
+    "meaning": "Appear to"
+  },
+  {
+    "id": 437,
+    "level": "5-6",
+    "category": "Advanced Supposition, Inference & Nuance",
+    "grammar": "V-는 것으로 알려져 있다",
+    "meaning": "Be known to"
+  },
+  {
+    "id": 438,
+    "level": "5-6",
+    "category": "Advanced Supposition, Inference & Nuance",
+    "grammar": "V-는 것으로 생각된다",
+    "meaning": "Be thought to"
+  },
+  {
+    "id": 439,
+    "level": "5-6",
+    "category": "Advanced Supposition, Inference & Nuance",
+    "grammar": "V-는 것으로 추정된다",
+    "meaning": "Be estimated to"
+  },
+  {
+    "id": 440,
+    "level": "5-6",
+    "category": "Advanced Supposition, Inference & Nuance",
+    "grammar": "V-는 것으로 이핼된다",
+    "meaning": "Be understood to"
+  },
+  {
+    "id": 441,
+    "level": "5-6",
+    "category": "Advanced Supposition, Inference & Nuance",
+    "grammar": "A/V-(으)ㄴ/는다고 해서 / (이)라고 해서",
+    "meaning": "Just because"
+  },
+  {
+    "id": 442,
+    "level": "5-6",
+    "category": "Advanced Supposition, Inference & Nuance",
+    "grammar": "A/V-(으)ㄴ/는다고 할 수 있다",
+    "meaning": "Can be said to"
+  },
+  {
+    "id": 445,
+    "level": "5-6",
+    "category": "Advanced Supposition, Inference & Nuance",
+    "grammar": "A/V-(으)ㄴ/는다기보다는",
+    "meaning": "Rather than saying..."
+  },
+  {
+    "id": 446,
+    "level": "5-6",
+    "category": "Advanced Supposition, Inference & Nuance",
+    "grammar": "A/V-(으)ㄹ 뿐더러",
+    "meaning": "Not only... but also (formal)"
+  },
+  {
+    "id": 447,
+    "level": "5-6",
+    "category": "Advanced Supposition, Inference & Nuance",
+    "grammar": "A/V-(으)ㄴ/는 데서",
+    "meaning": "In that / from the fact that"
+  },
+  {
+    "id": 448,
+    "level": "5-6",
+    "category": "Advanced Supposition, Inference & Nuance",
+    "grammar": "N-다는 점에서",
+    "meaning": "In that / from the point that"
+  },
+  {
+    "id": 449,
+    "level": "5-6",
+    "category": "Advanced Supposition, Inference & Nuance",
+    "grammar": "N-(이)라는 점에서",
+    "meaning": "In that it is"
+  },
+  {
+    "id": 450,
+    "level": "5-6",
+    "category": "Advanced Supposition, Inference & Nuance",
+    "grammar": "N-이라는 측면에서",
+    "meaning": "From the aspect that"
+  },
+  {
+    "id": 451,
+    "level": "5-6",
+    "category": "Advanced Supposition, Inference & Nuance",
+    "grammar": "N-이라는 관점에서",
+    "meaning": "From the perspective that"
+  },
+  {
+    "id": 452,
+    "level": "5-6",
+    "category": "Advanced Supposition, Inference & Nuance",
+    "grammar": "N-(으)로 인하여",
+    "meaning": "Due to"
+  },
+  {
+    "id": 453,
+    "level": "5-6",
+    "category": "Advanced Supposition, Inference & Nuance",
+    "grammar": "A/V-다 보니",
+    "meaning": "Having done repeatedly..."
+  },
+  {
+    "id": 454,
+    "level": "5-6",
+    "category": "Advanced Supposition, Inference & Nuance",
+    "grammar": "A/V-다 복면",
+    "meaning": "If you keep doing..."
+  },
+  {
+    "id": 455,
+    "level": "5-6",
+    "category": "Advanced Supposition, Inference & Nuance",
+    "grammar": "A/V-기 마련이다",
+    "meaning": "Bound to"
+  },
+  {
+    "id": 460,
+    "level": "5-6",
+    "category": "Advanced Supposition, Inference & Nuance",
+    "grammar": "A/V-(으)ㄴ/는 데 따라(서)",
+    "meaning": "Depending on"
+  },
+  {
+    "id": 461,
+    "level": "5-6",
+    "category": "Advanced Supposition, Inference & Nuance",
+    "grammar": "A/V-(으)ㄴ/는 바에(는)",
+    "meaning": "Since / now that"
+  },
+  {
+    "id": 462,
+    "level": "5-6",
+    "category": "Advanced Supposition, Inference & Nuance",
+    "grammar": "A/V-(으)ㄴ/는 김에",
+    "meaning": "While I'm at it"
+  },
+  {
+    "id": 465,
+    "level": "5-6",
+    "category": "Advanced Supposition, Inference & Nuance",
+    "grammar": "A/V-(으)ㄴ/는 셈치다",
+    "meaning": "Consider it as"
+  },
+  {
+    "id": 470,
+    "level": "5-6",
+    "category": "Advanced Supposition, Inference & Nuance",
+    "grammar": "A/V-(으)ㄹ 걸 그랬다",
+    "meaning": "I should have"
+  },
+  {
+    "id": 471,
+    "level": "5-6",
+    "category": "Advanced Supposition, Inference & Nuance",
+    "grammar": "A/V-(으)ㄹ까 말까",
+    "meaning": "Whether or not to"
+  },
+  {
+    "id": 473,
+    "level": "5-6",
+    "category": "Advanced Supposition, Inference & Nuance",
+    "grammar": "A/V-(으)ㄹ까 하다",
+    "meaning": "Thinking of"
+  },
+  {
+    "id": 477,
+    "level": "5-6",
+    "category": "Advanced Supposition, Inference & Nuance",
+    "grammar": "A/V-았/었/였으면 하다",
+    "meaning": "Wish that"
+  },
+  {
+    "id": 480,
+    "level": "5-6",
+    "category": "Advanced Supposition, Inference & Nuance",
+    "grammar": "A/V-(으)ㄴ/는/(으)ㄹ지 모르다",
+    "meaning": "Don't know whether"
+  },
+  {
+    "id": 485,
+    "level": "5-6",
+    "category": "Advanced Indirect Speech & Reported Speech",
+    "grammar": "A/V-(으)ㄴ/는다고 / 다고 / (이)라고",
+    "meaning": "Quoted speech (plain)"
+  },
+  {
+    "id": 486,
+    "level": "5-6",
+    "category": "Advanced Indirect Speech & Reported Speech",
+    "grammar": "A/V-(으)ㄴ/는다는 / 다는 / (이)라는",
+    "meaning": "Quoted modifier"
+  },
+  {
+    "id": 487,
+    "level": "5-6",
+    "category": "Advanced Indirect Speech & Reported Speech",
+    "grammar": "A/V-(으)ㄴ/는다고 하다 / 다고 하다 / (이)라고 하다",
+    "meaning": "Say that"
+  },
+  {
+    "id": 488,
+    "level": "5-6",
+    "category": "Advanced Indirect Speech & Reported Speech",
+    "grammar": "A/V-(으)ㄴ/는다는 것이다 / 다는 것이다",
+    "meaning": "The fact that"
+  },
+  {
+    "id": 489,
+    "level": "5-6",
+    "category": "Advanced Indirect Speech & Reported Speech",
+    "grammar": "A/V-(으)ㄴ/는다는 점",
+    "meaning": "The point that"
+  },
+  {
+    "id": 490,
+    "level": "5-6",
+    "category": "Advanced Indirect Speech & Reported Speech",
+    "grammar": "A/V-(으)ㄴ/는다는 측면",
+    "meaning": "The aspect that"
+  },
+  {
+    "id": 491,
+    "level": "5-6",
+    "category": "Advanced Indirect Speech & Reported Speech",
+    "grammar": "A/V-(으)ㄴ/는다는 관점",
+    "meaning": "The perspective that"
+  },
+  {
+    "id": 492,
+    "level": "5-6",
+    "category": "Advanced Indirect Speech & Reported Speech",
+    "grammar": "A/V-(으)ㄴ/는다는 의미",
+    "meaning": "The meaning that"
+  },
+  {
+    "id": 493,
+    "level": "5-6",
+    "category": "Advanced Indirect Speech & Reported Speech",
+    "grammar": "A/V-(으)ㄴ/는다는 이유",
+    "meaning": "The reason that"
+  },
+  {
+    "id": 494,
+    "level": "5-6",
+    "category": "Advanced Indirect Speech & Reported Speech",
+    "grammar": "A/V-(으)ㄴ/는다는 가정",
+    "meaning": "The assumption that"
+  },
+  {
+    "id": 495,
+    "level": "5-6",
+    "category": "Advanced Indirect Speech & Reported Speech",
+    "grammar": "A/V-(으)ㄴ/는다는 전제",
+    "meaning": "The premise that"
+  },
+  {
+    "id": 496,
+    "level": "5-6",
+    "category": "Advanced Conditionals & Hypotheticals",
+    "grammar": "A/V-(으)ㄹ지라도",
+    "meaning": "Even if"
+  },
+  {
+    "id": 497,
+    "level": "5-6",
+    "category": "Advanced Conditionals & Hypotheticals",
+    "grammar": "A/V-(으)ㄹ지언정",
+    "meaning": "Even if / even though (formal)"
+  },
+  {
+    "id": 498,
+    "level": "5-6",
+    "category": "Advanced Conditionals & Hypotheticals",
+    "grammar": "A/V-(으)ㄹ지 몰라도",
+    "meaning": "Even if... may"
+  },
+  {
+    "id": 500,
+    "level": "5-6",
+    "category": "Advanced Conditionals & Hypotheticals",
+    "grammar": "A/V-더라도",
+    "meaning": "Even if"
+  },
+  {
+    "id": 511,
+    "level": "5-6",
+    "category": "Advanced Conditionals & Hypotheticals",
+    "grammar": "A/V-(으)ㄹ 뿐만 아니라",
+    "meaning": "Not only... but also"
+  },
+  {
+    "id": 514,
+    "level": "5-6",
+    "category": "Advanced Conditionals & Hypotheticals",
+    "grammar": "A/V-기만 하면",
+    "meaning": "All you have to do is"
+  },
+  {
+    "id": 515,
+    "level": "5-6",
+    "category": "Advanced Conditionals & Hypotheticals",
+    "grammar": "A/V-(으)ㄹ지(도) 모르다",
+    "meaning": "Might"
+  },
+  {
+    "id": 516,
+    "level": "5-6",
+    "category": "Advanced Conditionals & Hypotheticals",
+    "grammar": "A/V-(으)ㄹ지 않다",
+    "meaning": "Might not"
+  },
+  {
+    "id": 517,
+    "level": "5-6",
+    "category": "Advanced Conditionals & Hypotheticals",
+    "grammar": "A/V-(으)ㄹ지 알다/모르다",
+    "meaning": "Know/don't know if"
+  },
+  {
+    "id": 518,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "V-기는커녕",
+    "meaning": "Far from"
+  },
+  {
+    "id": 519,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "V-기에 이르다",
+    "meaning": "Come to"
+  },
+  {
+    "id": 520,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "V-기에 달려 있다",
+    "meaning": "Depend on"
+  },
+  {
+    "id": 521,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "V-기 쉽다",
+    "meaning": "Prone to"
+  },
+  {
+    "id": 522,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "V-기 어렵다",
+    "meaning": "Hard to"
+  },
+  {
+    "id": 523,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "V-기 나름이다",
+    "meaning": "Depends on how"
+  },
+  {
+    "id": 524,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "V-기 짝이 없다",
+    "meaning": "Extremely"
+  },
+  {
+    "id": 525,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "V-기 그지없다",
+    "meaning": "Extremely"
+  },
+  {
+    "id": 526,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "A/V-(으)ㄹ 따름이다",
+    "meaning": "Just / merely"
+  },
+  {
+    "id": 528,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-(이)란",
+    "meaning": "Called / namely"
+  },
+  {
+    "id": 529,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-(이)라는",
+    "meaning": "Called / what is called"
+  },
+  {
+    "id": 530,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-(이)라 할 수 있는",
+    "meaning": "What can be called"
+  },
+  {
+    "id": 531,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-(이)라 핼 수 없는",
+    "meaning": "What cannot be called"
+  },
+  {
+    "id": 532,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-(이)라는 것은",
+    "meaning": "What is called... is"
+  },
+  {
+    "id": 533,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-(이)라는 이유로",
+    "meaning": "On the grounds that"
+  },
+  {
+    "id": 534,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-(이)라는 명분으로",
+    "meaning": "Under the pretext that"
+  },
+  {
+    "id": 535,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-(이)라는 핑계로",
+    "meaning": "Under the excuse that"
+  },
+  {
+    "id": 539,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-이라서는 / (이)라서는",
+    "meaning": "If it is... then (negative)"
+  },
+  {
+    "id": 541,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-이라야 / (이)라야",
+    "meaning": "Only if it is"
+  },
+  {
+    "id": 542,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-(이)라든지",
+    "meaning": "Whether it is... or"
+  },
+  {
+    "id": 543,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-이라든가",
+    "meaning": "Whether it is... or"
+  },
+  {
+    "id": 544,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-(이)나 할 것 없이",
+    "meaning": "Regardless of"
+  },
+  {
+    "id": 545,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-(이)나 마찬가지다",
+    "meaning": "The same as"
+  },
+  {
+    "id": 546,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-과/과 마찬가지로",
+    "meaning": "Just like"
+  },
+  {
+    "id": 547,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-과/과는 대조적으로",
+    "meaning": "In contrast to"
+  },
+  {
+    "id": 548,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-과/과는 반대로",
+    "meaning": "Contrary to"
+  },
+  {
+    "id": 549,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-을/를 필두로",
+    "meaning": "Led by"
+  },
+  {
+    "id": 550,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-을/를 시작으로",
+    "meaning": "Starting with"
+  },
+  {
+    "id": 551,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-에 이어서",
+    "meaning": "Following"
+  },
+  {
+    "id": 552,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-에 앞서서",
+    "meaning": "Prior to"
+  },
+  {
+    "id": 553,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-에 앞서",
+    "meaning": "Before"
+  },
+  {
+    "id": 554,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-에 뒤이어",
+    "meaning": "Following after"
+  },
+  {
+    "id": 555,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-을/를 계기로",
+    "meaning": "Taking as an opportunity"
+  },
+  {
+    "id": 556,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-을/를 빌미로",
+    "meaning": "Using as a pretext"
+  },
+  {
+    "id": 557,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-을/를 구실로",
+    "meaning": "Using as an excuse"
+  },
+  {
+    "id": 558,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-을/를 목적으로",
+    "meaning": "With the purpose of"
+  },
+  {
+    "id": 560,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-을/를 도와주다",
+    "meaning": "Help with"
+  },
+  {
+    "id": 561,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-을/를 중심으로",
+    "meaning": "Centered on"
+  },
+  {
+    "id": 562,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-을/를 중요시하다",
+    "meaning": "Value / prioritize"
+  },
+  {
+    "id": 563,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-을/를 무시하다",
+    "meaning": "Ignore / disregard"
+  },
+  {
+    "id": 564,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-을/를 강조하다",
+    "meaning": "Emphasize"
+  },
+  {
+    "id": 565,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-을/를 지적하다",
+    "meaning": "Point out"
+  },
+  {
+    "id": 566,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-을/를 언급하다",
+    "meaning": "Mention"
+  },
+  {
+    "id": 567,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-을/를 포함하다",
+    "meaning": "Include"
+  },
+  {
+    "id": 568,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-을/를 제외하다",
+    "meaning": "Exclude"
+  },
+  {
+    "id": 569,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-을/를 고려하다",
+    "meaning": "Consider"
+  },
+  {
+    "id": 570,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-을/를 감안하다",
+    "meaning": "Take into account"
+  },
+  {
+    "id": 571,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-을/를 바탕으로",
+    "meaning": "Based on"
+  },
+  {
+    "id": 572,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-을/를 토대로",
+    "meaning": "On the basis of"
+  },
+  {
+    "id": 573,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-을/를 전제로",
+    "meaning": "On the premise of"
+  },
+  {
+    "id": 574,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-을/를 조건으로",
+    "meaning": "On the condition of"
+  },
+  {
+    "id": 575,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-을/를 수단으로",
+    "meaning": "By means of"
+  },
+  {
+    "id": 576,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-을/를 방법으로",
+    "meaning": "By way of"
+  },
+  {
+    "id": 577,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-을/를 이유로",
+    "meaning": "On the grounds of"
+  },
+  {
+    "id": 578,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-을/를 명분으로",
+    "meaning": "Under the pretext of"
+  },
+  {
+    "id": 579,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-을/를 핑계로",
+    "meaning": "Under the excuse of"
+  },
+  {
+    "id": 580,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-을/를 기점으로",
+    "meaning": "Starting from"
+  },
+  {
+    "id": 582,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-을/를契機로",
+    "meaning": "As an opportunity"
+  },
+  {
+    "id": 583,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-을/를 표면으로",
+    "meaning": "On the surface"
+  },
+  {
+    "id": 584,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-을/를 실제로",
+    "meaning": "In reality"
+  },
+  {
+    "id": 585,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-을/를 원인으로",
+    "meaning": "As a cause"
+  },
+  {
+    "id": 586,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-을/를 결과로",
+    "meaning": "As a result"
+  },
+  {
+    "id": 587,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-을/를 대상으로",
+    "meaning": "Targeting"
+  },
+  {
+    "id": 588,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-을/를 대상자로",
+    "meaning": "As a target"
+  },
+  {
+    "id": 589,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-을/를 주제로",
+    "meaning": "With the theme of"
+  },
+  {
+    "id": 590,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-을/를 소재로",
+    "meaning": "Based on the material of"
+  },
+  {
+    "id": 591,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-을/를 배경으로",
+    "meaning": "Against the backdrop of"
+  },
+  {
+    "id": 592,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-을/를 물론",
+    "meaning": "Not to mention"
+  },
+  {
+    "id": 593,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-은/는 물론",
+    "meaning": "Not to mention"
+  },
+  {
+    "id": 594,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-도 마찬가지다",
+    "meaning": "The same goes for"
+  },
+  {
+    "id": 595,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-이/가 마찬가지다",
+    "meaning": "The same goes for"
+  },
+  {
+    "id": 597,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-(이)나 다름없다",
+    "meaning": "Virtually the same as"
+  },
+  {
+    "id": 598,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-과/와 마찬가지다",
+    "meaning": "The same as"
+  },
+  {
+    "id": 599,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-과/와는 달리",
+    "meaning": "Unlike"
+  },
+  {
+    "id": 600,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-과/와는 반대로",
+    "meaning": "Contrary to"
+  },
+  {
+    "id": 601,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-과/와는 대조적으로",
+    "meaning": "In contrast to"
+  },
+  {
+    "id": 602,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-에 반해(서)",
+    "meaning": "In contrast to"
+  },
+  {
+    "id": 603,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-에 비해(서)",
+    "meaning": "Compared to"
+  },
+  {
+    "id": 604,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-에 대한",
+    "meaning": "Regarding"
+  },
+  {
+    "id": 605,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-에 관한",
+    "meaning": "About"
+  },
+  {
+    "id": 606,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-에 관련된",
+    "meaning": "Related to"
+  },
+  {
+    "id": 607,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-에 해당하는",
+    "meaning": "Corresponding to"
+  },
+  {
+    "id": 608,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-에 속하는",
+    "meaning": "Belonging to"
+  },
+  {
+    "id": 609,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-에 포함되는",
+    "meaning": "Included in"
+  },
+  {
+    "id": 613,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-을/를 넘어서",
+    "meaning": "Beyond"
+  },
+  {
+    "id": 614,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-을/를 통해",
+    "meaning": "Through"
+  },
+  {
+    "id": 615,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-을/를 통하여",
+    "meaning": "Through"
+  },
+  {
+    "id": 616,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-을/를 거쳐서",
+    "meaning": "Via"
+  },
+  {
+    "id": 617,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-을/를 거쳐",
+    "meaning": "Passing through"
+  },
+  {
+    "id": 618,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-을/를 대신하여",
+    "meaning": "Instead of"
+  },
+  {
+    "id": 619,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-을/를 대신해",
+    "meaning": "In place of"
+  },
+  {
+    "id": 620,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-을/를 위한",
+    "meaning": "For"
+  },
+  {
+    "id": 621,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-을/를 위해서",
+    "meaning": "For the sake of"
+  },
+  {
+    "id": 622,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-을/를 목적으로 한",
+    "meaning": "Aimed at"
+  },
+  {
+    "id": 623,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-을/를 바탕으로 한",
+    "meaning": "Based on"
+  },
+  {
+    "id": 624,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-을/를 기초로 한",
+    "meaning": "Based on"
+  },
+  {
+    "id": 625,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-을/를 전제로 한",
+    "meaning": "On the premise of"
+  },
+  {
+    "id": 626,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-을/를 조건으로 한",
+    "meaning": "On the condition of"
+  },
+  {
+    "id": 627,
+    "level": "5-6",
+    "category": "Idiomatic & Literary Expressions",
+    "grammar": "N-을/를 수단으로 한",
+    "meaning": "By means of"
+  }
+]

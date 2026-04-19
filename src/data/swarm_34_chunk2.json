@@ -1,0 +1,121 @@
+[
+  {
+    "id": 235,
+    "level": "3-4",
+    "category": "Cause & Reason",
+    "grammar": "-(으)로 인해(서)",
+    "meaning": "Due to / caused by"
+  },
+  {
+    "id": 236,
+    "level": "3-4",
+    "category": "Cause & Reason",
+    "grammar": "-에 의해(서)",
+    "meaning": "By / through (passive agent)"
+  },
+  {
+    "id": 238,
+    "level": "3-4",
+    "category": "Condition & Assumption",
+    "grammar": "A/V-(으)ㄹ까 봐(서)",
+    "meaning": "For fear that / in case"
+  },
+  {
+    "id": 239,
+    "level": "3-4",
+    "category": "Condition & Assumption",
+    "grammar": "V-(으)ㄹ까 하다/싶다",
+    "meaning": "Thinking of / considering"
+  },
+  {
+    "id": 240,
+    "level": "3-4",
+    "category": "Condition & Assumption",
+    "grammar": "V-(으)ㄹ까 말까",
+    "meaning": "Whether or not to"
+  },
+  {
+    "id": 241,
+    "level": "3-4",
+    "category": "Condition & Assumption",
+    "grammar": "V-(으)ㄹ까 보다",
+    "meaning": "Seems like someone might"
+  },
+  {
+    "id": 242,
+    "level": "3-4",
+    "category": "Condition & Assumption",
+    "grammar": "V-(으)ㄹ지(도) 모르다",
+    "meaning": "Might / may"
+  },
+  {
+    "id": 244,
+    "level": "3-4",
+    "category": "Condition & Assumption",
+    "grammar": "V-(으)ㄹ 테니(까)",
+    "meaning": "I will... so (you should)"
+  },
+  {
+    "id": 245,
+    "level": "3-4",
+    "category": "Condition & Assumption",
+    "grammar": "V-(으)ㄹ 텐데(요)",
+    "meaning": "I would... but"
+  },
+  {
+    "id": 246,
+    "level": "3-4",
+    "category": "Condition & Assumption",
+    "grammar": "V-(으)려던 참이다",
+    "meaning": "I was just about to"
+  },
+  {
+    "id": 247,
+    "level": "3-4",
+    "category": "Condition & Assumption",
+    "grammar": "A/V-(으)ㄹ 수밖에 없다",
+    "meaning": "Have no choice but to"
+  },
+  {
+    "id": 248,
+    "level": "3-4",
+    "category": "Condition & Assumption",
+    "grammar": "V-(으)ㄹ 정도(로)",
+    "meaning": "To the extent that"
+  },
+  {
+    "id": 249,
+    "level": "3-4",
+    "category": "Condition & Assumption",
+    "grammar": "V-(으)ㄹ 지경이다",
+    "meaning": "On the verge of"
+  },
+  {
+    "id": 250,
+    "level": "3-4",
+    "category": "Condition & Assumption",
+    "grammar": "A/V-(으)ㄴ/는/(으)ㄹ지",
+    "meaning": "Whether or not"
+  },
+  {
+    "id": 251,
+    "level": "3-4",
+    "category": "Condition & Assumption",
+    "grammar": "A/V-(으)ㄹ 뻔하다",
+    "meaning": "Almost / nearly"
+  },
+  {
+    "id": 252,
+    "level": "3-4",
+    "category": "Condition & Assumption",
+    "grammar": "A/V-았/었/였더라면",
+    "meaning": "If only / had... then"
+  },
+  {
+    "id": 258,
+    "level": "3-4",
+    "category": "Purpose & Intention",
+    "grammar": "V-(으)ㄹ 겸 (해서)",
+    "meaning": "Partly / as well as"
+  }
+]

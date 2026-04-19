@@ -1,0 +1,481 @@
+[
+  {
+    "id": 215,
+    "explanation": "-는데 provides background information before introducing the main point. Depending on context, it can mean 'but,' 'and,' or simply set the scene. It is softer and more conversational than -지만, making it the go-to connector in everyday Korean speech.",
+    "rules": [
+      {
+        "title": "Action Verb Present + 는데",
+        "description": "Attach -는데 to present tense action verbs.",
+        "examples": [
+          {
+            "korean": "가다",
+            "breakdown": "가 + 는데",
+            "english": "시장에 가는데 사람이 많았어요 — I'm going to the market, and there were a lot of people."
+          },
+          {
+            "korean": "먹다",
+            "breakdown": "먹 + 는데",
+            "english": "점심을 먹는데 전화가 왔어요 — I was eating lunch, but a call came in."
+          }
+        ]
+      },
+      {
+        "title": "Descriptive Verb + 은/ㄴ데",
+        "description": "Attach -은데 to stems ending in a consonant, and -ㄴ데 to stems ending in a vowel.",
+        "examples": [
+          {
+            "korean": "크다",
+            "breakdown": "크 + ㄴ데",
+            "english": "방이 큰데 정리가 안 돼 있어요 — The room is big, but it's not organized."
+          },
+          {
+            "korean": "작다",
+            "breakdown": "작 + 은데",
+            "english": "가방이 작은데 많이 들어가요 — The bag is small, but it holds a lot."
+          }
+        ]
+      },
+      {
+        "title": "Past Tense + 았/었는데",
+        "description": "Attach -는데 to the past tense form.",
+        "examples": [
+          {
+            "korean": "도착하다",
+            "breakdown": "도착했 + 는데",
+            "english": "공항에 도착했는데 비행기가 지연됐어요 — I arrived at the airport, but the flight was delayed."
+          },
+          {
+            "korean": "피곤하다",
+            "breakdown": "피곤했 + 는데",
+            "english": "어제 피곤했는데 잠을 못 잤어요 — I was tired yesterday, but I couldn't sleep."
+          }
+        ]
+      },
+      {
+        "title": "이다 → 인데",
+        "description": "The copula 이다 becomes 인데.",
+        "examples": [
+          {
+            "korean": "학생",
+            "breakdown": "학생 + 인데",
+            "english": "학생인데 돈이 많아요 — They're a student, but they have a lot of money."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "info",
+        "title": "Softer than -지만",
+        "text": "-는데 is less confrontational than -지만. Use it when you want to gently introduce contrasting information or simply provide background before your main point."
+      },
+      {
+        "icon": "check",
+        "title": "Main clause can be omitted",
+        "text": "In casual speech, the main clause is often left out when the meaning is clear from context. For example, '맛있는데?' implies 'It's delicious, but... (isn't it?)' or 'It's delicious, (so why aren't you eating?)'."
+      }
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 216,
+    "explanation": "-기는 하지만 acknowledges that something is true or did happen, but then introduces a contrasting point. It emphasizes the concession more strongly than simple -지만, meaning 'it is true that... but...' or 'although... indeed...'. Use it when you want to admit a fact before presenting a reservation or criticism.",
+    "rules": [
+      {
+        "title": "Verb/Adjective Stem + 기는 하지만",
+        "description": "Attach -기는 하지만 directly to the verb or adjective stem. The 기는 portion emphasizes the concession.",
+        "examples": [
+          {
+            "korean": "가다",
+            "breakdown": "가 + 기는 하지만",
+            "english": "가기는 하지만 좀 늦을 거예요 — I am going, but I'll be a bit late."
+          },
+          {
+            "korean": "먹다",
+            "breakdown": "먹 + 기는 하지만",
+            "english": "먹기는 하지만 입에 안 맞아요 — I do eat it, but it doesn't suit my taste."
+          },
+          {
+            "korean": "비싸다",
+            "breakdown": "비싸 + 기는 하지만",
+            "english": "비싸기는 하지만 가치가 있어요 — It is true that it's expensive, but it's worth it."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "check",
+        "title": "Softens criticism",
+        "text": "-기는 하지만 is perfect for softening negative feedback. Instead of saying '맛없어요' (it's not tasty), saying '먹기는 하지만 맛없어요' (I do eat it, but it's not tasty) sounds more polite and nuanced."
+      },
+      {
+        "icon": "info",
+        "title": "Can shorten to -기는 하다",
+        "text": "In some contexts, 하지만 can be replaced with 하다 or 해도. For example, '가기는 해' (I do go) or '가기는 해도' (even though I do go). See ID 214 for simple -지만 and ID 219 for -아/어도."
+      }
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 217,
+    "explanation": "-(으)ㄴ/는 반면(에) means 'whereas' or 'on the other hand.' It is used to compare two contrasting situations, people, or things side by side in an objective way. It is more formal and literary than -지만, making it ideal for essays, reports, and structured comparisons.",
+    "rules": [
+      {
+        "title": "Present Action Verb + 는 반면(에)",
+        "description": "Attach -는 반면(에) to present tense action verbs.",
+        "examples": [
+          {
+            "korean": "운동하다",
+            "breakdown": "운동하 + 는 반면에",
+            "english": "동생은 운동을 잘하는 반면에 저는 못 해요 — My younger sibling is good at sports, whereas I can't do them."
+          },
+          {
+            "korean": "덥다",
+            "breakdown": "더우 + ㄴ 반면에",
+            "english": "여름은 더운 반면에 겨울은 추워요 — Summer is hot, whereas winter is cold."
+          }
+        ]
+      },
+      {
+        "title": "Descriptive Verb + (으)ㄴ 반면(에)",
+        "description": "Attach -은 반면(에) to stems ending in a consonant, and -ㄴ 반면(에) to stems ending in a vowel.",
+        "examples": [
+          {
+            "korean": "편리하다",
+            "breakdown": "편리하 + ㄴ 반면에",
+            "english": "이 지역은 교통이 편리한 반면에 집값이 비싸요 — This area is convenient in terms of transportation, whereas housing prices are expensive."
+          },
+          {
+            "korean": "적다",
+            "breakdown": "적 + 은 반면에",
+            "english": "한국은 인구가 적은 반면에 일본은 인구가 많아요 — Korea has a small population, whereas Japan has a large one."
+          }
+        ]
+      },
+      {
+        "title": "Past Action Verb + (으)ㄴ 반면(에)",
+        "description": "Use the past tense modifier form before 반면(에).",
+        "examples": [
+          {
+            "korean": "준비하다",
+            "breakdown": "준비한 + 반면에",
+            "english": "동료는 열심히 준비한 반면에 저는 소홀했어요 — My colleague prepared hard, whereas I was negligent."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "info",
+        "title": "Objective comparison",
+        "text": "Use -(으)ㄴ/는 반면(에) when making objective, factual comparisons rather than emotional contrasts. It sounds more analytical than -지만 or -는데."
+      },
+      {
+        "icon": "check",
+        "title": "반면 and 반면에 are interchangeable",
+        "text": "Both forms are correct. Adding 에 simply makes the contrast slightly more explicit, but the meaning is identical."
+      }
+    ],
+    "exceptions": [
+      {
+        "name": "ㅂ irregular",
+        "description": "For descriptive verbs ending in ㅂ, drop ㅂ and add 운 before ㄴ.",
+        "example": "덥다 → 더우 + ㄴ 반면에 → 더운 반면에"
+      }
+    ]
+  },
+  {
+    "id": 218,
+    "explanation": "-(으)ㄹ지라도 means 'even if' with a stronger, more formal or literary nuance than -아/어도. It acknowledges a hypothetical situation but insists that the result will not change. Use it in written language, speeches, or when making strong assertions and warnings.",
+    "rules": [
+      {
+        "title": "Vowel or ㄹ ending → + ㄹ지라도",
+        "description": "Attach -ㄹ지라도 to verb stems ending in a vowel or the consonant ㄹ.",
+        "examples": [
+          {
+            "korean": "가다",
+            "breakdown": "가 + ㄹ지라도",
+            "english": "아무리 멀리 갈지라도 연락할게요 — No matter how far I go, I will contact you."
+          },
+          {
+            "korean": "만들다",
+            "breakdown": "만들 + ㄹ지라도",
+            "english": "혼자 만들지라도 완성할 수 있어요 — Even if I make it alone, I can finish it."
+          }
+        ]
+      },
+      {
+        "title": "Consonant ending → + 을지라도",
+        "description": "Attach -을지라도 to verb stems ending in a consonant.",
+        "examples": [
+          {
+            "korean": "먹다",
+            "breakdown": "먹 + 을지라도",
+            "english": "약을 먹을지라도 낫지 않을 거예요 — Even if I take medicine, I won't get better."
+          },
+          {
+            "korean": "찾다",
+            "breakdown": "찾 + 을지라도",
+            "english": "지갑을 찾을지라도 돈은 없을 거예요 — Even if I find my wallet, the money will be gone."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "warning",
+        "title": "Formal and emphatic",
+        "text": "-(으)ㄹ지라도 is much more formal than -아/어도. It is often paired with 아무리 (no matter how), 절대 (never), or 비록 (although) for extra emphasis."
+      },
+      {
+        "icon": "info",
+        "title": "Hypothetical focus",
+        "text": "This grammar is primarily used for hypothetical situations rather than factual ones. For everyday concessions, use -아/어도 (ID 219) instead."
+      }
+    ],
+    "exceptions": [
+      {
+        "name": "ㅂ irregular",
+        "description": "For verbs ending in ㅂ, drop ㅂ and add 울지라도.",
+        "example": "돕다 → 도 + 울지라도 → 도울지라도"
+      }
+    ]
+  },
+  {
+    "id": 220,
+    "explanation": "-(으)ㄴ/는데도 means 'even though' and combines the background-providing function of -는데 with the concessive -도. It expresses stronger surprise or frustration that the expected result didn't happen despite the situation. Use it when you want to emphasize that something should have happened but didn't.",
+    "rules": [
+      {
+        "title": "Present Action Verb + 는데도",
+        "description": "Attach -는데도 to present tense action verbs.",
+        "examples": [
+          {
+            "korean": "가다",
+            "breakdown": "가 + 는데도",
+            "english": "병원에 가는데도 안 나아요 — Even though I go to the hospital, I'm not getting better."
+          },
+          {
+            "korean": "먹다",
+            "breakdown": "먹 + 는데도",
+            "english": "약을 먹는데도 효과가 없어요 — Even though I take medicine, there's no effect."
+          }
+        ]
+      },
+      {
+        "title": "Adjective + (으)ㄴ데도",
+        "description": "Attach -은데도 to stems ending in a consonant, and -ㄴ데도 to stems ending in a vowel.",
+        "examples": [
+          {
+            "korean": "비싸다",
+            "breakdown": "비싸 + ㄴ데도",
+            "english": "가격이 비싼데도 사람들이 많이 사요 — Even though the price is expensive, many people buy it."
+          },
+          {
+            "korean": "작다",
+            "breakdown": "작 + 은데도",
+            "english": "집이 작은데도 가족이 행복해요 — Even though the house is small, the family is happy."
+          }
+        ]
+      },
+      {
+        "title": "Past Tense + 았/었는데도",
+        "description": "Attach -는데도 to the past tense form for both verbs and adjectives.",
+        "examples": [
+          {
+            "korean": "오다",
+            "breakdown": "왔 + 는데도",
+            "english": "친구가 왔는데도 같이 안 놀았어요 — Even though my friend came, I didn't hang out with them."
+          },
+          {
+            "korean": "피곤하다",
+            "breakdown": "피곤했 + 는데도",
+            "english": "어제 피곤했는데도 잠을 못 잤어요 — Even though I was tired yesterday, I couldn't sleep."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "warning",
+        "title": "Expectation vs. reality",
+        "text": "-(으)ㄴ/는데도 carries a sense of surprise or disappointment. The speaker expected one outcome but got the opposite. See ID 219 for simple concession without this emotional weight."
+      },
+      {
+        "icon": "close",
+        "title": "Not for softening",
+        "text": "Unlike -는데 (ID 215), -(으)ㄴ/는데도 is not used to soften statements. It always carries a strong contrast."
+      }
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 221,
+    "explanation": "-(으)ㄴ/는 반대로 means 'contrary to' or 'unlike.' It states that the second clause is the opposite of what the first clause describes. Use it when comparing expectations with reality, or when describing behavior that goes against a prior situation or command.",
+    "rules": [
+      {
+        "title": "Present Action Verb + 는 반대로",
+        "description": "Attach -는 반대로 to present tense action verbs, often with an implied noun.",
+        "examples": [
+          {
+            "korean": "생각하다",
+            "breakdown": "생각하 + 는 반대로",
+            "english": "생각하는 반대로 일이 흘러갔어요 — Things went contrary to what I thought."
+          },
+          {
+            "korean": "원하다",
+            "breakdown": "원하 + 는 반대로",
+            "english": "부모님이 원하는 반대로 전공을 선택했어요 — I chose my major contrary to what my parents wanted."
+          }
+        ]
+      },
+      {
+        "title": "Past Action Verb + (으)ㄴ 반대로",
+        "description": "Use the past tense modifier form before 반대로.",
+        "examples": [
+          {
+            "korean": "예상하다",
+            "breakdown": "예상한 + 반대로",
+            "english": "예상한 반대로 결과가 나왔어요 — The result came out contrary to expectations."
+          },
+          {
+            "korean": "말하다",
+            "breakdown": "말한 + 반대로",
+            "english": "약속한 반대로 행동했어요 — They acted contrary to what was promised."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "info",
+        "title": "Often follows mental verbs",
+        "text": "-(으)ㄴ/는 반대로 works best with verbs like 생각하다, 예상하다, 원하다, and 말하다, because the contrast is between a thought and a reality."
+      },
+      {
+        "icon": "check",
+        "title": "Can also use N + 과 반대로",
+        "text": "You will often see 반대로 used with nouns and the particle 과/와: 예상과 반대로 (contrary to expectations), 내 말과 반대로 (contrary to my words)."
+      }
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 222,
+    "explanation": "-(으)ㄴ/는 탓에 means 'due to' or 'because of,' but exclusively for negative results. It places blame on the cause stated in the first clause. The result is always something bad or undesirable. Use it when you want to attribute a problem to a specific cause.",
+    "rules": [
+      {
+        "title": "Present Action Verb + 는 탓에",
+        "description": "Attach -는 탓에 to present tense action verbs.",
+        "examples": [
+          {
+            "korean": "일하다",
+            "breakdown": "일하 + 는 탓에",
+            "english": "밤늦게까지 일하는 탓에 건강이 나빠졌어요 — My health worsened due to working until late at night."
+          },
+          {
+            "korean": "운동하다",
+            "breakdown": "운동하 + 는 탓에",
+            "english": "너무 과하게 운동하는 탓에 다쳤어요 — I got injured due to exercising too excessively."
+          }
+        ]
+      },
+      {
+        "title": "Adjective / Past Action Verb + (으)ㄴ 탓에",
+        "description": "Attach -은 탓에 to stems ending in a consonant, and -ㄴ 탓에 to stems ending in a vowel.",
+        "examples": [
+          {
+            "korean": "춥다",
+            "breakdown": "춥 + 은 탓에 → 추운 탓에",
+            "english": "날씨가 추운 탓에 감기에 걸렸어요 — I caught a cold because of the cold weather."
+          },
+          {
+            "korean": "자다",
+            "breakdown": "잔 + 탓에",
+            "english": "늦잠을 잔 탓에 지각했어요 — I was late due to oversleeping."
+          },
+          {
+            "korean": "많다",
+            "breakdown": "많 + 은 탓에",
+            "english": "사람이 많은 탓에 사고가 났어요 — An accident happened due to there being too many people."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "warning",
+        "title": "Negative results only",
+        "text": "Never use -(으)ㄴ/는 탓에 for positive outcomes. For neutral or positive causes, use -아/어서 or -(으)니까 instead."
+      },
+      {
+        "icon": "info",
+        "title": "Can replace with 탓이다",
+        "text": "You can restructure with 탓이다 at the end: 지각한 탓이다 (it's because of being late). This emphasizes blame even more strongly."
+      }
+    ],
+    "exceptions": [
+      {
+        "name": "ㅂ irregular",
+        "description": "For adjectives ending in ㅂ, drop ㅂ and add 운 before ㄴ.",
+        "example": "춥다 → 추 + 운 탓에 → 추운 탓에"
+      }
+    ]
+  },
+  {
+    "id": 224,
+    "explanation": "-(은/는)커녕 means 'let alone' or 'not to mention.' It emphatically denies the first noun (as being too difficult or impossible) and then states that even the second, easier thing is also not true. The second clause must always be negative. Use it for strong, emphatic denial.",
+    "rules": [
+      {
+        "title": "Noun with 받침 → + 은커녕",
+        "description": "Attach -은커녕 to nouns ending in a consonant.",
+        "examples": [
+          {
+            "korean": "밥",
+            "breakdown": "밥 + 은커녕",
+            "english": "밥은커녕 물도 못 마셨어요 — I couldn't even drink water, let alone eat rice."
+          },
+          {
+            "korean": "잠",
+            "breakdown": "잠 + 은커녕",
+            "english": "잠은커녕 쉴 시간도 없었어요 — I didn't even have time to rest, let alone sleep."
+          },
+          {
+            "korean": "한국",
+            "breakdown": "한국 + 은커녕",
+            "english": "한국은커녕 일본도 안 가봤어요 — I haven't even been to Japan, let alone Korea."
+          }
+        ]
+      },
+      {
+        "title": "Noun without 받침 → + 는커녕",
+        "description": "Attach -는커녕 to nouns ending in a vowel.",
+        "examples": [
+          {
+            "korean": "친구",
+            "breakdown": "친구 + 는커녕",
+            "english": "친구는커녕 이웃도 안 만나요 — I don't even meet my neighbors, let alone friends."
+          },
+          {
+            "korean": "커피",
+            "breakdown": "커피 + 는커녕",
+            "english": "커피는커녕 물도 안 마셨어요 — I didn't even drink water, let alone coffee."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "warning",
+        "title": "Second clause must be negative",
+        "text": "The sentence following -(은/는)커녕 must contain a negative expression: 못, 안, 없다, or a negated verb. Saying '밥은커녕 물도 마셨어요' is grammatically incorrect."
+      },
+      {
+        "icon": "info",
+        "title": "First item is 'harder'",
+        "text": "The noun before 커녕 is presented as the more difficult or unlikely scenario. The second noun is something easier, yet even that didn't happen."
+      }
+    ],
+    "exceptions": []
+  }
+]

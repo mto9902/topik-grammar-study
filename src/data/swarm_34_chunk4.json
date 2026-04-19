@@ -1,0 +1,121 @@
+[
+  {
+    "id": 281,
+    "level": "3-4",
+    "category": "Supposition & Inference",
+    "grammar": "V-(으)ㄹ걸(요)",
+    "meaning": "Probably would"
+  },
+  {
+    "id": 284,
+    "level": "3-4",
+    "category": "Supposition & Inference",
+    "grammar": "A/V-나 마나",
+    "meaning": "Whether or not"
+  },
+  {
+    "id": 285,
+    "level": "3-4",
+    "category": "Supposition & Inference",
+    "grammar": "V-(으)ㄹ 리가 없다",
+    "meaning": "No way"
+  },
+  {
+    "id": 287,
+    "level": "3-4",
+    "category": "Supposition & Inference",
+    "grammar": "V-(으)ㄴ 척하다",
+    "meaning": "Pretend to"
+  },
+  {
+    "id": 288,
+    "level": "3-4",
+    "category": "Supposition & Inference",
+    "grammar": "V-(으)ㄴ 체하다",
+    "meaning": "Pretend to"
+  },
+  {
+    "id": 289,
+    "level": "3-4",
+    "category": "Supposition & Inference",
+    "grammar": "V-는 척하다",
+    "meaning": "Pretend to be"
+  },
+  {
+    "id": 290,
+    "level": "3-4",
+    "category": "Indirect Speech (Quoted Speech)",
+    "grammar": "V-(ㄴ/는)다고 하다",
+    "meaning": "Say that (someone does)"
+  },
+  {
+    "id": 291,
+    "level": "3-4",
+    "category": "Indirect Speech (Quoted Speech)",
+    "grammar": "A-다고 하다",
+    "meaning": "Say that (someone is)"
+  },
+  {
+    "id": 292,
+    "level": "3-4",
+    "category": "Indirect Speech (Quoted Speech)",
+    "grammar": "N-(이)라고 하다",
+    "meaning": "Say that (something is)"
+  },
+  {
+    "id": 293,
+    "level": "3-4",
+    "category": "Indirect Speech (Quoted Speech)",
+    "grammar": "V-자고 하다",
+    "meaning": "Suggest that"
+  },
+  {
+    "id": 294,
+    "level": "3-4",
+    "category": "Indirect Speech (Quoted Speech)",
+    "grammar": "V-(으)라고 하다",
+    "meaning": "Tell someone to"
+  },
+  {
+    "id": 295,
+    "level": "3-4",
+    "category": "Indirect Speech (Quoted Speech)",
+    "grammar": "V-냐고 하다",
+    "meaning": "Ask if"
+  },
+  {
+    "id": 296,
+    "level": "3-4",
+    "category": "Indirect Speech (Quoted Speech)",
+    "grammar": "A/V-(으)ㄴ/는다고(요)?",
+    "meaning": "You mean...? / So you're saying..."
+  },
+  {
+    "id": 297,
+    "level": "3-4",
+    "category": "Indirect Speech (Quoted Speech)",
+    "grammar": "A/V-(으)ㄴ/는다면서(요)?",
+    "meaning": "I heard that..."
+  },
+  {
+    "id": 298,
+    "level": "3-4",
+    "category": "Indirect Speech (Quoted Speech)",
+    "grammar": "A/V-(으)ㄴ/는다니(요)?",
+    "meaning": "You mean...? / I can't believe..."
+  },
+  {
+    "id": 299,
+    "level": "3-4",
+    "category": "Indirect Speech (Quoted Speech)",
+    "grammar": "A/V-(으)ㄴ/는다거나",
+    "meaning": "Whether... or"
+  },
+  {
+    "id": 300,
+    "level": "3-4",
+    "category": "Indirect Speech (Quoted Speech)",
+    "grammar": "A/V-(으)ㄴ/는다기에 / 다길래",
+    "meaning": "Because they said"
+  }
+]

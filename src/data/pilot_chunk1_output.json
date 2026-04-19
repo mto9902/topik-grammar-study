@@ -1,0 +1,336 @@
+[
+  {
+    "id": 197,
+    "explanation": "-(으)ㄴ/는 대로 has two main uses. First, it means 'as soon as' — the second action happens immediately after the first. Second, it means 'the way' or 'according to' — doing something exactly as instructed, seen, or observed. Use the present form (-는 대로) for future actions or general manner, and the past form (-(으)ㄴ 대로) when the first action is completed or describes a specific past instance.",
+    "rules": [
+      {
+        "title": "V-는 대로",
+        "description": "Attach 는 대로 to the verb stem. Use this for 'as soon as' with future actions, or for 'the way' in general or habitual situations.",
+        "examples": [
+          {
+            "korean": "가다",
+            "breakdown": "가 + 는 대로",
+            "english": "시험이 끝나는 대로 집에 갈 거예요 — I'll go home as soon as the exam ends."
+          },
+          {
+            "korean": "보다",
+            "breakdown": "보 + 는 대로",
+            "english": "요리사가 보여주는 대로 따라 하세요 — Follow along just as the chef shows you."
+          }
+        ]
+      },
+      {
+        "title": "Vowel or ㄹ ending → + ㄴ 대로",
+        "description": "Attach ㄴ 대로 to stems ending in a vowel or the consonant ㄹ. Use this for 'as soon as' when the first action is completed, or for 'the way' something was done in a specific past instance.",
+        "examples": [
+          {
+            "korean": "오다",
+            "breakdown": "오 + ㄴ 대로",
+            "english": "온 대로 돌아가세요 — Go back the way you came."
+          },
+          {
+            "korean": "도착하다",
+            "breakdown": "도착하 + ㄴ 대로",
+            "english": "도착한 대로 연락해 주세요 — Please contact me as soon as you arrive."
+          }
+        ]
+      },
+      {
+        "title": "Consonant ending → + 은 대로",
+        "description": "Attach 은 대로 to stems ending in a consonant (except ㄹ). Use this for completed actions, just like the rule above.",
+        "examples": [
+          {
+            "korean": "먹다",
+            "breakdown": "먹 + 은 대로",
+            "english": "약을 먹은 대로 효과가 나타났어요 — The effect appeared right after I took the medicine."
+          },
+          {
+            "korean": "듣다",
+            "breakdown": "듣 + 은 대로",
+            "english": "들은 대로 전해 드릴게요 — I'll pass on the message exactly as I heard it."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "info",
+        "title": "Two distinct meanings",
+        "text": "The same form covers both time ('as soon as') and manner ('the way'). Context usually makes the meaning clear. If the second clause is a sequential action, it's usually 'as soon as'. If the second clause describes imitation or obedience, it's 'the way'."
+      },
+      {
+        "icon": "check",
+        "title": "Also works with nouns",
+        "text": "You can attach 대로 directly to nouns for 'according to': 약속한 대로 (as promised), 원래 대로 (as it was originally), 생각한 대로 (just as I thought)."
+      }
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 198,
+    "explanation": "-자마자 means 'as soon as' or 'the moment that'. It emphasizes that the second action happens with absolutely no gap after the first action is finished. The subject of both clauses is usually the same person, and it is used only with action verbs.",
+    "rules": [
+      {
+        "title": "All action verb stems + 자마자",
+        "description": "Attach 자마자 directly to the verb stem. There are no 받침-related changes.",
+        "examples": [
+          {
+            "korean": "도착하다",
+            "breakdown": "도착하 + 자마자",
+            "english": "집에 도착하자마자 잠이 들었어요 — I fell asleep as soon as I arrived home."
+          },
+          {
+            "korean": "먹다",
+            "breakdown": "먹 + 자마자",
+            "english": "밥을 먹자마자 운전하지 마세요 — Don't drive right after eating."
+          },
+          {
+            "korean": "보다",
+            "breakdown": "보 + 자마자",
+            "english": "그 사진을 보자마자 눈물이 났어요 — Tears came the moment I saw that photo."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "close",
+        "title": "No commands or future intentions",
+        "text": "You cannot use -자마자 with imperative (-세요), propositive (-ㅂ시다), or intention endings like -겠다 in the second clause. It strictly describes something that actually happened."
+      },
+      {
+        "icon": "group",
+        "title": "Same subject preferred",
+        "text": "Both clauses usually share the same subject. If you need different subjects for 'as soon as', use -(으)ㄴ/는 대로 (ID 197) instead."
+      }
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 199,
+    "explanation": "-는 길에 means 'on the way to doing something'. Use it when you are going somewhere or doing something, and something else happens incidentally along the way. The main clause usually describes a past event that you noticed or did while moving.",
+    "rules": [
+      {
+        "title": "All action verb stems + 는 길에",
+        "description": "Attach 는 길에 to the stem of an action verb. It is most natural with movement verbs like 가다, 오다, and 다니다.",
+        "examples": [
+          {
+            "korean": "가다",
+            "breakdown": "가 + 는 길에",
+            "english": "회사에 가는 길에 커피를 샀어요 — I bought coffee on my way to work."
+          },
+          {
+            "korean": "오다",
+            "breakdown": "오 + 는 길에",
+            "english": "집에 오는 길에 비가 왔어요 — It rained on my way home."
+          },
+          {
+            "korean": "다니다",
+            "breakdown": "다니 + 는 길에",
+            "english": "학교에 다니는 길에 늘 그 카페를 지나가요 — I always pass by that cafe on my way to school."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "warning",
+        "title": "Movement context required",
+        "text": "-는 길에 strongly implies physical movement or going somewhere. It feels unnatural with stationary actions like 공부하다 or 자다 unless there is a clear destination involved."
+      },
+      {
+        "icon": "check",
+        "title": "Main clause is usually past tense",
+        "text": "Since you are reporting what happened along the way, the main verb is most commonly in the past tense. Future tense is possible but far less common."
+      }
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 200,
+    "explanation": "-(으)ㄴ/는 김에 means 'while I'm at it' or 'since I'm already doing this'. Use it when you take advantage of a current situation to do something else that is convenient or related. It carries a light, practical tone of doing two things at once.",
+    "rules": [
+      {
+        "title": "Vowel or ㄹ ending → + ㄴ 김에",
+        "description": "Attach ㄴ 김에 to stems ending in a vowel or ㄹ. This past form is used when the first action is already done or when the state has been reached.",
+        "examples": [
+          {
+            "korean": "오다",
+            "breakdown": "오 + ㄴ 김에",
+            "english": "온 김에 밥이라도 먹고 가세요 — Since you're here, at least have a meal before you go."
+          },
+          {
+            "korean": "가다",
+            "breakdown": "가 + ㄴ 김에",
+            "english": "간 김에 장도 보고 왔어요 — While I was out, I went grocery shopping too."
+          }
+        ]
+      },
+      {
+        "title": "Consonant ending → + 은 김에",
+        "description": "Attach 은 김에 to stems ending in a consonant. Use this for the same 'already done' nuance as above.",
+        "examples": [
+          {
+            "korean": "먹다",
+            "breakdown": "먹 + 은 김에",
+            "english": "점심을 먹은 김에 커피도 마셨어요 — Since I was already having lunch, I had coffee too."
+          },
+          {
+            "korean": "찾다",
+            "breakdown": "찾 + 은 김에",
+            "english": "지갑을 찾은 김에 명함도 챙겼어요 — Since I was already looking for my wallet, I grabbed my business cards too."
+          }
+        ]
+      },
+      {
+        "title": "All action verb stems → + 는 김에",
+        "description": "Attach 는 김에 for ongoing or future actions. This means 'since I'm going to do X anyway'.",
+        "examples": [
+          {
+            "korean": "나가다",
+            "breakdown": "나가 + 는 김에",
+            "english": "나가는 김에 쓰레기도 버려 주세요 — Since you're going out, please take out the trash too."
+          },
+          {
+            "korean": "마시다",
+            "breakdown": "마시 + 는 김에",
+            "english": "커피를 마시는 김에 잠깐 이야기해요 — While we're having coffee, let's chat for a bit."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "info",
+        "title": "Seize the opportunity",
+        "text": "This grammar carries the nuance of killing two birds with one stone. The second action feels efficient or sensible given the first action. It would sound odd if the two actions were completely unrelated."
+      },
+      {
+        "icon": "warning",
+        "title": "Casual tone",
+        "text": "-(으)ㄴ/는 김에 is casual and friendly. It would sound odd in very formal written reports or serious speeches. Use -는 동안에 or -기 때문에 for more neutral alternatives."
+      }
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 201,
+    "explanation": "-는 사이에 means 'in the meantime' or 'while'. It describes something that happened during the time that the first action was taking place. Often the second event happens unexpectedly or without the subject noticing, as time simply passed by.",
+    "rules": [
+      {
+        "title": "All action verb stems + 는 사이에",
+        "description": "Attach 는 사이에 directly to the verb stem. 사이 literally means 'interval' or 'space between'.",
+        "examples": [
+          {
+            "korean": "자다",
+            "breakdown": "자 + 는 사이에",
+            "english": "잠깐 자는 사이에 비가 왔어요 — It rained while I was briefly sleeping."
+          },
+          {
+            "korean": "기다리다",
+            "breakdown": "기다리 + 는 사이에",
+            "english": "기다리는 사이에 친구를 만났어요 — I met a friend while waiting."
+          },
+          {
+            "korean": "이야기하다",
+            "breakdown": "이야기하 + 는 사이에",
+            "english": "이야기하는 사이에 시간이 다 갔어요 — Time flew by while we were talking."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "info",
+        "title": "Unexpected results",
+        "text": "-는 사이에 is perfect for situations where something happened without you paying attention. It emphasizes that time passed unnoticed and something changed in the background."
+      },
+      {
+        "icon": "check",
+        "title": "Can be used with nouns too",
+        "text": "You can say 사이에 after time expressions or nouns: 한 달 사이에 (within a month), 방학 사이에 (during vacation), 그 사이에 (in the meantime)."
+      }
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 203,
+    "explanation": "-고 나서 means 'after doing'. It clearly marks that the first action is completely finished before the second action begins. Use it when you want to emphasize the completion and sequence of events, especially when the second action is a reaction or consequence.",
+    "rules": [
+      {
+        "title": "All action verb stems + 고 나서",
+        "description": "Attach 고 나서 directly to the verb stem. There are no conjugation changes based on the stem ending.",
+        "examples": [
+          {
+            "korean": "먹다",
+            "breakdown": "먹 + 고 나서",
+            "english": "밥을 먹고 나서 산책했어요 — I took a walk after eating."
+          },
+          {
+            "korean": "보다",
+            "breakdown": "보 + 고 나서",
+            "english": "영화를 보고 나서 감동받았어요 — I was moved after watching the movie."
+          },
+          {
+            "korean": "가다",
+            "breakdown": "가 + 고 나서",
+            "english": "집에 가고 나서 연락할게요 — I'll contact you after I get home."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "check",
+        "title": "Emphasizes completion",
+        "text": "-고 나서 is stronger than simple -아/어서 for sequence. It insists that the first action is 100% finished. You cannot use it if the actions overlap."
+      },
+      {
+        "icon": "info",
+        "title": "Often used with emotional reactions",
+        "text": "Because it marks a clear endpoint, -고 나서 pairs naturally with reactions or realizations that come after finishing something: 보고 나서 알았어요 (I realized after seeing it)."
+      }
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 204,
+    "explanation": "-고 나면 means 'once done' or 'once someone does'. It combines the completion meaning of -고 나서 with the conditional meaning of -(으)면. Use it to describe a natural result, discovery, or habitual outcome that follows after completing an action.",
+    "rules": [
+      {
+        "title": "All action verb stems + 고 나면",
+        "description": "Attach 고 나면 directly to the verb stem. The 나면 part comes from 나서 + (으)면.",
+        "examples": [
+          {
+            "korean": "보다",
+            "breakdown": "보 + 고 나면",
+            "english": "이 영화를 보고 나면 생각이 바뀔 거예요 — Once you see this movie, your thinking will change."
+          },
+          {
+            "korean": "가다",
+            "breakdown": "가 + 고 나면",
+            "english": "한국에 가고 나면 김치를 매일 먹게 돼요 — Once you go to Korea, you end up eating kimchi every day."
+          },
+          {
+            "korean": "먹다",
+            "breakdown": "먹 + 고 나면",
+            "english": "약을 먹고 나면 좀 나아질 거예요 — Once you take the medicine, you'll feel a bit better."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "icon": "info",
+        "title": "Result or discovery",
+        "text": "-고 나면 is perfect for sentences where the second clause is a natural consequence, new understanding, or predictable outcome. It feels less like a command and more like a statement of cause and effect."
+      },
+      {
+        "icon": "group",
+        "title": "See ID 203 for the difference",
+        "text": "-고 나서 is purely about sequence: 'I did A, then I did B.' -고 나면 adds a conditional nuance: 'Once A is done, B will naturally follow.' Use -고 나면 for predictions, general truths, and habitual outcomes."
+      }
+    ],
+    "exceptions": []
+  }
+]

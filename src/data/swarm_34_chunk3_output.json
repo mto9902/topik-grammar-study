@@ -1,0 +1,396 @@
+[
+  {
+    "id": 259,
+    "explanation": "Use -기로 하다 when you or someone else makes a conscious decision or plan to do something. It expresses a commitment, promise, or agreement — like saying 'I have decided to...' or 'we agreed to...'",
+    "rules": [
+      {
+        "title": "V-기로 하다",
+        "description": "Attach 기로 하다 directly to the verb stem. Use past tense 하다 to show the decision was already made, or present tense for a current decision.",
+        "examples": [
+          {"korean": "가다", "breakdown": "가 + 기로 하다", "english": "내일 한국에 가기로 했어요 — I've decided to go to Korea tomorrow."},
+          {"korean": "운동하다", "breakdown": "운동하 + 기로 하다", "english": "매일 운동하기로 했어요 — I've decided to exercise every day."},
+          {"korean": "마시다", "breakdown": "마시 + 기로 하다", "english": "커피를 안 마시기로 했어요 — I've decided not to drink coffee."}
+        ]
+      }
+    ],
+    "notes": [
+      {"icon": "info", "title": "Active decision", "text": "-기로 하다 is for decisions you make yourself. For decisions made by rules or external circumstances, use -기로 되다 (ID 260)."},
+      {"icon": "check", "title": "Past tense common", "text": "Most often you'll see 기로 했어요 or 기로 했다 because the decision was made in the past, even if the action is in the future."}
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 260,
+    "explanation": "Use -기로 되다 when something is decided by an external authority, rule, or circumstance rather than personal choice. It has a passive meaning — 'it has been decided that...' or 'it is arranged that...'",
+    "rules": [
+      {
+        "title": "V-기로 되다",
+        "description": "Attach 기로 되다 to the verb stem. The subject is often omitted since the decider is external or understood from context.",
+        "examples": [
+          {"korean": "만나다", "breakdown": "만나 + 기로 되다", "english": "다음 주에 만나기로 됐어요 — It's been arranged that we'll meet next week."},
+          {"korean": "출발하다", "breakdown": "출발하 + 기로 되다", "english": "아침 8시에 출발하기로 됐어요 — It's been decided that we depart at 8 a.m."},
+          {"korean": "열다", "breakdown": "열 + 기로 되다", "english": "내일 문을 열기로 됐어요 — It's been decided that the door will be opened tomorrow."}
+        ]
+      }
+    ],
+    "notes": [
+      {"icon": "info", "title": "Passive decision", "text": "Unlike -기로 하다 (ID 259), which is an active personal decision, -기로 되다 implies the decision was made by someone else or by rules."},
+      {"icon": "group", "title": "Company and schedule contexts", "text": "Very common in business Korean for meetings, deadlines, and official schedules."}
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 261,
+    "explanation": "Use -(으)ㄴ/는 만큼 to show proportion or degree — 'as much as,' 'to the extent that.' The result in the second clause matches or corresponds to the degree described in the first clause.",
+    "rules": [
+      {
+        "title": "A-(으)ㄴ 만큼",
+        "description": "For adjectives: add -은 만큼 if the stem ends in a 받침, or -ㄴ 만큼 if it ends in a vowel or ㄹ.",
+        "examples": [
+          {"korean": "착하다", "breakdown": "착하 + ㄴ 만큼", "english": "그 사람은 착한 만큼 인기도 많아요 — He's as popular as he is kind."},
+          {"korean": "작다", "breakdown": "작 + 은 만큼", "english": "작은 만큼 휴대하기 편해요 — It's as portable as it is small."}
+        ]
+      },
+      {
+        "title": "V-는 만큼",
+        "description": "For verbs: add -는 만큼 to the stem.",
+        "examples": [
+          {"korean": "노력하다", "breakdown": "노력하 + 는 만큼", "english": "열심히 노력하는 만큼 실력이 늘어요 — Your skills improve as much as you work hard."}
+        ]
+      }
+    ],
+    "notes": [
+      {"icon": "check", "title": "Proportional relationship", "text": "Think of it as 'the more X, the more Y.' The two clauses are directly proportional."},
+      {"icon": "warning", "title": "Not for exact equality", "text": "For exact equality ('as much as N'), use N-만큼. -(으)ㄴ/는 만큼 is for proportional situations."}
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 262,
+    "explanation": "Use -기만 하면 to express that only one simple condition needs to be met for something to be sufficient or acceptable. It translates to 'all you have to do is...' The 되다 at the end is optional but very common.",
+    "rules": [
+      {
+        "title": "V-기만 하면",
+        "description": "Attach 기만 하면 to the verb or adjective stem. Add 되다 at the end to mean 'and that's enough.'",
+        "examples": [
+          {"korean": "누르다", "breakdown": "누르 + 기만 하면", "english": "이 버튼을 누르기만 하면 돼요 — All you have to do is press this button."},
+          {"korean": "가다", "breakdown": "가 + 기만 하면", "english": "거기에 가기만 하면 돼요 — You just have to go there."},
+          {"korean": "열다", "breakdown": "열 + 기만 하면", "english": "문을 열기만 하면 돼요 — All you have to do is open the door."}
+        ]
+      }
+    ],
+    "notes": [
+      {"icon": "info", "title": "되다 is optional", "text": "You can say -기만 하면 돼요, -기만 하면 괜찮아요, or just -기만 하면. 되다 is the most common pairing."},
+      {"icon": "check", "title": "Simplicity and sufficiency", "text": "This grammar emphasizes how easy something is — only one action is needed, nothing more."}
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 263,
+    "explanation": "Use -을/를 정도(로) to describe the extent, degree, or point of something — 'to the extent that,' 'so much that.' It often sets up a comparison or describes an extreme situation.",
+    "rules": [
+      {
+        "title": "A/V-(으)ㄹ 정도(로)",
+        "description": "Add -(으)ㄹ 정도 or -(으)ㄹ 정도로 to the stem. Use 로 when the phrase modifies an adjective or verb; drop 로 when it modifies a noun or ends the clause.",
+        "examples": [
+          {"korean": "배부르다", "breakdown": "배부르 + ㄹ 정도(로)", "english": "배부를 정도로 많이 먹었어요 — I ate so much that I was full to the point of bursting."},
+          {"korean": "피곤하다", "breakdown": "피곤하 + ㄹ 정도(로)", "english": "피곤할 정도로 일했어요 — I worked to the point of exhaustion."},
+          {"korean": "놀라다", "breakdown": "놀라 + ㄹ 정도(로)", "english": "놀랄 정도로 많이 늘었어요 — I've improved so much it's surprising."}
+        ]
+      }
+    ],
+    "notes": [
+      {"icon": "info", "title": "정도로 vs 정도", "text": "Use 정도로 when the phrase modifies what comes after. Use 정도 when it stands alone or is followed by 이다."},
+      {"icon": "warning", "title": "Extreme situations", "text": "This grammar often describes extreme or notable degrees — more than just a little."}
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 264,
+    "explanation": "Use -만 하다 to say something is about the same size, level, or amount as something else. Use -만 못하다 to say it's not even at that level — 'not as much as' or 'not even.'",
+    "rules": [
+      {
+        "title": "N-만 하다",
+        "description": "Attach 만 하다 to a noun to express equality in size, amount, or level.",
+        "examples": [
+          {"korean": "강아지", "breakdown": "강아지 + 만 하다", "english": "아기가 강아지만 해요 — The baby is about the size of a puppy."},
+          {"korean": "사전", "breakdown": "사전 + 만 하다", "english": "이 책이 사전만 해요 — This book is about as big as a dictionary."}
+        ]
+      },
+      {
+        "title": "N-만 못하다",
+        "description": "Attach 만 못하다 to express that something falls short of the noun's level.",
+        "examples": [
+          {"korean": "어제", "breakdown": "어제 + 만 못하다", "english": "오늘 날씨가 어제만 못해요 — Today's weather isn't as good as yesterday's."},
+          {"korean": "동생", "breakdown": "동생 + 만 못하다", "english": "내 성적이 동생만 못해요 — My grades aren't even as good as my younger sibling's."}
+        ]
+      }
+    ],
+    "notes": [
+      {"icon": "info", "title": "Size and level", "text": "-만 하다 commonly refers to physical size, but can also mean skill level or amount."},
+      {"icon": "close", "title": "Different from -만큼", "text": "N-만 하다 compares equality directly. For proportional comparison, use A/V-만큼 or N-만큼."}
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 266,
+    "explanation": "Use -(으)ㄹ 뿐만 아니라 to add information — 'not only A but also B.' It emphasizes that there is more than what was first mentioned.",
+    "rules": [
+      {
+        "title": "A/V-(으)ㄹ 뿐만 아니라",
+        "description": "Add -(으)ㄹ 뿐만 아니라 to the stem. Use with both adjectives and verbs. The second clause is connected directly.",
+        "examples": [
+          {"korean": "가다", "breakdown": "가 + 을 뿐만 아니라", "english": "한국에 갈뿐만 아니라 일본에도 갔어요 — I went not only to Korea but also to Japan."},
+          {"korean": "친절하다", "breakdown": "친절하 + 을 뿐만 아니라", "english": "그 사람은 친절할뿐만 아니라 똑똤해요 — He's not only kind but also smart."},
+          {"korean": "공부하다", "breakdown": "공부하 + 을 뿐만 아니라", "english": "한국어를 공부할뿐만 아니라 일본어도 공부해요 — I study not only Korean but also Japanese."}
+        ]
+      }
+    ],
+    "notes": [
+      {"icon": "check", "title": "Both clauses must agree", "text": "The subject should usually be the same in both clauses, or the second clause should clearly continue from the first."},
+      {"icon": "info", "title": "Related form", "text": "See also ID 267 for -(으)ㄹ 뿐이다, which limits meaning to 'only/merely' instead of adding information."}
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 267,
+    "explanation": "Use -(으)ㄹ 뿐이다 to limit or minimize something — 'it's just that,' 'merely,' 'only.' It downplays a situation by saying there's only one reason or factor involved.",
+    "rules": [
+      {
+        "title": "A/V-(으)ㄹ 뿐이다",
+        "description": "Add -(으)ㄹ 뿐이다 to the stem. Use 이에요/예요 in polite speech. The past tense form is -(으)ㄹ 뿐이었다.",
+        "examples": [
+          {"korean": "모르다", "breakdown": "모르 + 을 뿐이다", "english": "모를 뿐이에요 — I just don't know."},
+          {"korean": "피곤하다", "breakdown": "피곤하 + 을 뿐이다", "english": "피곤할 뿐이에요 — I'm just tired."},
+          {"korean": "바쁘다", "breakdown": "바쁘 + 을 뿐이다", "english": "바쁠 뿐이에요 — I'm just busy."}
+        ]
+      }
+    ],
+    "notes": [
+      {"icon": "info", "title": "Softening effect", "text": "Using 뿐이다 softens your statement and avoids sounding too blunt or negative."},
+      {"icon": "warning", "title": "Different from -뿐", "text": "N-뿐 (ID 270) is for nouns only. A/V-(으)ㄹ 뿐이다 is for verbs and adjectives."}
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 268,
+    "explanation": "Use 얼마나 with -(으)ㄴ지 to create exclamatory sentences about degree. It expresses 'how very' or 'I can't tell you how much.' The second clause usually says the feeling or effect is beyond words.",
+    "rules": [
+      {
+        "title": "얼마나 A-(으)ㄴ지",
+        "description": "For adjectives: 얼마나 + stem + -(으)ㄴ지. Use -은지 with 받침, -ㄴ지 with vowel or ㄹ ending.",
+        "examples": [
+          {"korean": "아름답다", "breakdown": "얼마나 아름답 + 은지", "english": "그 산이 얼마나 아름다운지 몰라요 — You wouldn't believe how beautiful that mountain is."},
+          {"korean": "힘들다", "breakdown": "얼마나 힘들 + ㄴ지", "english": "얼마나 힘든지 말로 표현할 수 없어요 — I can't express in words how hard it was."}
+        ]
+      },
+      {
+        "title": "얼마나 V-는지",
+        "description": "For verbs: 얼마나 + stem + -는지.",
+        "examples": [
+          {"korean": "좋아하다", "breakdown": "얼마나 좋아하 + 는지", "english": "얼마나 좋아하는지 다 알아요 — Everyone knows how much he likes it."}
+        ]
+      }
+    ],
+    "notes": [
+      {"icon": "info", "title": "Exclamation pattern", "text": "This is a classic exclamation structure. The second clause often contains 몰라요, 말로 할 수 없어요, or 다 몰라요."},
+      {"icon": "warning", "title": "Not a real question", "text": "Even though it ends in -는지, this is not an actual question. It's an emotional statement about degree."}
+    ],
+    "exceptions": [
+      {"name": "ㅂ irregular", "description": "For adjectives ending in ㅂ, the ㅂ changes to 우 before a vowel.", "example": "아름답다 → 아름다운지"},
+      {"name": "ㄹ ending", "description": "For stems ending in ㄹ, the ㄹ drops before ㄴ.", "example": "힘들다 → 힘든지"}
+    ]
+  },
+  {
+    "id": 270,
+    "explanation": "Use -뿐 after a noun to mean 'only,' 'just,' or 'nothing but.' It limits the subject or object to one single thing. It sounds more emphatic and slightly more formal than -만.",
+    "rules": [
+      {
+        "title": "N-뿐",
+        "description": "Attach 뿐 directly to the noun. Usually followed by 이다 (뿐이다) or a negative verb to complete the meaning.",
+        "examples": [
+          {"korean": "친구", "breakdown": "친구 + 뿐", "english": "여기 있는 사람은 친구뿐이에요 — The only person here is my friend."},
+          {"korean": "한 개", "breakdown": "한 개 + 뿐", "english": "남은 것은 이 한 개뿐이에요 — There's only this one left."},
+          {"korean": "공부", "breakdown": "공부 + 뿐", "english": "매일 하는 것은 공부뿐이에요 — All I do every day is study."}
+        ]
+      }
+    ],
+    "notes": [
+      {"icon": "info", "title": "More emphatic than -만", "text": "-뿐 carries a stronger sense of limitation or exclusivity compared to -만. It can sound more dramatic."},
+      {"icon": "check", "title": "Often with 이다", "text": "N-뿐 is very commonly followed by 이다: N뿐이다 / N뿐이에요."}
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 271,
+    "explanation": "Use -조차 after a noun to mean 'even.' It emphasizes that something unexpected or surprising is included. It works in both positive and negative sentences and adds a strong sense of surprise.",
+    "rules": [
+      {
+        "title": "N-조차",
+        "description": "Attach 조차 directly to the noun. The sentence often expresses that even this minimum or unexpected thing is true or not true.",
+        "examples": [
+          {"korean": "한 번", "breakdown": "한 번 + 조차", "english": "한 번조차 안 왔어요 — He hasn't even come once."},
+          {"korean": "물", "breakdown": "물 + 조차", "english": "물조차 마실 수 없었어요 — I couldn't even drink water."},
+          {"korean": "그것", "breakdown": "그것 + 조차", "english": "그것조차 몰라요 — I don't even know that."}
+        ]
+      }
+    ],
+    "notes": [
+      {"icon": "info", "title": "Stronger than -도", "text": "-조차 is more emphatic than -도. It emphasizes that even the minimum or least expected thing is involved."},
+      {"icon": "warning", "title": "Noun only", "text": "Unlike -조차만, standard -조차 attaches only to nouns. For verbs and adjectives, use other forms like -기조차 하다."}
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 272,
+    "explanation": "Use -마저 after a noun to mean 'even' in negative or unfortunate situations. It expresses despair or disappointment that even the last remaining hope or thing has been lost or affected. It carries a sadder, more emotional tone than 조차.",
+    "rules": [
+      {
+        "title": "N-마저",
+        "description": "Attach 마저 directly to the noun. Only use in negative, sad, or unfortunate contexts — never in positive sentences.",
+        "examples": [
+          {"korean": "친구", "breakdown": "친구 + 마저", "english": "친구마저 나를 떠났어요 — Even my friend left me."},
+          {"korean": "돈", "breakdown": "돈 + 마저", "english": "돈마저 다 잃었어요 — I lost even my money."},
+          {"korean": "집", "breakdown": "집 + 마저", "english": "집마저 팔아야 했어요 — I even had to sell my house."}
+        ]
+      }
+    ],
+    "notes": [
+      {"icon": "close", "title": "Negative contexts only", "text": "Unlike 조차 (ID 271), 마저 cannot be used in positive sentences. It always conveys misfortune."},
+      {"icon": "warning", "title": "Last remaining thing", "text": "마저 often implies that this was the last thing you had left, and now it's gone too."}
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 273,
+    "explanation": "Use -(으)ㄴ/는/(으)ㄹ 것 같다 to express supposition, inference, or a gentle guess. 'It seems like,' 'I think,' 'probably.' The tense is shown by the modifier before 것, not by 같다 itself.",
+    "rules": [
+      {
+        "title": "A-(으)ㄴ 것 같다",
+        "description": "For adjectives in the present: add -(으)ㄴ 것 같다. Use -은 with 받침, -ㄴ with vowel or ㄹ ending.",
+        "examples": [
+          {"korean": "좋다", "breakdown": "좋 + 은 것 같다", "english": "날씨가 좋은 것 같아요 — I think the weather is nice."},
+          {"korean": "춥다", "breakdown": "춥 + 은 것 같다", "english": "오늘이 추운 것 같아요 — I think it's cold today."}
+        ]
+      },
+      {
+        "title": "V-는 것 같다",
+        "description": "For verbs in the present: add -는 것 같다.",
+        "examples": [
+          {"korean": "비가 오다", "breakdown": "비가 오 + 는 것 같다", "english": "지금 비가 오는 것 같아요 — I think it's raining now."}
+        ]
+      },
+      {
+        "title": "A/V-(으)ㄹ 것 같다",
+        "description": "For future tense or supposition about what will happen: add -(으)ㄹ 것 같다.",
+        "examples": [
+          {"korean": "내일 비가 오다", "breakdown": "내일 비가 오 + 을 것 같다", "english": "내일 비가 올 것 같아요 — I think it will rain tomorrow."}
+        ]
+      }
+    ],
+    "notes": [
+      {"icon": "info", "title": "Most common supposition form", "text": "This is the most widely used grammar for 'I think' in Korean. It's softer and more natural than directly stating your opinion."},
+      {"icon": "warning", "title": "First-person intention", "text": "With first person and future tense, it can express your own intention: 저도 갈 것 같아요 can mean 'I think I'll go too.'"},
+      {"icon": "group", "title": "Related forms", "text": "See ID 274 for objective appearance-based inference, ID 276 for colloquial -ㄴ가 보다, and ID 278 for verb-only -나 보다."}
+    ],
+    "exceptions": [
+      {"name": "ㅂ irregular", "description": "For adjectives ending in ㅂ, the ㅂ changes to 우 before a vowel.", "example": "춥다 → 추운"}
+    ]
+  },
+  {
+    "id": 274,
+    "explanation": "Use -(으)ㄴ/는/(으)ㄹ 모양이다 to make an inference based on external appearance or observable evidence. 'It looks like,' 'it appears.' It is more objective and evidence-based than 것 같다, which can be based on feeling.",
+    "rules": [
+      {
+        "title": "A-(으)ㄴ 모양이다",
+        "description": "For adjectives: add -(으)ㄴ 모양이다.",
+        "examples": [
+          {"korean": "아프다", "breakdown": "아프 + ㄴ 모양이다", "english": "몸이 아픈 모양이에요 — It looks like he's sick."}
+        ]
+      },
+      {
+        "title": "V-는 모양이다",
+        "description": "For verbs: add -는 모양이다.",
+        "examples": [
+          {"korean": "자다", "breakdown": "자 + 는 모양이다", "english": "아직 자는 모양이에요 — It looks like he's still sleeping."}
+        ]
+      },
+      {
+        "title": "A/V-(으)ㄹ 모양이다",
+        "description": "For future inference: add -(으)ㄹ 모양이다.",
+        "examples": [
+          {"korean": "늦다", "breakdown": "늦 + 을 모양이다", "english": "오늘은 늦을 모양이에요 — It looks like he'll be late today."}
+        ]
+      }
+    ],
+    "notes": [
+      {"icon": "info", "title": "Evidence-based", "text": "Use 모양이다 when you can see or observe clear evidence. Use 것 같다 (ID 273) when it's more of a feeling or general guess."},
+      {"icon": "check", "title": "Visual situations", "text": "모양이다 is especially common for describing how someone looks or appears physically."}
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 276,
+    "explanation": "Use -(으)ㄴ가 보다 to express a guess or inference based on what you observe. 'It seems like,' 'I guess,' 'apparently.' It is more colloquial and conversational than 것 같다. You have some evidence, but you aren't certain.",
+    "rules": [
+      {
+        "title": "A/V-(으)ㄴ가 보다",
+        "description": "Add -(으)ㄴ가 보다 to the stem. Use -은가 보다 with 받침, -ㄴ가 보다 with vowel or ㄹ ending. Conjugate 보다 to 보다, 봐요, or 봤어요.",
+        "examples": [
+          {"korean": "피곤하다", "breakdown": "피곤하 + ㄴ가 보다", "english": "얼굴이 피곤한가 봐요 — You look tired, I guess."},
+          {"korean": "바쁘다", "breakdown": "바쁘 + ㄴ가 보다", "english": "전화가 안 받는 걸 보니 바쁜가 봐요 — He isn't answering his phone, so I guess he's busy."},
+          {"korean": "좋아하다", "breakdown": "좋아하 + 는가 보다", "english": "매일 듣는 걸 보니 노래를 좋아하는가 봐요 — He listens to it every day, so I guess he likes the song."}
+        ]
+      }
+    ],
+    "notes": [
+      {"icon": "info", "title": "Colloquial guess", "text": "This is the most casual and conversational way to say 'it seems like.' Use it in daily speech."},
+      {"icon": "warning", "title": "Observation required", "text": "Unlike plain 추측, -ㄴ가 보다 implies you have some observable reason for your guess."},
+      {"icon": "group", "title": "Verb form", "text": "For action verbs, -나 보다 (ID 278) is often preferred, but -는가 보다 is also acceptable in casual speech."}
+    ],
+    "exceptions": []
+  },
+  {
+    "id": 277,
+    "explanation": "Use -(으)ㄹ 테니까 to present your assumption or supposition as a reason for a suggestion, request, or command. 'I suppose... so (please)...' The 테 comes from 터 (basis/ground) and expresses the speaker's reasoning about the listener's situation.",
+    "rules": [
+      {
+        "title": "A/V-(으)ㄹ 테니까",
+        "description": "Add -(으)ㄹ 테니까 to the stem. The second clause is usually an imperative (-세요), suggestion (-(으)ㅂ시다), or piece of advice.",
+        "examples": [
+          {"korean": "배고프다", "breakdown": "배고프 + ㄹ 테니까", "english": "배고플 테니까 먼저 드세요 — I suppose you're hungry, so please eat first."},
+          {"korean": "춥다", "breakdown": "춥 + ㄹ 테니까", "english": "추울 테니까 따뜻하게 입으세요 — I suppose it's cold, so dress warmly."},
+          {"korean": "피곤하다", "breakdown": "피곤하 + ㄹ 테니까", "english": "피곤할 테니까 일찍 쉬세요 — I suppose you're tired, so rest early."}
+        ]
+      }
+    ],
+    "notes": [
+      {"icon": "info", "title": "Speaker's assumption about listener", "text": "-(으)ㄹ 테니까 usually expresses what the speaker supposes about the listener's situation, followed by advice or a request."},
+      {"icon": "warning", "title": "Not for facts", "text": "Don't use this for objective facts. It must be a supposition or guess that motivates the following clause."}
+    ],
+    "exceptions": [
+      {"name": "ㅂ irregular", "description": "For stems ending in ㅂ, the ㅂ changes to 우 before a vowel.", "example": "춥다 → 추울 테니까"},
+      {"name": "ㄹ ending", "description": "For stems ending in ㄹ, the ㄹ drops.", "example": "만들다 → 만들 테니까"}
+    ]
+  },
+  {
+    "id": 278,
+    "explanation": "Use -나 보다 to express an inference or guess based on observation, specifically with action verbs. 'It seems like,' 'apparently,' 'I see that.' It has the same meaning as -(으)ㄴ가 보다 (ID 276) but is the standard form for verbs.",
+    "rules": [
+      {
+        "title": "V-나 보다",
+        "description": "Add -나 보다 directly to the verb stem. Conjugate 보다 as needed (보다, 봐요, 봤어요).",
+        "examples": [
+          {"korean": "가다", "breakdown": "가 + 나 보다", "english": "집에 안 가나 봐요 — It seems like he's not going home."},
+          {"korean": "먹다", "breakdown": "먹 + 나 보다", "english": "음식을 안 먹나 봐요 — It seems like he's not eating the food."},
+          {"korean": "좋아하다", "breakdown": "좋아하 + 나 보다", "english": "노래를 좋아하나 봐요 — It seems like he likes the song."}
+        ]
+      }
+    ],
+    "notes": [
+      {"icon": "info", "title": "Verb-only form", "text": "-나 보다 is used with action verbs. For adjectives, use -(으)ㄴ가 보다 (ID 276)."},
+      {"icon": "check", "title": "Observable behavior", "text": "Like -(으)ㄴ가 보다, this form is based on watching someone's actions or behavior and drawing a conclusion."}
+    ],
+    "exceptions": []
+  }
+]

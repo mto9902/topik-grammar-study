@@ -1,0 +1,121 @@
+[
+  {
+    "id": 340,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-아/어야지",
+    "meaning": "I should"
+  },
+  {
+    "id": 341,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-아/어/(이)야",
+    "meaning": "Only if / have to"
+  },
+  {
+    "id": 342,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-나(요)? / 니/냐?",
+    "meaning": "Casual question"
+  },
+  {
+    "id": 343,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-기에(는)",
+    "meaning": "Because (formal)"
+  },
+  {
+    "id": 344,
+    "level": "3-4",
+    "category": "Conjunctions & Sentence Endings",
+    "grammar": "V-기는(요)",
+    "meaning": "Not really / on the contrary"
+  },
+  {
+    "id": 346,
+    "level": "3-4",
+    "category": "Auxiliary Verbs & Compound Expressions",
+    "grammar": "V-아/어 가다/오다",
+    "meaning": "Go/come doing"
+  },
+  {
+    "id": 347,
+    "level": "3-4",
+    "category": "Auxiliary Verbs & Compound Expressions",
+    "grammar": "V-아/어 나가다/내다",
+    "meaning": "Go out/bring out doing"
+  },
+  {
+    "id": 349,
+    "level": "3-4",
+    "category": "Auxiliary Verbs & Compound Expressions",
+    "grammar": "V-아/어 두다/놓다",
+    "meaning": "Do for later"
+  },
+  {
+    "id": 350,
+    "level": "3-4",
+    "category": "Auxiliary Verbs & Compound Expressions",
+    "grammar": "V-아/어 있다",
+    "meaning": "State of having done"
+  },
+  {
+    "id": 351,
+    "level": "3-4",
+    "category": "Auxiliary Verbs & Compound Expressions",
+    "grammar": "V-아/어 지다",
+    "meaning": "Become"
+  },
+  {
+    "id": 352,
+    "level": "3-4",
+    "category": "Auxiliary Verbs & Compound Expressions",
+    "grammar": "V-아/어 대다",
+    "meaning": "Keep doing"
+  },
+  {
+    "id": 353,
+    "level": "3-4",
+    "category": "Auxiliary Verbs & Compound Expressions",
+    "grammar": "V-아/어 먹다",
+    "meaning": "Do thoroughly (casual)"
+  },
+  {
+    "id": 354,
+    "level": "3-4",
+    "category": "Auxiliary Verbs & Compound Expressions",
+    "grammar": "V-아/어 죽다",
+    "meaning": "Almost die from"
+  },
+  {
+    "id": 355,
+    "level": "3-4",
+    "category": "Auxiliary Verbs & Compound Expressions",
+    "grammar": "V-아/어 달라다",
+    "meaning": "Ask someone to do"
+  },
+  {
+    "id": 356,
+    "level": "3-4",
+    "category": "Auxiliary Verbs & Compound Expressions",
+    "grammar": "V-아/여 보이다",
+    "meaning": "Look / seem"
+  },
+  {
+    "id": 357,
+    "level": "3-4",
+    "category": "Auxiliary Verbs & Compound Expressions",
+    "grammar": "V-아/어 가지고",
+    "meaning": "And then (casual)"
+  },
+  {
+    "id": 360,
+    "level": "3-4",
+    "category": "Auxiliary Verbs & Compound Expressions",
+    "grammar": "N-에 따라(서)",
+    "meaning": "According to / depending on"
+  }
+]
