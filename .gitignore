@@ -38,3 +38,6 @@ agent-output/
 android/app/build/
 android/.gradle/
 android/capacitor-cordova-android-plugins/build/
+
+# Tooling
+.lingmaignore

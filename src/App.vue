@@ -4,8 +4,10 @@ import { App as CapacitorApp } from '@capacitor/app'
 import BrowseView from './views/BrowseView.vue'
 import DetailView from './views/DetailView.vue'
 import GrammarStatusView from './views/GrammarStatusView.vue'
+import GrammarExerciseView from './views/GrammarExerciseView.vue'
+import LearningDeckView from './views/LearningDeckView.vue'
+import PracticeHubView from './views/PracticeHubView.vue'
 import StudyView from './views/StudyView.vue'
-import ClozeView from './views/ClozeView.vue'
 import StatsView from './views/StatsView.vue'
 import type { GrammarPoint } from './types/grammar'
 import { initGlobalClickSound } from './sound'
@@ -13,6 +15,7 @@ import { initGlobalClickSound } from './sound'
 const tabs = [
   { key: 'browse', label: 'Library', icon: 'menu_book' },
   { key: 'study', label: 'Path', icon: 'architecture' },
+  { key: 'cards', label: 'Deck', icon: 'style' },
   { key: 'quiz', label: 'Studio', icon: 'edit_note' },
   { key: 'stats', label: 'Archive', icon: 'inventory_2' },
 ]
@@ -61,8 +64,10 @@ const currentView = computed(() => {
     case 'browse': return BrowseView
     case 'detail': return DetailView
     case 'grammar-status': return GrammarStatusView
+    case 'grammar-exercise': return GrammarExerciseView
     case 'study': return StudyView
-    case 'quiz': return ClozeView
+    case 'cards': return LearningDeckView
+    case 'quiz': return PracticeHubView
     case 'stats': return StatsView
     default: return BrowseView
   }
@@ -71,7 +76,7 @@ const currentView = computed(() => {
 const isHome = computed(() => viewStack.value.length === 1)
 const pageTitle = computed(() => {
   const top = viewStack.value[viewStack.value.length - 1]
-  if ((top === 'detail' || top === 'grammar-status') && selectedGrammar.value) {
+  if ((top === 'detail' || top === 'grammar-status' || top === 'grammar-exercise') && selectedGrammar.value) {
     return selectedGrammar.value.grammar
   }
   const tab = tabs.find(t => t.key === top)
@@ -229,7 +234,7 @@ onMounted(() => {
   border-top-left-radius: 16px;
   border-top-right-radius: 16px;
   box-shadow: 0 -10px 30px rgba(0, 0, 0, 0.04);
-  padding: 0 8px 12px;
+  padding: 0 4px 12px;
 }
 
 .nav-btn {
@@ -242,10 +247,11 @@ onMounted(() => {
   border: none;
   color: #a0a0a0;
   font-size: 10px;
-  padding: 8px 12px 4px;
+  padding: 8px 4px 4px;
   cursor: pointer;
   transition: all 0.2s ease;
-  width: 64px;
+  flex: 1 1 0;
+  min-width: 0;
   border-top: 4px solid transparent;
   border-radius: 0;
 }
@@ -273,5 +279,35 @@ onMounted(() => {
   font-weight: 700;
   letter-spacing: 0.04em;
   text-transform: uppercase;
+  line-height: 1.1;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+@media (max-width: 360px) {
+  .app-main {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .app-nav {
+    padding-left: 2px;
+    padding-right: 2px;
+  }
+
+  .nav-btn {
+    padding-left: 2px;
+    padding-right: 2px;
+  }
+
+  .nav-icon {
+    font-size: 20px;
+  }
+
+  .nav-label {
+    font-size: 9px;
+    letter-spacing: 0.02em;
+  }
 }
 </style>

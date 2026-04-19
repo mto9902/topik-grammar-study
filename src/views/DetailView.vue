@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { inject, ref, computed } from 'vue'
+import TtsButton from '../components/TtsButton.vue'
 import type { GrammarPoint, GrammarDetail } from '../types/grammar'
 import grammarDetails from '../data/grammar-details.json'
 
@@ -57,7 +58,10 @@ const iconMap: Record<string, string> = {
                   class="example-row"
                   :class="{ border: eidx < rule.examples.length - 1 }"
                 >
-                  <span class="ex-korean">{{ ex.korean }}</span>
+                  <div class="sentence-row">
+                    <span class="ex-korean">{{ ex.korean }}</span>
+                    <TtsButton :text="ex.korean" label="detail example" />
+                  </div>
                   <span v-if="ex.breakdown" class="ex-breakdown">{{ ex.breakdown }}</span>
                   <span class="ex-english">{{ ex.english }}</span>
                 </div>
@@ -96,7 +100,10 @@ const iconMap: Record<string, string> = {
           <div v-for="(ex, idx) in details.exceptions" :key="idx" class="exception-item">
             <h5 class="exception-name">{{ ex.name }}</h5>
             <p class="exception-desc">{{ ex.description }}</p>
-            <p class="exception-example">{{ ex.example }}</p>
+            <div class="exception-row">
+              <p class="exception-example">{{ ex.example }}</p>
+              <TtsButton :text="ex.example" label="exception example" />
+            </div>
           </div>
         </div>
       </div>
@@ -109,11 +116,13 @@ const iconMap: Record<string, string> = {
       </p>
     </div>
 
-    <!-- CTA to Status Page -->
     <div class="cta-wrap">
-      <button class="cta-btn" @click="navigateTo('grammar-status', grammar)">
-        View Study Status
+      <button class="cta-btn primary" @click="navigateTo('grammar-exercise', grammar)">
+        Practice This Grammar
         <span class="material-symbols-outlined">arrow_forward</span>
+      </button>
+      <button class="cta-btn secondary" @click="navigateTo('grammar-status', grammar)">
+        View Study Status
       </button>
     </div>
   </div>
@@ -251,6 +260,14 @@ const iconMap: Record<string, string> = {
   padding: 8px 0;
 }
 
+.sentence-row,
+.exception-row {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 10px;
+}
+
 .example-row.border {
   border-bottom: 1px solid rgba(198, 198, 198, 0.4);
 }
@@ -371,6 +388,8 @@ const iconMap: Record<string, string> = {
 }
 
 .exception-example {
+  margin: 0;
+  flex: 1;
   font-size: 0.85rem;
   font-weight: 600;
   color: #000;
@@ -378,6 +397,13 @@ const iconMap: Record<string, string> = {
   padding: 8px 10px;
   border-radius: 6px;
   font-family: 'Noto Sans KR', sans-serif;
+}
+
+@media (max-width: 360px) {
+  .sentence-row,
+  .exception-row {
+    gap: 8px;
+  }
 }
 
 /* Fallback */
@@ -398,15 +424,13 @@ const iconMap: Record<string, string> = {
 /* CTA */
 .cta-wrap {
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+  gap: 10px;
   margin-top: 4px;
 }
 
 .cta-btn {
   width: 100%;
-  background: #000;
-  color: #fff;
-  border: none;
   border-radius: 12px;
   padding: 16px 24px;
   font-size: 0.85rem;
@@ -423,9 +447,28 @@ const iconMap: Record<string, string> = {
   box-shadow: 0 10px 30px rgba(26, 28, 28, 0.12);
 }
 
+.cta-btn.primary {
+  background: #000;
+  color: #fff;
+  border: none;
+}
+
+.cta-btn.secondary {
+  background: #fff;
+  color: #000;
+  border: 1px solid rgba(198, 198, 198, 0.4);
+}
+
 .cta-btn:active {
   transform: translateY(1px);
+}
+
+.cta-btn.primary:active {
   background: #3b3b3b;
+}
+
+.cta-btn.secondary:active {
+  background: rgba(0, 0, 0, 0.04);
 }
 
 .cta-btn .material-symbols-outlined {

@@ -109,9 +109,9 @@ const navigateTo = inject('navigateTo') as (tab: string, grammar?: GrammarPoint)
         <span class="material-symbols-outlined">school</span>
         Study this grammar
       </button>
-      <button class="action-btn secondary" @click="navigateTo('quiz')">
-        <span class="material-symbols-outlined">quiz</span>
-        Quiz me
+      <button class="action-btn secondary" @click="navigateTo('grammar-exercise', grammar)">
+        <span class="material-symbols-outlined">edit_note</span>
+        Practice this grammar
       </button>
     </div>
   </div>
