@@ -33,3 +33,8 @@ android/app/src/main/assets/public/
 # Agent work artifacts
 agent-output/
 
+
+# Android build artifacts
+android/app/build/
+android/.gradle/
+android/capacitor-cordova-android-plugins/build/
