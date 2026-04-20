@@ -170,7 +170,7 @@ function formatVisitTime(timestamp?: number): string {
           v-for="item in recentGrammar"
           :key="item.id"
           class="recent-card"
-          @click="navigateTo('grammar-exercise', item)"
+          @click="navigateTo('detail', item)"
         >
           <div class="recent-top">
             <span class="recent-level">Level {{ item.level }}</span>
@@ -202,7 +202,7 @@ function formatVisitTime(timestamp?: number): string {
           v-for="item in recommendedGrammar"
           :key="item.id"
           class="grammar-card"
-          @click="navigateTo('grammar-exercise', item)"
+          @click="navigateTo('detail', item)"
         >
           <div class="grammar-top">
             <span class="grammar-category">{{ item.category }}</span>

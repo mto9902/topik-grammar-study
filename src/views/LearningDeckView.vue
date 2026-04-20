@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { computed, inject, onMounted, ref, watch } from 'vue'
+import { computed, inject, nextTick, onBeforeUnmount, onMounted, ref, watch } from 'vue'
 import TtsButton from '../components/TtsButton.vue'
 import grammarData from '../data/grammar.json'
 import grammarDetails from '../data/grammar-details.json'
@@ -10,6 +10,7 @@ import {
   getCachedExercisePack,
   getItem,
   getOrCreateExerciseClientId,
+  setItem,
   setCachedExercisePack,
 } from '../storage'
 import { playClickSound } from '../sound'
@@ -18,6 +19,14 @@ interface FlashcardExample {
   korean: string
   english: string
 }
+
+interface LearningDeckState {
+  levelFilter: 'all' | '1-2' | '3-4' | '5-6'
+  grammarId: number | null
+  showBack: boolean
+}
+
+const LEARNING_DECK_STATE_KEY = 'learning_deck_state_v1'
 
 const navigateTo = inject('navigateTo') as (tab: string, grammar?: GrammarPoint) => void
 
@@ -30,8 +39,12 @@ const levelFilter = ref<'all' | '1-2' | '3-4' | '5-6'>('all')
 const currentIndex = ref(0)
 const showBack = ref(false)
 const booting = ref(true)
+const backFaceRef = ref<HTMLElement | null>(null)
 const swipeStartedAt = ref<{ x: number; y: number } | null>(null)
 const suppressFlipUntil = ref(0)
+const cardChangeLockUntil = ref(0)
+const restoreGrammarId = ref<number | null>(null)
+const restoringDeckState = ref(false)
 
 // ── Drag / swipe animation state ──
 const isDragging = ref(false)
@@ -260,26 +273,40 @@ async function ensurePackLoaded(grammarId: number) {
   }
 }
 
-function flipCard() {
+function flipCard(force = false) {
   if (!currentGrammar.value) return
-  if (Date.now() < suppressFlipUntil.value) return
-  if (didDrag.value) return
+  if (!force && Date.now() < suppressFlipUntil.value) return
+  if (!force && Date.now() < cardChangeLockUntil.value) return
+  if (!force && didDrag.value) return
   playClickSound()
   showBack.value = !showBack.value
+}
+
+function handleCardFlipClick() {
+  flipCard(false)
+}
+
+function handleForcedFlip() {
+  flipCard(true)
+}
+
+function prepareForCardChange() {
+  cardChangeLockUntil.value = Date.now() + 700
+  showBack.value = false
 }
 
 function goPrevCard() {
   if (!hasPrev.value) return
   playClickSound()
+  prepareForCardChange()
   currentIndex.value -= 1
-  showBack.value = false
 }
 
 function goNextCard() {
   if (!hasNext.value) return
   playClickSound()
+  prepareForCardChange()
   currentIndex.value += 1
-  showBack.value = false
 }
 
 function resetToAllLevels() {
@@ -287,21 +314,60 @@ function resetToAllLevels() {
   levelFilter.value = 'all'
 }
 
-function openDetail() {
+async function openDetail() {
   if (!currentGrammar.value) return
   playClickSound()
+  await persistDeckState()
   navigateTo('detail', currentGrammar.value)
 }
 
-function openPractice() {
-  if (!currentGrammar.value) return
+async function openLibrary() {
   playClickSound()
-  navigateTo('grammar-exercise', currentGrammar.value)
+  await persistDeckState()
+  navigateTo('browse')
 }
 
-function openLibrary() {
-  playClickSound()
-  navigateTo('browse')
+async function persistDeckState() {
+  if (booting.value || restoringDeckState.value) return
+
+  await setItem<LearningDeckState>(LEARNING_DECK_STATE_KEY, {
+    levelFilter: levelFilter.value,
+    grammarId: currentGrammar.value?.id || null,
+    showBack: showBack.value,
+  })
+}
+
+function applySavedDeckSelection() {
+  const items = filteredLearningGrammar.value
+
+  if (items.length === 0) {
+    currentIndex.value = 0
+    showBack.value = false
+    restoreGrammarId.value = null
+    restoringDeckState.value = false
+    return
+  }
+
+  if (restoreGrammarId.value !== null) {
+    const restoredIndex = items.findIndex(item => item.id === restoreGrammarId.value)
+    currentIndex.value = restoredIndex >= 0 ? restoredIndex : 0
+    if (restoredIndex < 0) {
+      showBack.value = false
+    }
+    restoreGrammarId.value = null
+    restoringDeckState.value = false
+    return
+  }
+
+  if (currentIndex.value > items.length - 1) {
+    currentIndex.value = 0
+  }
+}
+
+function resetBackScroll() {
+  if (backFaceRef.value) {
+    backFaceRef.value.scrollTop = 0
+  }
 }
 
 // ── Drag helpers ──
@@ -353,9 +419,16 @@ function endDrag(finalDx: number, finalDy: number) {
   swipeStartedAt.value = null
 
   const wasQuickSwipe = Math.abs(finalDx) >= 48 && Math.abs(finalDx) >= Math.abs(finalDy) * 1.2
-  suppressFlipUntil.value = Date.now() + 350
+  const wasMeaningfulDrag = didDrag.value || Math.abs(dragOffset.value) > 24
+
+  if (!wasMeaningfulDrag && Math.abs(finalDx) < 10 && Math.abs(finalDy) < 10) {
+    suppressFlipUntil.value = 0
+    resetDragState()
+    return
+  }
 
   if (Math.abs(dragOffset.value) > 80) {
+    suppressFlipUntil.value = Date.now() + 350
     const direction = dragOffset.value < 0 ? 'left' : 'right'
 
     if (direction === 'left' && hasNext.value) {
@@ -394,11 +467,13 @@ function endDrag(finalDx: number, finalDy: number) {
       flyOutTimer.value = window.setTimeout(() => { withTransition.value = false }, 400)
     }
   } else if (wasQuickSwipe) {
+    suppressFlipUntil.value = Date.now() + 350
     if (finalDx < 0) goNextCard()
     else goPrevCard()
     resetDragState()
   } else {
     // Spring back
+    suppressFlipUntil.value = Date.now() + 180
     withTransition.value = true
     snapBack.value = true
     dragOffset.value = 0
@@ -453,15 +528,8 @@ watch(levelFilter, () => {
 })
 
 watch(filteredLearningGrammar, items => {
-  if (items.length === 0) {
-    currentIndex.value = 0
-    showBack.value = false
-    return
-  }
-
-  if (currentIndex.value > items.length - 1) {
-    currentIndex.value = 0
-  }
+  void items
+  applySavedDeckSelection()
 }, { deep: false })
 
 watch(
@@ -473,11 +541,42 @@ watch(
   { immediate: true },
 )
 
+watch(
+  [levelFilter, () => currentGrammar.value?.id ?? null, showBack],
+  () => {
+    void persistDeckState()
+  },
+)
+
+watch(showBack, isShowingBack => {
+  if (isShowingBack) {
+    void nextTick(resetBackScroll)
+  }
+})
+
+watch(booting, isBooting => {
+  if (!isBooting) {
+    void persistDeckState()
+  }
+})
+
 onMounted(async () => {
   booting.value = true
   studyStates.value = await getItem<Record<number, StudyState>>('study_states_detail') || {}
+  const savedState = await getItem<LearningDeckState>(LEARNING_DECK_STATE_KEY)
+  if (savedState) {
+    restoringDeckState.value = true
+    levelFilter.value = savedState.levelFilter || 'all'
+    restoreGrammarId.value = savedState.grammarId
+    showBack.value = !!savedState.showBack
+  }
+  applySavedDeckSelection()
   clientId.value = await getOrCreateExerciseClientId()
   booting.value = false
+})
+
+onBeforeUnmount(() => {
+  void persistDeckState()
 })
 </script>
 
@@ -526,9 +625,9 @@ onMounted(async () => {
 
     <section v-else class="deck-shell">
       <div class="deck-top">
-        <div>
+        <div class="deck-meta">
           <span class="deck-label">Card {{ currentIndex + 1 }} of {{ filteredLearningGrammar.length }}</span>
-          <h3 class="deck-title">{{ currentGrammar?.grammar }}</h3>
+          <p class="deck-subtitle">Learning deck</p>
         </div>
         <div class="deck-chips">
           <span class="chip">Level {{ currentGrammar?.level }}</span>
@@ -539,14 +638,12 @@ onMounted(async () => {
       <div class="card-stack">
         <!-- Behind card (peeks from underneath) -->
         <div
-          v-if="behindGrammar"
+          v-if="behindGrammar && !showBack"
           class="flashcard behind-card"
           :class="{ 'coming-forward': withTransition && !snapBack }"
         >
-          <div class="flashcard-inner">
-            <div class="flashcard-face front-face">
-              <div class="front-grammar">{{ behindGrammar.grammar }}</div>
-            </div>
+          <div class="flashcard-face front-face">
+            <div class="front-grammar">{{ behindGrammar.grammar }}</div>
           </div>
         </div>
 
@@ -554,7 +651,6 @@ onMounted(async () => {
         <div
           class="flashcard front-card"
           :class="{
-            flipped: showBack,
             dragging: isDragging,
             'with-transition': withTransition,
             'snap-back': snapBack,
@@ -562,9 +658,9 @@ onMounted(async () => {
           :style="cardStyle"
           role="button"
           tabindex="0"
-          @click="flipCard"
-          @keydown.enter.prevent="flipCard"
-          @keydown.space.prevent="flipCard"
+          @click="handleCardFlipClick"
+          @keydown.enter.prevent="handleForcedFlip"
+          @keydown.space.prevent="handleForcedFlip"
           @touchstart.passive="handleCardTouchStart"
           @touchmove="handleCardTouchMove"
           @touchend.passive="handleCardTouchEnd"
@@ -574,52 +670,51 @@ onMounted(async () => {
           @mouseup="handleCardMouseUp"
           @mouseleave="handleCardMouseUp"
         >
-          <div class="flashcard-inner">
-            <div class="flashcard-face front-face">
-              <span class="face-label">Front</span>
-              <div class="front-grammar">{{ currentGrammar?.grammar }}</div>
-              <p class="front-hint">Tap to reveal. Swipe left / right to change cards.</p>
+          <div v-if="!showBack" class="flashcard-face front-face">
+            <span class="face-label">Front</span>
+            <div class="front-grammar">{{ currentGrammar?.grammar }}</div>
+            <p class="front-hint">Tap to reveal. Swipe left / right to change cards.</p>
+          </div>
+
+          <div v-else ref="backFaceRef" class="flashcard-face back-face">
+            <div class="back-block">
+              <span class="face-label">Quick explanation</span>
+              <h4 class="back-grammar">{{ currentGrammar?.grammar }}</h4>
+              <p class="back-meaning">{{ currentGrammar?.meaning }}</p>
+              <p class="summary-copy">{{ currentSummary }}</p>
             </div>
 
-            <div class="flashcard-face back-face">
-              <div class="back-block">
-                <span class="face-label">Quick explanation</span>
-                <h4 class="back-grammar">{{ currentGrammar?.grammar }}</h4>
-                <p class="summary-copy">{{ currentSummary }}</p>
+            <div class="back-block">
+              <div class="examples-head">
+                <span class="face-label">Examples</span>
+                <span v-if="usingFallbackExamples && currentPackLoading" class="examples-note">
+                  Loading fresher sentences...
+                </span>
               </div>
 
-              <div class="back-block">
-                <div class="examples-head">
-                  <span class="face-label">Examples</span>
-                  <span v-if="usingFallbackExamples && currentPackLoading" class="examples-note">
-                    Loading fresher sentences...
-                  </span>
-                </div>
-
-                <div v-if="currentExamples.length" class="example-list">
-                  <article
-                    v-for="(example, index) in currentExamples"
-                    :key="`${currentGrammar?.id}-${index}`"
-                    class="example-card"
-                  >
-                    <div class="sentence-row">
-                      <p class="example-korean">{{ example.korean }}</p>
-                      <TtsButton :text="example.korean" label="example sentence" />
-                    </div>
-                    <p class="example-english">{{ example.english }}</p>
-                  </article>
-                </div>
-
-                <p v-else-if="currentPackLoading" class="support-copy">
-                  Loading example sentences...
-                </p>
-                <p v-else-if="currentPackError" class="support-copy">
-                  {{ currentPackError }}
-                </p>
-                <p v-else class="support-copy">
-                  No examples are ready for this grammar yet.
-                </p>
+              <div v-if="currentExamples.length" class="example-list">
+                <article
+                  v-for="(example, index) in currentExamples"
+                  :key="`${currentGrammar?.id}-${index}`"
+                  class="example-card"
+                >
+                  <div class="sentence-row">
+                    <p class="example-korean">{{ example.korean }}</p>
+                    <TtsButton :text="example.korean" label="example sentence" />
+                  </div>
+                  <p class="example-english">{{ example.english }}</p>
+                </article>
               </div>
+
+              <p v-else-if="currentPackLoading" class="support-copy">
+                Loading example sentences...
+              </p>
+              <p v-else-if="currentPackError" class="support-copy">
+                {{ currentPackError }}
+              </p>
+              <p v-else class="support-copy">
+                No examples are ready for this grammar yet.
+              </p>
             </div>
           </div>
         </div>
@@ -629,7 +724,7 @@ onMounted(async () => {
         <button type="button" class="action-btn" :disabled="!hasPrev" @click="goPrevCard">
           Prev
         </button>
-        <button type="button" class="action-btn emphasis" @click="flipCard">
+        <button type="button" class="action-btn emphasis" @click="handleForcedFlip">
           {{ showBack ? 'Front' : 'Flip' }}
         </button>
         <button type="button" class="action-btn" :disabled="!hasNext" @click="goNextCard">
@@ -638,11 +733,8 @@ onMounted(async () => {
       </div>
 
       <div class="secondary-actions">
-        <button type="button" class="secondary-btn" @click="openDetail">
-          Detail
-        </button>
-        <button type="button" class="primary-btn" @click="openPractice">
-          Practice
+        <button type="button" class="primary-btn" @click="openDetail">
+          Open Detail
         </button>
       </div>
     </section>
@@ -749,7 +841,6 @@ onMounted(async () => {
   gap: 14px;
 }
 
-.deck-title,
 .back-grammar {
   margin: 6px 0 0;
   font-size: clamp(1.35rem, 6vw, 2rem);
@@ -757,6 +848,25 @@ onMounted(async () => {
   color: #000;
   font-family: 'Noto Sans KR', sans-serif;
   overflow-wrap: anywhere;
+}
+
+.deck-meta {
+  min-height: 42px;
+}
+
+.deck-subtitle {
+  margin: 6px 0 0;
+  font-size: 0.95rem;
+  line-height: 1.35;
+  color: #474747;
+}
+
+.back-meaning {
+  margin: 0;
+  font-size: 0.95rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #2f2720;
 }
 
 .deck-chips {
@@ -784,8 +894,9 @@ onMounted(async () => {
 
 /* ── Card stack ── */
 .card-stack {
+  --front-card-height: 400px;
   position: relative;
-  min-height: 380px;
+  min-height: var(--front-card-height);
 }
 
 /* ── Behind card ── */
@@ -794,6 +905,7 @@ onMounted(async () => {
   top: 0;
   left: 0;
   width: 100%;
+  min-height: var(--front-card-height);
   z-index: 1;
   transform: scale(0.92);
   opacity: 0.55;
@@ -811,6 +923,7 @@ onMounted(async () => {
   position: relative;
   z-index: 2;
   width: 100%;
+  min-height: var(--front-card-height);
   border: none;
   border-radius: 24px;
   background: #fff;
@@ -842,40 +955,19 @@ onMounted(async () => {
   transition: transform 0.45s cubic-bezier(0.34, 1.56, 0.64, 1), opacity 0.28s ease;
 }
 
-.flashcard-inner {
-  display: grid;
-  transition: transform 0.45s cubic-bezier(0.4, 0, 0.2, 1);
-  transform-style: preserve-3d;
-}
-
-.flashcard.front-card.flipped .flashcard-inner {
-  transform: rotateY(180deg);
-}
-
 .flashcard-face {
-  grid-area: 1 / 1;
   display: flex;
   flex-direction: column;
   gap: 18px;
-  min-height: 380px;
   padding: 22px 20px;
-  backface-visibility: hidden;
-  -webkit-backface-visibility: hidden;
   border-radius: 24px;
 }
 
 .front-face {
+  min-height: var(--front-card-height);
   align-items: center;
   justify-content: center;
   text-align: center;
-}
-
-.flashcard.front-card:not(.flipped) .back-face {
-  pointer-events: none;
-}
-
-.flashcard.front-card.flipped .front-face {
-  pointer-events: none;
 }
 
 .front-grammar {
@@ -894,8 +986,7 @@ onMounted(async () => {
 }
 
 .back-face {
-  justify-content: space-between;
-  transform: rotateY(180deg);
+  justify-content: flex-start;
 }
 
 .back-block {
@@ -996,18 +1087,17 @@ onMounted(async () => {
 }
 
 @media (max-width: 360px) {
+  .card-stack {
+    --front-card-height: 372px;
+  }
+
   .filter-card,
   .state-card,
   .deck-shell {
     padding: 16px 14px;
   }
 
-  .card-stack {
-    min-height: 352px;
-  }
-
   .flashcard-face {
-    min-height: 352px;
     padding: 18px 14px;
     gap: 16px;
   }
@@ -1033,6 +1123,10 @@ onMounted(async () => {
 }
 
 @media (max-width: 320px) {
+  .card-stack {
+    --front-card-height: 348px;
+  }
+
   .deck-top {
     align-items: flex-start;
   }
@@ -1041,12 +1135,7 @@ onMounted(async () => {
     justify-content: flex-start;
   }
 
-  .card-stack {
-    min-height: 336px;
-  }
-
   .flashcard-face {
-    min-height: 336px;
     padding: 16px 12px;
   }
 
@@ -1054,11 +1143,11 @@ onMounted(async () => {
     font-size: clamp(1.75rem, 10vw, 2.3rem);
   }
 
-  .deck-title,
   .back-grammar {
     font-size: 1.2rem;
   }
 
+  .back-meaning,
   .summary-copy,
   .support-copy,
   .state-card p,

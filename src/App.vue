@@ -4,20 +4,18 @@ import { App as CapacitorApp } from '@capacitor/app'
 import BrowseView from './views/BrowseView.vue'
 import DetailView from './views/DetailView.vue'
 import GrammarStatusView from './views/GrammarStatusView.vue'
-import GrammarExerciseView from './views/GrammarExerciseView.vue'
+
 import LearningDeckView from './views/LearningDeckView.vue'
 import PracticeHubView from './views/PracticeHubView.vue'
-import StudyView from './views/StudyView.vue'
 import StatsView from './views/StatsView.vue'
 import type { GrammarPoint } from './types/grammar'
 import { initGlobalClickSound } from './sound'
 
 const tabs = [
   { key: 'browse', label: 'Library', icon: 'menu_book' },
-  { key: 'study', label: 'Path', icon: 'architecture' },
   { key: 'cards', label: 'Deck', icon: 'style' },
   { key: 'quiz', label: 'Studio', icon: 'edit_note' },
-  { key: 'stats', label: 'Archive', icon: 'inventory_2' },
+  { key: 'stats', label: 'Profile', icon: 'account_circle' },
 ]
 
 const activeTab = ref('browse')
@@ -64,8 +62,7 @@ const currentView = computed(() => {
     case 'browse': return BrowseView
     case 'detail': return DetailView
     case 'grammar-status': return GrammarStatusView
-    case 'grammar-exercise': return GrammarExerciseView
-    case 'study': return StudyView
+    case 'grammar-exercise': return DetailView
     case 'cards': return LearningDeckView
     case 'quiz': return PracticeHubView
     case 'stats': return StatsView

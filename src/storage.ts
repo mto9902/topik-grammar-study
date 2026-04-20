@@ -21,6 +21,12 @@ export async function removeItem(key: string): Promise<void> {
   await Preferences.remove({ key: PREFIX + key });
 }
 
+export async function resetAllProgress(): Promise<void> {
+  const { keys } = await Preferences.keys()
+  const topikKeys = keys.filter(key => key.startsWith(PREFIX))
+  await Promise.all(topikKeys.map(key => Preferences.remove({ key })))
+}
+
 // Cloze practice tracking
 export interface ClozePracticeRecord {
   grammarId: number
